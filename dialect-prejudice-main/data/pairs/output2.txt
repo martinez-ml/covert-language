@@ -1,0 +1,3000 @@
+مرحبًا.	Hi.
+اركض!	Run!
+اخفض رأسك!	Duck!
+اخفضي رأسك!	Duck!
+اخفضوا رؤوسكم!	Duck!
+النجدة!	Help!
+اقفز!	Jump!
+قف!	Stop!
+توقف !	Stop!
+إنتظر	Wait!
+داوم.	Go on.
+استمر.	Go on.
+مرحباً.	Hello!
+أهلاً.	Hello.
+مرحباً.	Hello.
+تعجّل!	Hurry!
+استعجل!	Hurry!
+انا اري	I see.
+أنا فُزت!	I won!
+استرح.	Relax.
+ابتسم.	Smile.
+في صحتك.	Cheers!
+هل فهمت؟	Got it?
+ركض.	He ran.
+أعرف.	I know.
+أعلم ذلك.	I know.
+أنا أعلم	I know.
+أنا في 19	I'm 19.
+أنا بخير.	I'm OK.
+استمع	Listen.
+غير معقول!	No way!
+حقاً؟	Really?
+شكراً!	Thanks!
+شكرا.	Thanks.
+لماذا أنا؟	Why me?
+رائع!	Awesome!
+خذ راحتك.	Be cool.
+أغرب عن وجهي	Beat it.
+هاتفني.	Call me.
+اتصل بي.	Call me.
+تفضل بالدخول.	Come in.
+تعال إلى الداخل	Come in.
+بالله عليك!	Come on!
+هيا	Come on!
+هيّا	Come on!
+اخرج من هنا!	Get out!
+أُخرج!	Get out!
+اخرج!	Get out.
+اتركني و شأني.	Go away.
+اذهب بعيداً.	Go away.
+ارحل.	Go away.
+مع السلامة.	Goodbye!
+إلى اللقاء	Goodbye!
+إنتظر	Hang on.
+لقد أتى.	He came.
+هو يجري	He runs.
+ساعدني!	Help me!
+النجدة! ساعدني!	Help me.
+ساعدوني	Help me.
+انتظر.	Hold on.
+أنا موافق	I agree.
+أنا حزين.	I'm sad.
+أنا أيضاً.	Me, too.
+أنا كذلك	Me, too.
+اخرس!	Shut up!
+اصمت!	Shut up!
+اسكت!	Shut up!
+أغلق فمك!	Shut up!
+أوقفه	Stop it.
+خذه	Take it.
+أخبرني	Tell me.
+توم فاز.	Tom won.
+لقد ربح توم.	Tom won.
+استيقظ!	Wake up!
+أهلاً و سهلاً!	Welcome.
+مرحباً بك!	Welcome.
+اهلا وسهلا	Welcome.
+مرحبا!	Welcome.
+من فاز؟	Who won?
+من الذي ربح؟	Who won?
+لم لا؟	Why not?
+لما لا؟	Why not?
+استمتع بوقتك.	Have fun.
+أسرعا.	Hurry up.
+لقد نسيت.	I forgot.
+فهمتُهُ.	I got it.
+فهمتُها.	I got it.
+فَهمتُ ذلك.	I got it.
+أستخدمه.	I use it.
+سأدفع أنا.	I'll pay.
+أنا مشغول.	I'm busy.
+إنني مشغول.	I'm busy.
+أشعر بالبرد.	I'm cold.
+أنا حُرّ.	I'm free.
+أنا هنا	I'm here.
+لقد عدت إلى البيت	I'm home.
+أنا فقير.	I'm poor.
+أنا ثري.	I'm rich.
+هذا مؤلم	It hurts.
+هي تمشي.	It works.
+انها جافه	It's dry.
+الجو حار	It's hot.
+إنه جديد	It's new.
+هيا بنا!	Let's go!
+هيا لنذهب!	Let's go!
+لنذهب.	Let's go!
+هيا بنا.	Let's go.
+هيا بنا نذهب.	Let's go.
+اِنتبه!	Look out!
+إحذر!	Look out!
+انتبه	Look out!
+تكلم!	Speak up!
+قف!	Stand up!
+رائع!	Terrific!
+ممتاز!	Terrific!
+توم مات.	Tom died.
+توفي توم.	Tom died.
+لقد غادر توم.	Tom left.
+لقد كذِبَ توم.	Tom lied.
+لقد خَسِرَ توم.	Tom lost.
+توم استقال.	Tom quit.
+استقال توم	Tom quit.
+هاك، جرب.	Try some.
+من أنا؟	Who am I?
+من مات؟	Who died?
+من توفي؟	Who died?
+من بعدك	After you.
+العصافير تطير.	Birds fly.
+تحلق الطيور.	Birds fly.
+يُباركك.	Bless you.
+اِهدأ.	Calm down.
+هل نستطيع أن نذهب؟	Can we go?
+تعال هنا.	Come here.
+تعال إلى هنا.	Come here.
+اقتربي.	Come here.
+تعال إلى منزلي.	Come home.
+هل أنا فُزت؟	Did I win?
+افعل ذلك الآن.	Do it now.
+إياك و الكذب.	Don't lie.
+عفواً.	Excuse me.
+أعذرني	Excuse me.
+رائع!	Fantastic!
+انسَ الأمر.	Forget it!
+انسَ ذلك	Forget it!
+انسَ الأمر.	Forget it.
+انسَ ذلك	Forget it.
+انسني.	Forget me.
+أُدخُلْ.	Go inside.
+اذهب إلى النوم	Go to bed.
+بالتوفيق.	Good luck.
+ليلة سعيدة.	Goodnight.
+مساء الخير	Goodnight.
+لا تلمسني.	Hands off.
+إنه مريض.	He is ill.
+هو مريض	He is ill.
+كيف توم؟	How's Tom?
+كيف حال توم؟	How's Tom?
+أشعر بالبرد.	I am cold.
+أنا هنا	I am here.
+أنا بخير.	I am okay.
+أنا متأكد.	I am sure.
+آمل ذلك.	I hope so.
+ضحكت.	I laughed.
+هذا يعجبني.	I like it.
+أنا أحبه.	I love it.
+أنا أرى توم	I see Tom.
+أنا ولد.	I'm a boy.
+أنا ولد.	I'm a kid.
+أنا رجلٌ.	I'm a man.
+أنا لوحدي.	I'm alone.
+مللت.	I'm bored.
+لقد كُسِرت	I'm broke.
+أنا سعيد	I'm happy.
+انا محظوظ.	I'm lucky.
+أنا مسكين.	I'm needy.
+أنا مستعد.	I'm ready.
+أنا مستعدة.	I'm ready.
+أنا آسف.	I'm sorry.
+أنا متأسف.	I'm sorry.
+أتأسف.	I'm sorry.
+أنا آسف	I'm sorry.
+أنا متعب.	I'm tired.
+هل هذا جديد؟	Is it new?
+الجو بارد.	It's cold.
+إنها ساعة متأخرة.	It's late.
+دَعني أذهب.	Let me go.
+اسمع	Listen up.
+انظر خلفك!	Look back!
+طبعاً!	Of course!
+بالطبع.	Of course.
+طبعاً.	Of course.
+بالتأكيد.	Of course.
+طبعاً!	Of course.
+المعذرة؟	Pardon me?
+أأنت جاد؟	Seriously?
+هي تمشي.	She walks.
+ابتعد عني	Stay away.
+حافظي على جسم نحيف.	Stay thin.
+إبقي نحيفة.	Stay thin.
+حافظ على نحافتك.	Stay thin.
+أوقف ذلك.	Stop that!
+أوقف ذلك.	Stop that.
+أوقفهم.	Stop them.
+انتبه!	Take care!
+مع السلامة.	Take care.
+اعتن بنفسك.	Take care.
+اعتني بنفسك	Take care.
+شكراً لك	Thank you.
+ثم ماذا؟	Then what?
+ماذا بعد ذلك؟	Then what?
+لقد تحرك توم.	Tom moved.
+لَوَحَ توم.	Tom waved.
+انتبه	Watch out!
+نشعر بالحرارة	We're hot.
+جيد	Well done!
+ما الجديد؟	What's up?
+من يهمّه؟	Who cares?
+مَن؟	Who is it?
+من يدري؟	Who knows?
+من يعلم؟	Who knows?
+مذهل.	Wonderful!
+ممتاز!	Wonderful!
+يا أحمق!	You idiot!
+يا غبي!	You idiot!
+لقد حاولت وسعك.	You tried.
+ليركب الجميع.	All aboard!
+ليركب الكل.	All aboard!
+هل هذا واضح؟	Am I clear?
+هل أنا مخطئ؟	Am I wrong?
+كن حذرا.	Be careful.
+كُن جدياً.	Be serious.
+العصافير تغرّد	Birds sing.
+الى القاع .	Bottoms up!
+برشفة واحدة .	Bottoms up!
+أحضر الطعام.	Bring food.
+أحضِر المُساعدة.	Bring help.
+أحضر الخمر.	Bring wine.
+أحضر النبيذ.	Bring wine.
+هل أستطيع أن أبقى؟	Can I stay?
+احمل هذا.	Carry this.
+إفحص ذلك.	Check that.
+إفحص هذا.	Check this.
+تعالَ مُجدداً.	Come again.
+تعالَ وحدك.	Come alone.
+تعالَ بمفردك.	Come alone.
+تعال معنا.	Come along.
+هيا ادخل	Come on in!
+هيا ادخل	Come on in.
+تعال بسرعة.	Come quick!
+تعال إلي	Come to me.
+بالتأكيد	Definitely!
+قطعاً	Definitely!
+لا تتحرك.	Don't move.
+املئها.	Fill it up.
+إبحث عن عمل	Find a job.
+اتبعه.	Follow him.
+اذهب إلى العمل	Go to work.
+ليلة سعيدة.	Good night.
+كن مؤمنا.	Have faith.
+إنه لطيف.	He is nice.
+إنه مريض.	He is sick.
+هو سعيد	He's happy.
+هو ذكي.	He's smart.
+إنه ذكي.	He's smart.
+ها هو هنا	Here he is!
+ها هي.	Here it is.
+أنا ولد.	I am a boy.
+أنا ذاهب.	I am going.
+أنا سعيد	I am happy.
+يمكنني القفز.	I can jump.
+أستطيع القفز.	I can jump.
+يمكنني أن أقفز.	I can jump.
+يمكنني السباحة.	I can swim.
+بإمكاني أن أسبح.	I can swim.
+فعلت هذا	I did that.
+سآكل هنا.	I eat here.
+أنا أحسدها.	I envy her.
+شعرت بالحزن.	I felt sad.
+أنا أسمعك.	I hear you.
+أعرِفها.	I know her.
+أنا أعرفها	I know her.
+أعرفه.	I know him.
+أنا أعرفه	I know him.
+أحبك.	I like you.
+تعجبني.	I like you.
+أحبها.	I love her.
+أنا أحبها	I love her.
+أنا أحبك.	I love you.
+أحبك.	I love you.
+احبك.	I love you.
+انا احبك	I love you.
+أنا أحبك	I love you.
+قصدت ذلك.	I meant it.
+أشتاق إليه.	I miss him.
+اشتقت إليك.	I miss you.
+افتقدتك.	I miss you.
+أحتاج إليك.	I need you.
+أحتاجك.	I need you.
+استقلت.	I resigned.
+لقد رأيت ذلك	I saw that.
+أعتقد ذلك.	I think so.
+أظن ذلك.	I think so.
+أريدك.	I want you.
+أنا بخير الآن.	I'm OK now.
+أنا بطل.	I'm a hero.
+سآتي.	I'm coming.
+أنا آتٍ	I'm coming.
+أشعر بالجوع.	I'm hungry!
+لست على ما يرام.	I'm not OK.
+أنا نعسان!	I'm sleepy!
+أنا بدين جداً.	I'm so fat.
+أنا شديد البدانة.	I'm so fat.
+أنا سمين جدا.	I'm so fat.
+لست متأكّدا.	I'm unsure.
+هل هذا هو الحب؟	Is it love?
+الحساب عليّ.	It's on me.
+دَع توم يذهب.	Let Tom go.
+دعه يذهب!	Let him go!
+دعني أخرُج!	Let me out!
+انظر مرة أخرى	Look again.
+انظر إليّ.	Look at me.
+انظر إلي	Look at me.
+الحب يؤلم.	Love hurts.
+لا عليك!	Never mind!
+لا داعي للقلق	Never mind!
+لا مشكلة!	No problem!
+مرة أخرى.	Once again.
+مجدداً.	Once again.
+كلمني!	Talk to me!
+هذا يؤلم.	That hurts.
+ذاك مبلل.	That's wet.
+توم كبير	Tom is big.
+توم إبتسم.	Tom smiled.
+توم تثاءب.	Tom yawned.
+توم مات.	Tom's died.
+توم هنا	Tom's here.
+نحن رجال.	We are men.
+إننا رجال.	We are men.
+إننا صبية.	We're boys.
+لقد تأخرنا.	We're late.
+ما الأمر؟	What gives?
+ما الجديد؟	What's new?
+علومك؟	What's new?
+الخشب يحترق.	Wood burns.
+يمكنك الذهاب.	You may go.
+هل أصيب اي احد	Anyone hurt?
+هل أنت غاضب؟	Are you mad?
+هل أنتِ حزينة؟	Are you sad?
+كُن مُبدِعاً.	Be creative.
+كُن خلاقاً.	Be creative.
+كُن حَذِراً.	Be discreet.
+كُن ودوداً.	Be friendly.
+كُن رحيماً.	Be merciful.
+كُن مُستعداً.	Be prepared.
+كن مستعداً	Be prepared.
+كونوا مستعدين	Be prepared.
+كُن عديم الرحمة.	Be ruthless.
+كُن معقول.	Be sensible.
+كُن محدداً.	Be specific.
+كُن مُتسامحاً.	Be tolerant.
+توخى الحذر.	Be vigilant.
+كن مؤدبًا.	Behave well.
+تصرف بأدب	Behave well.
+نادني أبي.	Call me dad.
+راجع مُجدداً.	Check again.
+إفحص مُجدداً.	Check again.
+تحقق مجدداً.	Check again.
+إقتَرِب.	Come closer.
+تعال لتأخذنا.	Come get us.
+تعالَ بالداخل.	Come inside.
+أدخل	Come inside.
+تفضل بالدخول	Come inside.
+إتصل بتوم.	Contact Tom.
+هل مات توم؟	Did Tom die?
+افعل كما أقول	Do as I say.
+لا تُجادِل.	Don't argue.
+لا تَغِش.	Don't cheat.
+لا تفعل ذلك!	Don't do it!
+لا تقلق.	Don't worry.
+لا عليك.	Don't worry.
+قف في الدور.	Get in line.
+إذهب وابحث عن طوم.	Go find Tom.
+اذهب مستقيم	Go straight.
+استرح.	Have a seat.
+بإمكانه المجيء	He can come.
+إنه وحيد.	He is alone.
+إنه وحده.	He is alone.
+هو سعيد	He is happy.
+إنه قوي.	He's strong.
+مرحبا مجددا	Hello again.
+ها نحن ذا	Here we are!
+ها قد وصلنا.	Here we are.
+ها نحن هنا	Here we are.
+كيف حالك؟	How are you?
+كيفَ حالك؟	How are you?
+كيفَ حالِك؟	How are you?
+ذهبت أيضاً.	I also went.
+أنا آتٍ.	I am coming.
+أنا آتٍ	I am coming.
+أنا أعتذر	I apologize.
+حفرت حفرة.	I dug a pit.
+أشعر بالبرد.	I feel cold.
+أكره الحليب.	I hate milk.
+أحب موسيقى الجاز.	I like jazz.
+أحب الرز	I like rice.
+أعيش هنا.	I live here.
+أنا أسكن هنا	I live here.
+أعشق موسيقى الروك.	I love rock.
+عليّ الاختباء.	I must hide.
+أحتاج وقتا.	I need time.
+قلت ذلك.	I said that.
+أثق بك.	I trust you.
+أنا أثق فيك.	I trust you.
+أنا أثق بك.	I trust you.
+أريد المزيد	I want more.
+كنت مخطئاً.	I was wrong.
+سأحضر.	I'll attend.
+سأقرر.	I'll decide.
+أنا خباز	I'm a baker.
+أنا ولد.	I'm a child.
+أنا امرأةٌ.	I'm a woman.
+إني في المنزل.	I'm at home.
+أنا في البيت.	I'm at home.
+أنا في البيت	I'm at home.
+أنا متزوج.	I'm married.
+أنا أقرأ	I'm reading.
+أنا جاد.	I'm serious.
+أنا لا أمزح.	I'm serious.
+أنا عطشان.	I'm thirsty.
+أنا عطش.	I'm thirsty.
+أنا أشعر بالعطش.	I'm thirsty.
+هل توم هنا؟	Is Tom here?
+هل الجو ممطر؟	Is it rainy?
+هل الجو عاصف؟	Is it windy?
+أهذا كل شيء؟	Is that all?
+لا يمكن أن يحصل ذلك!	It can't be!
+من الممكن أن تمطر.	It may rain.
+ربما ستمطر.	It may rain.
+قد ينزل الثلج	It may snow.
+الوقت كان متأخرا.	It was late.
+اليوم الإثنين.	It's Monday.
+إنه يوم الاثنين	It's Monday.
+إن ذلك عملي.	It's my job.
+هذا واجبي.	It's my job.
+لنبدأ.	Let's begin.
+لنحتفل!	Let's party.
+دعونا ننقسم.	Let's split.
+دعنا ننقسم.	Let's split.
+دعينا ننقسم.	Let's split.
+لنبدأ.	Let's start!
+انظر إليه	Look at him.
+شكراً جزيلاً.	Many thanks.
+شكراً جزيلاً!	Many thanks.
+لم يأتي أحد.	No one came.
+لم يأتي أحد.	Nobody came.
+حسناً. أنا موافق.	OK. I agree.
+من فضلك تعال.	Please come.
+تعال من فضلك	Please come.
+ضعها أرضاً.	Put it down.
+سجّل هذا.	Record this.
+هي سعيدة	She's happy.
+ألق نظر.	Take a look.
+استرِح.	Take a rest.
+هكذا هي الحياة.	That's life.
+التلفاز مفتوح.	The TV's on.
+قطب توم حاجبيه.	Tom frowned.
+توم هنا	Tom is here.
+توقف توم.	Tom stopped.
+توم سعيد	Tom's happy.
+انتظرني.	Wait for me.
+نحن نعرفه	We know him.
+نحن سعداء	We're happy.
+يا له من فريق!	What a team!
+ما الجديد؟	What is new?
+ما ذلك؟	What's that?
+ما هذا؟	What's this?
+أين توم؟	Where's Tom?
+من أنت؟	Who are you?
+من أنتِ؟	Who are you?
+من رسم ذلك؟	Who drew it?
+من رسمها؟	Who drew it?
+من هناك؟	Who's there?
+هل ستذهب؟	Will you go?
+نعم أنا أعلم	Yes, I know.
+عليك أن تذهب.	You must go.
+عليك الرحيل.	You must go.
+عليك الذهاب.	You must go.
+يتوجّب عليك الذهاب.	You must go.
+أنت هنا	You're here.
+أنت غني	You're rich.
+أاصيب اي احد؟	Anybody hurt?
+هل من جديد؟	Anything new?
+هل أنت متأكد؟	Are you sure?
+أأنت متأكد من ذلك؟	Are you sure?
+أحضر النُسخة الإحتياطية.	Bring backup.
+أدخله.	Bring him in.
+هل يمكنك القدوم؟	Can you come?
+أيمكنك المجيء؟	Can you come?
+هل بإمكانك السباحة؟	Can you swim?
+هل بإمكانك الكلام؟	Can you talk?
+تحقق حولها.	Check around.
+تعالَ إلى الأمام.	Come forward.
+تَقَدَم.	Come forward.
+تعالَ بسرعة!	Come quickly!
+تعال معي.	Come with me.
+تعال معنا.	Come with us.
+هدّء من روعك.	Cool it down.
+هل اتصلت؟	Did you call?
+هل تدخن؟	Do you smoke?
+قد بحذر.	Drive safely.
+سُق بحذر	Drive safely.
+جلس الجميع.	Everyone sat.
+لا تخف من أي شيء	Fear nothing.
+إطمئن	Fear nothing.
+اعثر علي القطه	Find the cat.
+سمك من فضلك.	Fish, please.
+مساء الخير.	Good evening.
+صباح الخير	Good morning.
+أمسك يدي.	Grab my hand.
+غضب.	He got angry.
+إنه يملك سيارة.	He has a car.
+لديه سيارة.	He has a car.
+لديه سيارة	He has a car.
+لديه كلب .	He has a dog.
+إنه يأكل.	He is eating.
+هو تركني أذهب.	He let me go.
+هو تركنا نذهب.	He let us go.
+إنه يحبها.	He loves her.
+يحبها.	He loves her.
+هو يحبها	He loves her.
+لقد سخر منّي.	He mocked me.
+كان شجاعاً.	He was brave.
+كم هذا مزعج!	How annoying!
+أنا صيني	I am Chinese.
+إني في المنزل.	I am at home.
+أنا في البيت.	I am at home.
+أنا في البيت	I am at home.
+أود أن أعرف.	I am curious.
+أكلت الكافيار.	I ate caviar.
+اكلت كافيار.	I ate caviar.
+لا أستطيع الكلام.	I can't talk.
+اتّصلت ب‍ 911.	I dialed 911.
+آمُلُ ذلك.	I do hope so.
+لا أهتم.	I don't care.
+الأمر لا يعنيني.	I don't care.
+لا آبه	I don't care.
+لا أعرف‏.‏‏	I don't know.
+لا أعرف.	I don't know.
+لا أعلم.	I don't know.
+لا أدري.	I don't know.
+لا اعرف.	I don't know.
+لا أعلم	I don't know.
+أشعر بالحكة.	I feel itchy.
+أشعر بالإرهاق.	I feel tired.
+كانت لدي شكوك.	I had doubts.
+أملك سيارةً.	I have a car.
+لدي سيارة	I have a car.
+لدي قلم.	I have a pen.
+عندي قلم.	I have a pen.
+يجب أن أذهب.	I have to go.
+احتضنتها.	I hugged her.
+احب البنات	I like girls.
+أحب الرحلات.	I love trips.
+لقد أعددت هلاما.	I made jello.
+نمت متأخّرا.	I slept late.
+أنا أفهم	I understand.
+كنت غائبا.	I was absent.
+كنت جائعاً.	I was hungry.
+لن أخسر!	I won't lose!
+لن أُهزم!	I won't lose!
+سوف أسأله	I'll ask him.
+سأقاضيك.	I'll sue you.
+أنا أمّ.	I'm a mother.
+أنا مشغول الأن.	I'm busy now.
+أنا مشغولة الأن.	I'm busy now.
+انا محتار.	I'm confused.
+أنا متفرغ الآن	I'm free now.
+أشعر بالبرد.	I'm freezing.
+أنا جديد هنا	I'm new here.
+لست مشغولاً.	I'm not busy.
+أنا مشغول.	I'm not free.
+لست نحيفا.	I'm not thin.
+أنا حامل.	I'm pregnant.
+أنا سعيد جداً.	I'm so happy.
+أفكر.	I'm thinking.
+أستخدمه.	I'm using it.
+الحديد صلب.	Iron is hard.
+هل توم سعيد؟	Is Tom happy?
+هل هذا هو الحب؟	Is this love?
+ليست جديدة.	It isn't new.
+إنه المساء	It was night.
+حان وقت النوم.	It's bedtime.
+إنها تمطر.	It's raining.
+إنه مظلم جداً.	It's so dark.
+هل توم كبير؟	It's too big.
+إنه ساخن جداً.	It's too hot.
+إنها ساخنة جداً.	It's too hot.
+الجو حار جداً.	It's too hot.
+إن الطقس حار للغاية.	It's too hot.
+إنها حارة جداً	It's too hot.
+الجو حار جدا	It's too hot.
+الجو حار جداً	It's too hot.
+السيدات أولاً.	Ladies first.
+دعني أفعلها	Let me do it.
+استمع إلي	Listen to me.
+استمع الي	Listen to me.
+أُنظر إلى هذا!	Look at that!
+أُنظر إلى هذا.	Look at this.
+دخلت ماري.	Mary came in.
+أتت ماري	Mary came in.
+ذِراعي يُؤْلِمُني	My arm hurts.
+عيناي تؤلمانني.	My eyes hurt.
+أقدامي تؤلمني.	My feet hurt.
+لا أحد يعلم.	No one knows.
+لا أحد يعلم	No one knows.
+العب معي.	Play with me.
+إذاً أراك لاحقاً.	See you then.
+عار عليك!	Shame on you!
+هي سعيدة	She is happy.
+ربما ستأتي.	She may come.
+ابق في البيت.	Stay at home.
+كف عن التحديق.	Stop gawking.
+كف عن التحديق.	Stop staring.
+توقف عن الكلام	Stop talking.
+أوقف السيارة	Stop the car.
+توقف عن الصراخ!	Stop yelling!
+توقفي عن الصراخ!	Stop yelling!
+كف عن الصراخ!	Stop yelling!
+أحلاماً سعيدة!	Sweet dreams!
+على رِسْلِك.	Take it easy.
+لا تحمل هماً.	Take it easy.
+أخبرنا أكثر	Tell us more.
+شكرا مرة أخرى	Thanks again.
+كان ذلك ممتعًا.	That was fun.
+هذا عظيم!	That's great!
+هذه لنا	This is ours.
+إن ذلك صحيح.	This is true.
+توم لديه أطفال.	Tom has kids.
+توم سعيد	Tom is happy.
+نجا توم.	Tom survived.
+إن توم شديد.	Tom's strict.
+حاول مرة أخرى.	Try it again.
+حاول مجدداً.	Try it again.
+شيء لا يُصدق!	Unbelievable!
+نحن عرب.	We are Arabs.
+نحن مسرورون.	We are happy.
+إنا سعداء.	We are happy.
+نحن سعداء	We are happy.
+نحن نحتاج إلى مساعدة	We need help.
+نحن نحتاج إلي المطر.	We need rain.
+نجحنا.	We succeeded.
+نريد لحما.	We want meat.
+نحن في حرب.	We're at war.
+نحن آتون.	We're coming.
+نحن آتون	We're coming.
+مرحباً بك في المنزل.	Welcome home.
+ما المشكلة؟	What's wrong?
+ما الخطب؟	What's wrong?
+أين نحن؟	Where are we?
+أين توم؟	Where is Tom?
+لم الإستسلام الآن؟	Why quit now?
+ألن تذهب؟	Won't you go?
+إنّك غنيّ.	You are rich.
+أنت غنيّ.	You are rich.
+أنت غني	You are rich.
+اذهب أنت أولاً.	You go first.
+أنت تعلم كيف	You know how.
+إنك مجنون.	You're crazy.
+أنت محقّ.	You're right.
+عندك حقّ.	You're right.
+ألديكم أي أسئلة؟	Any questions?
+هل أنت وحدك؟	Are you alone?
+هل أنت سعيد؟	Are you happy?
+هل أنت سعيد	Are you happy?
+هل أنت جاهز؟	Are you ready?
+كُن مُحترماً.	Be respectful.
+كُن داعماً.	Be supportive.
+احضره الى هنا.	Bring it here.
+أحضر المفتاح.	Bring the key.
+هل تستطيع أن تقود سيارة؟	Can you drive?
+تعالَ غداً.	Come tomorrow.
+لا تكن شرّيرا.	Don't be evil.
+الجميع يموت.	Everyone dies.
+"كل من عليها فانٍ".	Everyone dies.
+الأزهار تتفتح.	Flowers bloom.
+اقلي لي بيضة.	Fry me an egg.
+اذهب خلفي.	Get behind me.
+باركك الله .	God bless you!
+إنه بريطاني.	He is British.
+قبّلها.	He kissed her.
+هو تركَ توم يذهب.	He let Tom go.
+كذب علينا.	He lied to us.
+إنه يبيع السيارات.	He sells cars.
+أطلق عليّ الرّصاص.	He shot at me.
+إنه غاضب.	He's outraged.
+إنهُ شاب جداً.	He's so young.
+إنهُ صغير جداً.	He's so young.
+إنه مريض جداً.	He's very ill.
+ها قد أتى.	Here he comes.
+هنا أم تأخذها معك؟	Here or to go?
+ماذا عنك؟	How about you?
+ما هو حجمها؟	How big is it?
+كيف جرى الأمر؟	How did it go?
+كم عمره؟	How old is he?
+كيف حال الوظيفة؟	How's the job?
+أضفت بعض الماء	I added water.
+أنا مسلم	I am a Muslim.
+أصدقك.	I believe you.
+أتيت بالسيارة.	I came by car.
+لا يمكنني فعل ذلك.	I can't do it.
+لا أستطيع أن أفعل ذلك.	I can't do it.
+هذا بسببي.	I caused this.
+أنا سببّت هذا.	I caused this.
+أحبك.	I do love you.
+أشعر بالجوع.	I feel hungry.
+أنا عطشان.	I got thirsty.
+أكره القهوة.	I hate coffee.
+عندي كتاب.	I have a book.
+أصبت بالبرد.	I have a cold.
+لدي زكام.	I have a cold.
+أصبت بالزكام.	I have a cold.
+لدي رشح.	I have a cold.
+لدي شكوك.	I have doubts.
+استيقظت للتوّ.	I just got up.
+أنا أحب الفرنسية	I like French.
+أحب الأفلام.	I like movies.
+أحب مشاهدة الأفلام.	I like movies.
+أحب الرياضة.	I like sports.
+أحب ممارسة الألعاب الرياضية.	I like sports.
+أحب كرة المضرب.	I like tennis.
+أحب لعب التنس.	I like tennis.
+خسرت وظيفتي.	I lost my job.
+أضعت مفتاحي.	I lost my key.
+أنا أحب الفرنسية	I love French.
+أحب الأفلام.	I love movies.
+أنا أحب أبي	I love my dad.
+يتوجب علي الذهاب الآن.	I must go now.
+أحتاج لمفتاحي.	I need my key.
+أعزف الكمان.	I play violin.
+رأيت شبحا.	I saw a ghost.
+انا لم ارى اي شيء.	I saw nothing.
+تمشّيت.	I took a walk.
+أنا أستخدم برنامج فايرفوكس.	I use Firefox.
+أنا أستخدم Firefox	I use Firefox.
+أنا أُريد بيرة.	I want a beer.
+أريد أن أموت.	I want to die.
+سأحضر.	I'll be there.
+سأشتري ذلك.	I'll buy this.
+سأتصل بك.	I'll call you.
+سآكل هنا.	I'll eat here.
+سأفتقدك.	I'll miss you.
+سأشتاق إليك.	I'll miss you.
+سآخذه معي.	I'll take him.
+أنا خجول قليلاً.	I'm a bit shy.
+أنا تلميذ.	I'm a student.
+أنا طالب	I'm a student.
+أنا سائح.	I'm a tourist.
+أنا واثق من نفسي.	I'm confident.
+أنا في السيارة	I'm in my car.
+أنا لستُ ذاهباً.	I'm not going.
+أنا لستُ ذاهبة.	I'm not going.
+أنا لست سعيداً.	I'm not happy.
+أنا لستُ سعيدة.	I'm not happy.
+أنا لست متعباً.	I'm not tired.
+أنا شديد الملاحظة.	I'm observant.
+إنني أتبع حمية.	I'm on a diet.
+أنا متعب الآن.	I'm tired now.
+إنني مشغول جداً.	I'm very busy.
+هل هي تثلج ؟	Is it snowing?
+أهذا واضح؟	Is that clear?
+أذلك لك ؟	Is that yours?
+هل هذا لكَ؟	Is that yours?
+هل ذلك يخصك؟	Is that yours?
+إنها تمطر.	It is raining.
+الجو ممطر.	It is raining.
+الجو حار جدا	It is too hot.
+الجو حار جداً	It is too hot.
+ليس ملكي.	It isn't mine.
+لن يؤلم.	It won't hurt.
+سيتم الامر	It'll turn up.
+هل اليوم هو السبت؟	It's Saturday.
+إنه سر.	It's a secret.
+هذا صحيح.	It's accurate.
+إنهُ مزعج.	It's annoying.
+دخل الخريف.	It's fall now.
+نحن في الخريف الآن.	It's fall now.
+لقد تحسنت.	It's improved.
+الوقت مبكر جدا.	It's so early.
+انها سرقه.	It's stealing.
+إنها كبيرة جداً.	It's very big.
+دقيقة من فضلك.	Just a minute.
+استرح الآن فحسب.	Just rest now.
+دعني أراها.	Let me see it.
+دعني أجربها.	Let me try it.
+الحياة حلوة.	Life is sweet.
+استمع إلى توم	Listen to Tom.
+أغلق البوابة.	Lock the gate.
+الحب أعمى.	Love is blind.
+الحظ أعمى.	Luck is blind.
+أسعدني.	Make me happy.
+رتب سريرك.	Make your bed.
+أيمكنني سؤالك عن السبب؟	May I ask why?
+هل بإمكاني الدخول؟	May I come in?
+هل أستطيع أن آتي؟	May I come in?
+أمّي، أنا في المنزل.	Mom, I'm home.
+أمّاه، أنا في المنزل.	Mom, I'm home.
+أمّاه، لقد عدت إلى المنزل.	Mom, I'm home.
+رأسي يؤلمني.	My head hurts.
+ركبتي تؤلمني.	My knee hurts.
+لا، شكراً لك.	No, thank you.
+لا, شكراً لك	No, thank you.
+خسر فريقنا.	Our team lost.
+انتبه.	Pay attention.
+أراك مجدداً.	See you again.
+إلى اللقاء.	See you again.
+إلى اللقاء	See you again.
+إنحنت.	She bent down.
+كرهته.	She hated him.
+إنها تأكل.	She is eating.
+إنها تحب توم.	She loves Tom.
+إنها تعشق توم.	She loves Tom.
+هي تحب توم	She loves Tom.
+أغلق الباب.	Shut the door.
+تكلم بوضوح.	Speak clearly.
+استرح.	Stand at ease!
+كن ايجابي	Stay positive.
+كفّ عن التصفيق.	Stop clapping.
+شكراً على أي حال.	Thanks anyway.
+كفى.	That's enough.
+هذا يكفي.	That's enough.
+ذلك قطي.	That's my cat.
+تلك قطتي.	That's my cat.
+غادروا جميعا.	They all left.
+إنهم يكرهونك.	They hate you.
+هم يعرفون توم	They know Tom.
+إنهم سعداء.	They're happy.
+هم سعداء.	They're happy.
+هذا كلب.	This is a dog.
+هذا قلم.	This is a pen.
+هذه نكتة.	This is a pun.
+من هنا، سيدي.	This way, sir.
+كان اليوم يوماً ممتعاً.	Today was fun.
+توم لديه سيارة	Tom has a car.
+توم لديه نقود	Tom has money.
+توم غائب.	Tom is absent.
+توم هو أبي	Tom is my dad.
+توم معجب بكي.	Tom likes you.
+طرد توم من عمله.	Tom was fired.
+كان توم عاريًا.	Tom was naked.
+توم كان رصيناً.	Tom was sober.
+استخدم قدميك.	Use your feet.
+انتظر دقيقة	Wait a minute.
+انتظر لحظة.	Wait a moment.
+إننا جائعون.	We are hungry.
+كان لدينا شكوك.	We had doubts.
+نحتاج الماء	We need water.
+نحن نفهم	We understand.
+نتساءل لِمَ.	We wonder why.
+نحن في المنزل	We're at home.
+ها قد وصلنا.	We've arrived.
+لقد وصلنا.	We've arrived.
+هل أصبت بعيار ناري؟	Were you shot?
+يا لها من راحة	What a relief!
+ما عساني أن أفعل؟	What can I do?
+ما الذي حصل؟	What happened?
+ماذا حدث؟	What happened?
+ماذا حصل ؟	What happened?
+أين أنت؟	Where are you?
+من قال هذا؟	Who said that?
+من يقول هذا؟	Who says that?
+من يتحدّث؟	Who's talking?
+لمن هذا؟	Whose is this?
+يمكنك أن تفعلها!	You can do it.
+تشجع!	You can do it.
+تبدو مشغولاً.	You look busy.
+تبدو شاحباً.	You look pale.
+تبدو شاحب الوجه.	You look pale.
+يبدو عليك المرض.	You look sick.
+تبدو مريضاً.	You look sick.
+يمكنك التحدث.	You may speak.
+ستحتاج إلى ذلك.	You need this.
+عليك الذهاب.	You should go.
+من الأفضل أن تذهب.	You should go.
+كنتَ مشغولاً.	You were busy.
+إنك تعمل بجد.	You work hard.
+أنت طفل.	You're a baby.
+أنت تمزح!	You're joking!
+اسمح لي بالذهاب.	Allow me to go.
+هل أنت آتٍ؟	Are you coming?
+هل أنت جائع؟	Are you hungry?
+ألست طوم؟	Aren't you Tom?
+تضع الطيور البيض.	Birds lay eggs.
+أغلي الماء	Boil the water.
+أحضرها لي.	Bring it to me.
+هل لي أن أساعدك؟	Can I help you?
+أيمكنني مساعدتك؟	Can I help you?
+كيف لي أن أساعدك؟	Can I help you?
+إفحص كُل واحد.	Check everyone.
+أقفل الباب!	Close the door.
+عُد قريبًا.	Come back soon.
+هل كسرتها؟	Did I break it?
+إفعل ما تريد.	Do as you like.
+افعل ما تريد.	Do as you want.
+هل تعرفني؟	Do you know me?
+هل تحب ذلك؟	Do you like it?
+هل يعجبك ذلك؟	Do you like it?
+أتحبني؟	Do you love me?
+هل تحبني؟	Do you love me?
+هل تقصدني؟	Do you mean me?
+أتعدني؟	Do you promise?
+أتعديني؟	Do you promise?
+هل يهم؟	Does it matter?
+هل هذا يؤلم؟	Does this hurt?
+لا تقل ذلك.	Don't say that.
+لا توقفه	Don't stop him.
+لا تلمسني.	Don't touch me!
+ألق السكين.	Drop the knife!
+الجميع يعرف	Everyone knows.
+انهض من سريرك!	Get out of bed!
+أعطه إياه.	Give it to him.
+أعطه إياها.	Give it to him.
+كل سنة و أنت بخير.	Happy New Year!
+كل سنة و أنتم بخير.	Happy New Year!
+عام جديد سعيد!	Happy New Year!
+سنة جديدة سعيدة!	Happy New Year!
+عاك سعيد!	Happy New Year!
+عيد ميلاد سعيد.	Happy birthday!
+هو لا يجري	He doesn't run.
+هو يسوق بسرعة.	He drives fast.
+هو تركنا.	He has left us.
+هو غادرنا.	He has left us.
+إنه طبيب.	He is a doctor.
+إنه عبقري.	He is a genius.
+إنه ذكي جداً.	He is a genius.
+يبدو شاباً.	He looks young.
+يحب الموسيقي.	He loves music.
+غنى أغنية.	He sang a song.
+يبدو متعباً.	He seems tired.
+صفعها	He slapped her.
+لن يذهب.	He will not go.
+عمل بجد.	He worked hard.
+إنّه طالب.	He's a student.
+إنه والدي.	He's my father.
+إنهُ مُسعد الأن.	He's ready now.
+إليك بكتاب.	Here is a book.
+هنا كتاب.	Here is a book.
+ها قد أَتَوْا.	Here they come.
+هذه بطاقتي.	Here's my card.
+ها هو الباص.	Here's the bus.
+هلا! ما الجديد؟	Hi! What's new?
+مرحبا, ادخل	Hi, come on in.
+كيف بإمكاني مساعدتك ؟	How can I help?
+ما مدي ارتفاعها ؟	How high is it?
+كم ثمنها؟	How much is it?
+كيف حال أبيك؟	How's your dad?
+أنا طالب	I am a student.
+أكلت اللحم.	I ate the meat.
+أخذت تبكي.	I began to cry.
+بدأتُ بالبكاء.	I began to cry.
+جئت سيراً على الأقدام.	I came on foot.
+أتيت سيراً على الأقدام.	I came on foot.
+لا يمكنني رؤيته.	I can't see it.
+لا أخاف شيئا.	I fear nothing.
+أشعر بما تمر به.	I feel for you.
+أنا أعدك	I give my word.
+أذهب إلى المدرسة.	I go to school.
+لقد كَرِهتُ المَدرَسَة.	I hated school.
+لدي كحة.	I have a cough.
+لدي سعال.	I have a cough.
+لدي حمى.	I have a fever.
+عندي بيت.	I have a house.
+لا أعرف‏.‏‏	I have no idea.
+لدي أخوات.	I have sisters.
+أذيت ركبتي.	I hurt my knee.
+أعرف ذلك الولد.	I know the boy.
+أحب القلاع.	I like castles.
+أحب ذلك الكلب.	I like the dog.
+أضعت مفاتيحي.	I lost my keys.
+أنا أحب هارفارد.	I love Harvard.
+أحبُ الجزر	I love carrots.
+أحب أكل اللازانيا.	I love lasagna.
+أحب الحفلات.	I love parties.
+احب ان اخبز.	I love to bake.
+عليّ أن أشتري واحدة.	I must buy one.
+لابد أن اشتري واحدة.	I must buy one.
+أحتاج الى سكين.	I need a knife.
+توقفت عن التدخين	I quit smoking.
+رأيت خمسة رجال.	I saw five men.
+رأيته يقفز.	I saw him jump.
+رأيتُ واحدة مرة.	I saw one once.
+أنا أري الفتاة.	I see the girl.
+أبيعُ الأسلحة.	I sell weapons.
+أنا أدرس اللغة الكورية.	I study Korean.
+انعطفتُ يمينًا.	I turned right.
+عادةً أمشي.	I usually walk.
+أريد مخلّلًا.	I want pickles.
+أود أن أعرف.	I want to know.
+أريد أن أعيش	I want to live.
+شعرت بالصّدمة.	I was in shock.
+لم أَكُنْ هُناكْ.	I wasn't there.
+سأقاضيك.	I will sue you.
+سأرفع عليك قضية.	I will sue you.
+أود الذهاب.	I'd like to go.
+سأشتري سيارة.	I'll buy a car.
+سأعود.	I'll come back.
+سأتصل بك.	I'll phone you.
+سأوبخه.	I'll scold him.
+سأبقى في البيت.	I'll stay home.
+أنا رجل حر.	I'm a free man.
+إنني وراءه.	I'm behind him.
+انا بخلفه .	I'm behind him.
+أنا في السيارة	I'm in the car.
+أنا في ورطة.	I'm in trouble.
+أنا لست جائع.	I'm not hungry.
+أنا لستُ خائفاً.	I'm not scared.
+أنا لستُ خائفةً	I'm not scared.
+أنا كبير بما يكفي.	I'm old enough.
+أنا كبير بما فيه الكفاية.	I'm old enough.
+أنا ما زلت هنا.	I'm still here.
+أنا القاتل.	I'm the killer.
+أنا أخلع ملابسي.	I'm undressing.
+أنا سعيد للغاية.	I'm very happy.
+أنا سعيد جداً.	I'm very happy.
+أنا آسف جداً	I'm very sorry.
+كنت مشغولا.	I've been busy.
+سبق و رأيت ذلك.	I've seen that.
+لقد رأيت ذلك من قبل.	I've seen that.
+لو أنّني كنت أعرف!	If only I knew!
+أهو أمريكي؟	Is he American?
+هل هو ياباني؟	Is he Japanese?
+هل هذه فرنسية؟	Is this French?
+أليست سوداء؟	Isn't it black?
+أليس أسوداً؟	Isn't it black?
+هل اليوم هو السبت؟	It is Saturday.
+كان ذلك فأراً.	It was a mouse.
+إنها جديدة.	It's brand new.
+إنك في خطر!	It's dangerous!
+الجو حار اليوم.	It's hot today.
+اليوم حار	It's hot today.
+إنها جاهزة الأن.	It's ready now.
+إنها الملكة.	It's the queen.
+إنها صغيرة جداً.	It's too small.
+إنها صغيرة جداً	It's too small.
+الأمر يعود إليك.	It's up to you.
+كما تريد.	It's up to you.
+إن الجو قارس.	It's very cold.
+الجو بارد جداً.	It's very cold.
+هذا جيد جدا	It's very good.
+حسنًا عُمِلَ.	It's well done.
+إنه كتابك.	It's your book.
+إنه دورك.	It's your turn.
+فقط أضف الماء	Just add water.
+اتبعني فحسب.	Just follow me.
+فقط انس الأمر.	Just forget it.
+الأطفال يحبّون الكلاب.	Kids love dogs.
+دع الأمر لي.	Leave it to me.
+اتركني و شأني!	Leave me alone!
+دعني و شأني!	Leave me alone!
+اتركني وحيدا	Leave me alone.
+لنعُد إلى البيت.	Let us go home.
+هيا لنرجع إلى المنزل.	Let us go home.
+لنسرع.	Let's hurry up.
+دعونا لا نتحدث.	Let's not talk.
+دعينا لا نتحدث.	Let's not talk.
+دعنا لا نتحدث.	Let's not talk.
+لنشاهد التلفاز.	Let's watch TV.
+لنشاهد الرائي.	Let's watch TV.
+لنشاهد التلفزيون.	Let's watch TV.
+أقفل الأبواب.	Lock the doors.
+اعتني بتوم	Look after Tom.
+من فضلك، ارفع صوتك.	Louder, please.
+هل تحتاج لمساعدة؟	May I help you?
+هل لي أن أساعدك؟	May I help you?
+أيمكنني مساعدتك؟	May I help you?
+هل يمكنني أن اساعدك؟	May I help you?
+أيمكنني الجلوس؟	May I sit down?
+أيمكنني الجلوس هنا؟	May I sit here?
+هل يمكنني استخدام هذا؟	May I use this?
+مفاصلي تؤلمني.	My joints ache.
+أنفي تريد حَكَّها	My nose itches.
+أنفي يحكّني؟	My nose itches.
+سني يؤلمني.	My tooth hurts.
+الآن تذكرت.	Now I remember.
+تذكرت الآن.	Now I remember.
+الله وحده يعلم.	Only God knows.
+الناس يحبونني.	People like me.
+تفضل بالدخول.	Please come in.
+تفضّل بالدّخول.	Please come in.
+من فضلك ساعدني.	Please help me.
+انتظر قليلاً.	Please hold on.
+ارتفعت الأسعار.	Prices went up.
+زرعت ورداً.	She grew roses.
+هي تمشي.	She is walking.
+ربما ستأتي.	She might come.
+من الممكن أنها ستأتي.	She might come.
+هي ليست هنا	She's not here.
+خذ وقتك.	Take your time.
+خذ وختك	Take your time.
+أخبر الجميع	Tell everybody.
+قل الحقيقة	Tell the truth.
+شكرا جزيلا.	Thanks a bunch.
+ذاك فندقٌ.	That's a hotel.
+ذلك فندقٌ.	That's a hotel.
+هذا كتابي.	That's my book.
+هذا بلاستيك.	That's plastic.
+غردت العصافير.	The birds sang.
+كلهم سكارى.	They all drank.
+إنهم سعداء.	They are happy.
+هم سعداء.	They are happy.
+كانوا يكرهون توم.	They hated Tom.
+هُم تركوني أذهب.	They let me go.
+فكر في ذلك.	Think about it.
+فكر بذلك	Think about it.
+هذا كتاب.	This is a book.
+هذه نكتة.	This is a joke.
+هذه سيارتي.	This is my car.
+التذكرة من فضلك	Ticket, please.
+التذكرة لو سمحت	Ticket, please.
+حان وقت الإستيقاظ.	Time to get up.
+توم ينتظر.	Tom is waiting.
+توم ليس هنا	Tom isn't here.
+توم ليس في البيت	Tom isn't home.
+توم يعلم ذلك	Tom knows that.
+يبدو توم شاحب الوجه.	Tom looks pale.
+توم ليس في البيت	Tom's not home.
+توم هو الأفضل.	Tom's the best.
+توم يشاهد	Tom's watching.
+اِغسل رجليك.	Wash your feet.
+راقب الجزء الخلفي .	Watch the rear.
+نحن في المنزل	We are at home.
+جعلناه يذهب.	We made him go.
+سنجد واحدا.	We'll find one.
+سنقتلك.	We'll kill you.
+نحن في المنزل الآن.	We're home now.
+نحن مطيعون.	We're obedient.
+نحن بمأمن الآن.	We're safe now.
+نحن في أمان الآن.	We're safe now.
+نحن طلاب	We're students.
+إذاً هيا بنا نذهب.	Well, let's go.
+يا له من كلب كبير!	What a big dog!
+ماذا عن "توم"؟	What about Tom?
+ما هو عملك؟	What do you do?
+ماذا لو فشلت؟	What if I fail?
+ماذا قلت؟	What'd you say?
+متى سنأكل؟	When do we eat?
+أين هم؟	Where are they?
+أين هما؟	Where are they?
+أين تقع باريس؟	Where is Paris?
+أين كنت؟	Where were you?
+من كسر هذا؟	Who broke this?
+من يتحدّث؟	Who's speaking?
+من هذا الصبي؟	Who's that boy?
+لم تسأل؟	Why do you ask?
+لماذا تسأل؟	Why do you ask?
+لماذا هو موجود هنا؟	Why is he here?
+لم هو هنا؟	Why is he here?
+لماذا هو هنا؟	Why is he here?
+نظف أنفك	Wipe your nose.
+نعم, أعلم	Yes, I know it.
+نعم، بالطبع.	Yes, of course.
+أنت أحمق.	You are stupid.
+عليك أن تذهب.	You have to go.
+عليك الرحيل.	You have to go.
+عليك أن ترحل.	You have to go.
+يبدو عليك الملل.	You look bored.
+تبدو سعيداً	You look happy.
+تبدو متعباً.	You look tired.
+لا بد أنك تمزح!	You're kidding!
+أنت طفلي.	You're my baby.
+عفوًا.	You're welcome.
+هل هذه الأشياء لك؟	Are these yours?
+هل أنت في البيت؟	Are you at home?
+هل أنت موجود في المنزل؟	Are you at home?
+هل صحتك جيدة؟	Are you healthy?
+هل تَمْزَح؟	Are you kidding?
+أأنت تمزح؟	Are you kidding?
+يصنع النحل العسل.	Bees make honey.
+كن مؤدبًا.	Behave yourself.
+أحسن التصرف.	Behave yourself.
+اثني ركبتيك.	Bend your knees.
+أحضره إلي.	Bring him to me.
+اتصل بالشرطة!	Call the police!
+اطلب الشرطة!	Call the police!
+أيمكنك أن تبحث عنها؟	Can you find it?
+أيمكنك إيجادها؟	Can you find it?
+أيمكنك أن تسمعني؟	Can you hear me?
+هل بإمكانك سماعي؟	Can you hear me?
+هل يمكنك أن تساعدني؟	Can you help me?
+نظف غرفتك.	Clean your room.
+نظفي غرفتكِ.	Clean your room.
+أغلق عينيك.	Close your eyes.
+تعال إذا أمكنك.	Come if you can.
+مبروك.	Congratulations!
+تهانينا!	Congratulations!
+مبارك!	Congratulations!
+تهانيّ!	Congratulations!
+دافِع عن نَفسَك.	Defend yourself.
+هل اشتقت إليّ؟	Did you miss me?
+هل اشتقت لي؟	Did you miss me?
+هل افتقدتني؟	Did you miss me?
+هل تشك في ذلك؟	Do you doubt it?
+هل تأكل اللحم؟	Do you eat meat?
+ألديك واحد؟	Do you have one?
+هل لديك واحدة؟	Do you have one?
+هل لديك واحد؟	Do you have one?
+هل تعلم لماذا؟	Do you know why?
+أتحب موسيقى الراب؟	Do you like rap?
+هل تحبه ؟ / هل تحبينه ؟	Do you love him?
+أما زلت تذكر؟	Do you remember?
+هل تتذكر؟	Do you remember?
+هل تري هذا؟	Do you see that?
+أتعتقد ذلك؟	Do you think so?
+هل تبدو بخير؟	Does it look OK?
+لا تأت هنا.	Don't come here.
+لا تنسانا.	Don't forget us.
+لا تنظر إلى الوراء.	Don't look back.
+لا تنظر إلى الخلف.	Don't look back.
+لا تنظر وراءك.	Don't look back.
+لا تتظاهر بالغباء!	Don't play dumb!
+لا تلعب هنا.	Don't play here.
+قُد بحذر.	Drive carefully.
+سُق بحذر	Drive carefully.
+بالصحة و العافية!	Enjoy your meal!
+إخرج من هنا.	Get out of here.
+اعطني مهلة.	Give me a break.
+أعطني المفتاح.	Give me the key.
+عظيم, أليس كذلك؟	Great, isn't it?
+يناسبك اللون الأخضر.	Green suits you.
+أخذت تبكي.	He began to cry.
+أصبحت الكرة معه.	He got the ball.
+حصل على الكرة.	He got the ball.
+إنه لطيف جداً.	He is very kind.
+يبدو قوياً.	He looks strong.
+فقد عمله.	He lost his job.
+خسر وظيفته.	He lost his job.
+إنه يحب القطارات.	He loves trains.
+تم طرده	He was laid off.
+سيذهب كذلك.	He will also go.
+إنهُ في مشكلة.	He's in trouble.
+هو أخي	He's my brother.
+ليس غبياً.	He's not stupid.
+تفضل الحساب	Here's the bill.
+ها هو كلبك.	Here's your dog.
+أهلاً كيف حالك؟	Hi! How are you?
+كيف حالك الآن؟	How are you now?
+و كيف لك أن تعرف؟	How do you know?
+يا للروعة!	How fascinating!
+كم هذا رائع!.	How fascinating!
+كم هذا مثير للإهتمام!	How interesting!
+كيف حال الجميع؟	How is everyone?
+كيف حالكم جميعاً؟	How is everyone?
+كيف حال أبيك؟	How is your dad?
+كم رائع أنتَ!	How nice of you!
+كم رائعة أنتِ!	How nice of you!
+كم عمرك؟	How old are you?
+يا لوقاحتك!	How rude of you!
+يا لك من وقح!	How rude of you!
+أنا من مصر.	I am from Egypt.
+أنا لست خائف.	I am not afraid.
+كسرت كوبا.	I broke a glass.
+اتصلت بتوم.	I called Tom up.
+ناديت كلبي.	I called my dog.
+فعلت هذا بنفسي.	I did it myself.
+لم أنس.	I didn't forget.
+أنا أشك في ذلك أيضًا.	I doubt it, too.
+أذهب كل سنة.	I go every year.
+وصلتُ إلى البيت متأخرا.	I got home late.
+أكره السياسة.	I hate politics.
+لدي أخت	I have a sister.
+ليس لدي أي مال.	I have no money.
+لدي نقود	I have no money.
+لديّ عشرة أقلام.	I have ten pens.
+عليّ أن أدرس.	I have to study.
+عندي سيارتان.	I have two cars.
+عندي ابنان.	I have two sons.
+أسمع الطبول.	I hear the drum.
+سمعتكما.	I heard you two.
+أعطس كثيراً.	I keep sneezing.
+أعرف اسمه.	I know his name.
+أعرف اسمه	I know his name.
+أعرف تلك الصبية.	I know the girl.
+أعرف تلك الفتاة.	I know the girl.
+أحب اللحوم الحمراء.	I like red meat.
+تعجبني سيارتك.	I like your car.
+أعيش في اليابان.	I live in Japan.
+أنا أعيش في اليابان	I live in Japan.
+أحب الرقص.	I love to dance.
+أحب أن أرقص.	I love to dance.
+أحب أفلام رعاة البقر	I love westerns.
+أحبك كذلك.	I love you, too.
+يجب أن أساعدها.	I must help her.
+عليّ أن أساعده.	I must help him.
+أحتاج لقلم.	I need a pencil.
+أنا بحاجة للمساعدة الآن.	I need help now.
+أحتاجُ للمساعدة الآن.	I need help now.
+أحتاج إلى مساعدته.	I need his help.
+أحتاج للمفاتيح.	I need the keys.
+أحتاج إلى أن أدرس.	I need to study.
+عادة ما أراه.	I often see him.
+لعبت التنس.	I played tennis.
+أفضّل ركوب الدرّاجة الهوائيّة.	I prefer biking.
+أفضّل ركوب الدرّاجة.	I prefer biking.
+أفضل ركوب الدراجة.	I prefer biking.
+أفضل القهوة.	I prefer coffee.
+أنا أقرأ كتابه	I read his book.
+قرأت الكتاب.	I read the book.
+أركض كل يوم.	I run every day.
+أظن أنها لا بأس بها.	I think it's OK.
+أريد كعكة.	I want a cookie.
+أريد قيثارة.	I want a guitar.
+أريد الحصول على جيتار.	I want a guitar.
+أنا أريد ببغاءًا.	I want a parrot.
+أريد أمي.	I want my mommy.
+أنا أريد واحدة، أيضا.	I want one, too.
+أريد واحداً	I want one, too.
+أريد تلك الحقيبة.	I want that bag.
+أريد أن أقود.	I want to drive.
+أريد أن أتعلّم.	I want to learn.
+أريد أن أنام.	I want to sleep.
+أنا ذهبت للتسوق.	I went shopping.
+سأشتاق إليك.	I will miss you.
+أعمل معه.	I work with him.
+سأرافقك.	I'll assist you.
+سوفَ أُحضرُ حقيبتي.	I'll get my bag.
+أنا رجل سهر.	I'm a night owl.
+أنا جاهز تقريباً.	I'm about ready.
+أنا بخير	I'm doing great.
+أشعر أني رشيق.	I'm feeling fit.
+أحس بأن لياقتي عالية.	I'm feeling fit.
+أنا ذاهب.	I'm going to go.
+سأذهب الآن.	I'm going to go.
+أنا أيسر.	I'm left-handed.
+لستُ أمزح!	I'm not kidding.
+لا أشعر بالعطش.	I'm not thirsty.
+أنا لست قلقاً.	I'm not worried.
+أنا على القائمة.	I'm on the list.
+أنا فقط أمزح.	I'm only joking.
+أنا أقرأ الآن	I'm reading now.
+أنا جائع جداً.	I'm very hungry.
+أنا والدك.	I'm your father.
+انا صديقك.	I'm your friend.
+هل العشاء جاهز؟	Is dinner ready?
+أليست سوداء؟	Is it not black?
+هل هي يابانية؟	Is she Japanese?
+هل هي طبيبة؟	Is she a doctor?
+أهي طبيبة؟	Is she a doctor?
+هل هذا نهر؟	Is this a river?
+إنها فعلا مؤلمة	It really hurts.
+إنّه يوم بارد.	It's a cold day.
+إنه يوم جميل.	It's a nice day.
+إنّها مفاجأة.	It's a surprise.
+هذا كل ما املك	It's all I have.
+قاربت على السادسة.	It's almost six.
+إنه صناعي.	It's artificial.
+إنها صناعية.	It's artificial.
+إنه يوم بارد	It's cold today.
+طقس اليوم جميل.	It's fine today.
+إن ذلك مستحيل.	It's impossible.
+هذا مستحيل.	It's impossible.
+لا يُصدّق.	It's incredible.
+هذا مجرّد ماء.	It's just water.
+إنه وقت الغداء.	It's lunch time.
+حان وقت طعام الغداء.	It's lunch time.
+إنها ليست مكسورة	It's not broken.
+انها ليست كافيه	It's not enough.
+ليس بعيداً.	It's not so far.
+لا بأس أن تذهب.	It's okay to go.
+حان وقت الذهاب.	It's time to go.
+الليمون حامض.	Lemons are sour.
+دعني أذهب وحدي.	Let me go alone.
+دعني أساعدك.	Let me help you.
+لنأكل السوشي.	Let's eat sushi.
+لننسى ذلك.	Let's forget it.
+دعنا نحصل على سيارة أجرة.	Let's get a cab.
+دعونا نحصل على سيارة أجرة.	Let's get a cab.
+هيا لنشرب.	Let's get drunk.
+هيا بنا لنسكر.	Let's get drunk.
+لنذهب بالحافلة.	Let's go by bus.
+سنكتفي بهذا الحد اليوم و نقف هنا.	Let's stop here.
+لنعد أدراجنا.	Let's turn back.
+اجعلها أصغر.	Make it smaller.
+تكون ماري زوجتي.	Mary is my wife.
+هل لي أن أقاطع؟	May I interrupt?
+قابلني هذه الليلة	Meet me tonight.
+ميلاد مجيد.	Merry Christmas!
+الأخطاء تحدث.	Mistakes happen.
+كان المال قليلا.	Money was tight.
+دمي يغلي.	My blood boiled.
+منزلي كبير.	My house is big.
+لقد انتهت حياتي.	My life is over.
+لا تلعب هنا أبداً.	Never play here.
+لا اقو ابدا	Never say never.
+لا أحد هنا.	Nobody's around.
+افتح النافذة.	Open the window.
+ناولني القلم.	Pass me the pen.
+ابقَ هادئاً من فضلك.	Please be quiet.
+تفضل بالجلوس.	Please sit down.
+تفضل بالجلوس من فضلك.	Please sit down.
+من فضلك اجلس.	Please sit down.
+تفضّل خذ واحدة.	Please take one.
+الحمد لله.	Praise the Lord.
+الأسعار مرتفعة.	Prices are high.
+البس قبّعتك.	Put on your cap.
+البسي قبّعتكِ.	Put on your cap.
+ارفع يديك.	Raise your hand.
+الرفض يؤلم.	Rejection hurts.
+أراك في البيت	See you at home.
+أرسله بالبريد.	Send it by mail.
+هي ليست هنا	She is not here.
+ليست طويلة.	She is not tall.
+إنها تتكلم كثيراً.	She talks a lot.
+إنها تكثر من الكلام.	She talks a lot.
+إنها تتحدث أكثر من اللازم.	She talks a lot.
+إنها تتحدث أكثر مما يجب.	She talks a lot.
+إنها أختي.	She's my sister.
+إنها أختي	She's my sister.
+اغلق فمك.	Shut your mouth.
+إجلس مستقيماً.	Sit up straight.
+اقعد مستقيم الظهر.	Sit up straight.
+إبقى في السيارة	Stay in the car.
+سرقة المال.	Steal the money.
+شكرا يا رفاق.	Thank you, guys.
+ذلك الكلب ضخم.	That dog is big.
+تلك طاولةٌ.	That is a table.
+تلك سيارته.	That is his car.
+تلك هي سيارته	That is his car.
+هذا ليس عدلاً.	That isn't fair.
+ذلك يبدو جيدا	That looks good.
+لن يصلح ذلك!	That won't work!
+هذا يدعو للراحة.	That's a relief.
+هذا أمر	That's an order.
+هذا ليس عدلاً.	That's not fair.
+ذاك هو العائق.	That's the snag.
+هذا كثير.	That's too much.
+الكتاب أحمر.	The book is red.
+الولد لطيف.	The boy is kind.
+هذا الولد طيب.	The boy is kind.
+استيقظت القطة.	The cat woke up.
+فُتح الباب.	The door opened.
+انتشر الخبر.	The news spread.
+البحر هادئ.	The sea is calm.
+السماء زرقاء.	The sky is blue.
+لا يوجد أمل.	There's no hope.
+هذه عصافير.	These are birds.
+هم يعيشون هناك	They live there.
+يبدون سعداء	They look happy.
+لا ينوون الكلام.	They won't talk.
+هم كبار جدا	They're too big.
+هذه السيارة له	This car is his.
+هذا لك.	This is for you.
+هذا طفلي.	This is my baby.
+هذا بيتي	This is my home.
+هذه هي النهاية.	This is the end.
+هذا كبير جدا	This is too big.
+هذا ليس عدلاً.	This isn't fair.
+كل ابن آدم خطاّء	To err is human.
+اليوم هو الإثنين	Today is Monday.
+كاد توم يموت	Tom almost died.
+يشرب توم الحليب.	Tom drinks milk.
+توم شعر بالقوة.	Tom felt strong.
+لقد انقطع توم.	Tom has snapped.
+توم ليس ملاكاً	Tom is no angel.
+توم يشاهد	Tom is watching.
+توم ليس سعيدا.	Tom isn't happy.
+توم يحب النقود	Tom likes money.
+توم يعيش هناك	Tom lived there.
+توم يبدو سعيداً	Tom looks happy.
+كاد توم يموت	Tom nearly died.
+توم يريد ماء	Tom needs water.
+توم يقرأ كتاباً	Tom read a book.
+توم يفهم	Tom understands.
+سيهرب توم.	Tom will escape.
+أطفأ التلفاز.	Turn off the TV.
+أطفئ التّلفاز.	Turn the TV off.
+انتظر. عد إلى هنا.	Wait. Come back.
+اِغسل يديك.	Wash your hands.
+نحن طلاب	We are students.
+نحن معلمون.	We are teachers.
+نحن مدرسون.	We are teachers.
+لدينا ضيف.	We have a guest.
+لقد وصلنا.	We have arrived.
+علينا أن نساعد	We have to help.
+قابلنا كاتباً.	We met a writer.
+نحن من كندا.	We're Canadians.
+نحن كنديون.	We're Canadians.
+نحن نستمع	We're listening.
+يا لها من مفاجأة!	What a surprise!
+ماذا قال؟	What did he say?
+ما الذي قاله؟	What did he say?
+ماذا فعلتَ؟	What did you do?
+ماذا تقولين؟	What do you say?
+ما هي صفاته؟	What is he like?
+ما هي مواصفاته؟	What is he like?
+كم عمره؟	What is his age?
+ما الساعة الآن؟	What time is it?
+كم الساعة؟	What time is it?
+ما الذي يحدث؟	What's going on?
+كَم الساعة؟	What's the time?
+كَمْ عُمرُك؟	What's your age?
+ما مهنتك؟	What's your job?
+ماذا تعمل؟	What's your job?
+متى يمكننا الأكل؟	When can we eat?
+أين ذهب؟	Where did he go?
+أين كتابي؟	Where's my book?
+أين الخريطة؟	Where's the map?
+من ذاك الرجل؟	Who is that man?
+من تلك البنت؟	Who's that girl?
+اكتب ذلك.	Write that down.
+أنتَ تقريباً مت.	You almost died.
+لقد خنتني.	You betrayed me.
+لقد خنتيني.	You betrayed me.
+خذلتني.	You let me down.
+تبدو كئيبا	You look gloomy.
+تبدو أحمقاً.	You look stupid.
+من الأفضل لك أن تغادر.	You'd better go.
+ستضل طريقك.	You'll get lost.
+ستضيع.	You'll get lost.
+أنتَ جبان!	You're a coward!
+أنتِ منفعلة.	You're agitated.
+أنت ملاك	You're an angel.
+أنت مُسامح.	You're forgiven.
+أنت بطلنا.	You're our hero.
+إنتهى وقتك.	Your time is up.
+إنتهى الوقت المخصص لك.	Your time is up.
+هناك كلب ينبح.	A dog is barking.
+اتصلت بي فتاة.	A girl phoned me.
+أي كتاب سيفي بالغرض.	Any book will do.
+هل هم أصدقاء؟	Are they friends?
+هل أنت ياباني؟	Are you Japanese?
+هل أنت محامٍ؟	Are you a lawyer?
+هل أنت مجنون؟	Are you a maniac?
+هل أنت جديد هنا؟	Are you new here?
+هل أنت جديد أيضاً؟	Are you new, too?
+هل انت مع توم؟	Are you with Tom?
+ألست سعيداً؟	Aren't you happy?
+و أخيراً أتى.	At last, he came.
+كن اكثر مرونه.	Be more flexible.
+فرش أسنانك.	Brush your teeth.
+اتصل بي غداً.	Call me tomorrow.
+هل يمكننا البقاء هنا؟	Can we stay here?
+أيمكننا الوثوق بك؟	Can we trust you?
+أيمكنك إثبات ذلك؟	Can you prove it?
+أيمكنك أن تثبت ذلك؟	Can you prove it?
+هل تراهم؟	Can you see them?
+الكرز أحمر.	Cherries are red.
+نظف المرايا.	Clean the mirror.
+نَظِّفِ المِرْآة	Clean the mirror.
+تعال و ساعدنا.	Come and help us.
+تعال و اجلس معنا.	Come sit with us.
+تعال إلى منزلي.	Come to my house.
+واصِل الحفر.	Continue digging.
+واصِل العمل.	Continue working.
+تَحَكَم بنفسك.	Control yourself.
+قطع البطاطا.	Cut the potatoes.
+هل قابلتها؟	Did you meet her?
+أفعله مباشرة	Do it right away.
+إفعل ما يقوله توم.	Do what Tom says.
+إفعلى ما يقوله توم.	Do what Tom says.
+افعل ما شئت.	Do what you will.
+هل تعرفهم؟	Do you know them?
+هل تحب ذلك؟	Do you like that?
+أتسكن هنا؟	Do you live here?
+هل تعيش هنا؟	Do you live here?
+هل تسكن هنا؟	Do you live here?
+ألا تثق بتوم؟	Do you trust Tom?
+قم بعملك بنفسك.	Do your own work.
+لا تُبالِغ.	Don't exaggerate.
+لا تنظر إلي!	Don't look at me.
+لا تستخدم قلمي.	Don't use my pen.
+لا تستعمل قلمي.	Don't use my pen.
+لا تصرخ في وجهي.	Don't yell at me.
+اشرب بعض الماء	Drink some water.
+كُل الخضار الخاص بك.	Eat your veggies.
+تم إعلام الجميع.	Everyone noticed.
+تم إشعار الجميع.	Everyone noticed.
+أكمل حليبك.	Finish your milk.
+عد إلى العمل.	Get back to work.
+اعطني فرصة!	Give me a chance!
+أعطني الكتاب.	Give me the book.
+أعطني الكتاب	Give me the book.
+هو لا يدخن.	He doesn't smoke.
+وجد دراجتي الضائعة.	He found my bike.
+لديها شعر طويل	He has long hair.
+سمع صرخة.	He heard a shout.
+سمع صراخاً.	He heard a shout.
+إنهُ مبتدىء.	He is a beginner.
+هو أخي	He is my brother.
+ليس غبياً.	He is not stupid.
+هو تجاوز الأربعين.	He is past forty.
+إنه يحب الصيد.	He likes fishing.
+إنه يحب صيد الأسماك.	He likes fishing.
+يحب البرتقال.	He likes oranges.
+هو يحب الصيد.	He likes to hunt.
+هو يحبّ الطّقوس.	He loves rituals.
+لا بد أنه يحبك.	He must love you.
+هو يصرخ كثيرا.	He screams a lot.
+هو يتحدث العربيه.	He speaks Arabic.
+لقد إستخدم رأسه.	He used his head.
+هو يكتب العربيه.	He writes Arabic.
+هو عالم أحيائي.	He's a biologist.
+إنه من محبي القطط.	He's a cat lover.
+هو تجاوز الثلاثين.	He's over thirty.
+تفضل الحساب	Here is the bill.
+ها هي حقيبتك.	Here is your bag.
+ها هو مفتاحك.	Here is your key.
+ها هي محفظتي.	Here's my wallet.
+ما رأيك أن نتمشّى؟	How about a walk?
+كيف حالك يا توم؟	How are you, Tom?
+كم هذا محرج!	How embarrassing!
+يا للإحراج!	How embarrassing!
+كم طول ذلك؟	How long is this?
+كم طولك؟	How tall are you?
+ما أطولك!	How tall you are!
+ما أطول عودك!	How tall you are!
+يا لسوء حظي.	How unlucky I am!
+يا لي من منحوس!	How unlucky I am!
+لقد كبرت!	How you've grown!
+أوافقه الرأي.	I agree with him.
+أوافقك الرأي.	I agree with you.
+أتفق معك.	I agree with you.
+كدت اغرق	I almost drowned.
+أحب الكعك أيضاً.	I also like cake.
+أنا من النرويج.	I am from Norway.
+أنا نرويجي.	I am from Norway.
+أنا من روسيا.	I am from Russia.
+لا أشعر بالعطش.	I am not thirsty.
+كنت أمزح فقط.	I am only joking.
+أنا أضحك فقط.	I am only joking.
+أنا والدك.	I am your father.
+أنا أبوك.	I am your father.
+أكلت الجبن.	I ate the cheese.
+أنا اؤمن بالله.	I believe in God.
+أثق في قدرتك.	I believe in you.
+اشتريت ساعة.	I bought a watch.
+أستطيع أن أراه الآن.	I can see it now.
+لم أستطع النوم.	I couldn't sleep.
+لم أحبه.	I didn't like it.
+لم يعجبني ذلك.	I didn't like it.
+لا أعرفها.	I don't know her.
+أنا لا أعرفها	I don't know her.
+لا أعرفه.	I don't know him.
+أنا لا أعرفه	I don't know him.
+أنا لا أعرف لماذا	I don't know why.
+أنا لا أعرفك	I don't know you.
+لا أحبها.	I don't like her.
+إنها لا تعجبني.	I don't like her.
+أنا لا أحبك	I don't love you.
+لا أظن ذلك.	I don't think so.
+أنا ذاهب إلى الحديقة	I go to the park.
+أكره مادة الكيمياء.	I hate chemistry.
+لدي أخ	I have a brother.
+عندي مشكلة.	I have a problem.
+ليس لدي شك.	I have no doubts.
+عندي أسئلة.	I have questions.
+علي الذهاب الآن.	I have to go now.
+يجب علي أن أذهب الآن.	I have to go now.
+أحيك كل يوم.	I knit every day.
+أعلم بأني مخطئ.	I know I'm wrong.
+لا أعرف إلّا هذا.	I know only this.
+هذا كل ما أعرفه.	I know only this.
+أعرف اسمك.	I know your name.
+أنا أعرف اسمك	I know your name.
+أحب الشوكولاتة.	I like chocolate.
+أحب الورد الأحمر.	I like red roses.
+أحب الورود الحمراء.	I like red roses.
+انا احب كلا منهما	I like them both.
+تعجبني خطتك.	I like your plan.
+أنا أُحب عملك.	I like your work.
+أعيش بالقرب من هنا.	I live near here.
+أنا احترمك.	I look up to you.
+أحب عيد الهالوين	I love Halloween.
+جَعَلْتُ توم سعيداً.	I made Tom happy.
+ارتكبت خطأً.	I made a mistake.
+اقترفت خطأً.	I made a mistake.
+أغضبتها.	I made her angry.
+صنعتها بنفسي.	I made it myself.
+أشتاق إليك كثيراً.	I miss you badly.
+أنا مشتاق إليك جداً.	I miss you badly.
+فوّتت موقفي.	I missed my stop.
+لقد فاتتني الحافلة	I missed the bus.
+أحتاج إلى إسعافات أولية.	I need first aid.
+أحتاج بعض الراحة.	I need some rest.
+أحتاج مساعدتك.	I need your help.
+أحتاج إلى مساعدتك.	I need your help.
+أنا لا آكل اللحم أبدا.	I never eat meat.
+أشرت إليه.	I pointed at him.
+ركضت لمسافة ميل.	I ran for a mile.
+قرأت كتابك.	I read your book.
+لقد قلت أنا آسف	I said I'm sorry.
+رأيت كل شئ.	I saw everything.
+لقد رأيت كل شئ.	I saw everything.
+مازلت أكرهك.	I still hate you.
+ما زلت أحبها	I still love her.
+ما أزال أفتقد توم.	I still miss Tom.
+أوافق وبشدة.	I strongly agree.
+أنا أدرس الطّب.	I study medicine.
+إنتظرتك.	I waited for you.
+أتمشّى كل يوم.	I walk every day.
+أمشي إلى المدرسة.	I walk to school.
+أُريد الإنتقام.	I want vengeance.
+كنت سعيداً يومها.	I was happy then.
+كنت سعيداً عند ذلك.	I was happy then.
+سأشتري سيارة.	I will buy a car.
+سأطلق عليه الرصاص.	I will shoot him.
+لن أؤذيك.	I won't harm you.
+لن افتقد توم.	I won't miss Tom.
+سأتصل بك.	I'll contact you.
+سآكل هنا.	I'll eat it here.
+سآكل هاهنا.	I'll eat it here.
+أنا جائع قليلا.	I'm a bit hungry.
+أنا مترجم	I'm a translator.
+أنا من أمريكا.	I'm from America.
+أنا ذاهب للجري	I'm going to run.
+أنا هنا من أجلك.	I'm here for you.
+إنني هنا لأجلك.	I'm here for you.
+أشعر بالفضول فحسب.	I'm just curious.
+إني أنظر فحسب.	I'm just looking.
+انا لست محامي	I'm not a lawyer.
+أنا سعيد جداً.	I'm really happy.
+أنا متعب جداً.	I'm really tired.
+أنا شعبي جداً.	I'm very popular.
+أنا عطشانٌ جداً.	I'm very thirsty.
+أنا شريكك.	I'm your partner.
+فقدت حقيبتي.	I've lost my bag.
+هل هذا أمر؟	Is that an order?
+هل تلك سيارتك؟	Is that your car?
+هل تلك أمك؟	Is that your mom?
+هل اللحم جيد؟	Is the meat good?
+أهذه سيارتك؟	Is this your car?
+هل هذه سيارتك؟	Is this your car?
+أهذا قلمك؟	Is this your pen?
+لا يمكن أن يكون ذلك صحيحاً.	It can't be true.
+ستمطر قريباً.	It may rain soon.
+ربما ستمطرُ بعدَ قليل.	It may rain soon.
+لقد كان خطأ.	It was a mistake.
+كان في المدرسة.	It was at school.
+إنه كتاب جيد	It's a good book.
+إنها صفقة جيدة.	It's a good deal.
+اليوم ممطر.	It's a rainy day.
+لقد تم سرقتها.	It's been stolen.
+إنه دوري الآن.	It's now my turn.
+إنها على الأريكة.	It's on the sofa.
+الجو مشمس اليوم.	It's sunny today.
+لونه أحمر.	Its color is red.
+لونها أحمر.	Its color is red.
+دعني أضيف الماء.	Let me add water.
+فلنحاول!	Let's have a try.
+لنلعب الورق.	Let's play cards.
+إسمع جيداً.	Listen carefully.
+استمع إلي, حسناً؟	Listen to me, OK?
+الحب خالد	Love is immortal.
+أفسح الطريق من فضلك.	Make way, please.
+اتخذ خياراً.	Make your choice.
+ميري صفعت توم.	Mary slapped Tom.
+هل أستطيع أن آتي مرة أخرى؟	May I come again?
+أيمكنني أن أدخّن هنا؟	May I smoke here?
+سيارتي ألمانية الصنع.	My car is German.
+وشاحي أزرق.	My scarf is blue.
+معدتي تؤلمني.	My stomach hurts.
+ربطة عنقي برتقالية.	My tie is orange.
+لم يساعدني أحد.	No one helped me.
+لن يأتي أحد.	No one is coming.
+لا أحد يحب الحرب.	No one loves war.
+لن يعرف أحد.	No one will know.
+كل شيء وله ثمن	No pain, no gain.
+لا أحد جائع.	Nobody is hungry.
+لا يوجد شخص معصوم.	Nobody's perfect.
+لا يوجد شخص معصوم من الخطأ.	Nobody's perfect.
+لم يحدث شيء.	Nothing happened.
+تعال الى هنا من فضلك.	Please come here.
+لا تسأل إذا سمحت.	Please don't ask.
+من فضلك لا تبكِ.	Please don't cry.
+لا تبكِ من فضلك.	Please don't cry.
+من فضلك دعني أذهب.	Please let me go.
+تأكّد لو سمحت.	Please make sure.
+من فضلك تنحّى جانباً.	Please step back.
+استدر من فضلك.	Please turn over.
+إستعد	Prepare yourself.
+أراك غداً.	See you tomorrow.
+أصبحت سعيدة.	She became happy.
+اِنهالت بالبكاء.	She began crying.
+أجهشت بالبكاء.	She began crying.
+أخذت تبكي.	She began crying.
+كرهته.	She despised him.
+احتقرته.	She despised him.
+شعرها جاف.	She has dry hair.
+شعرها مبلول.	She has wet hair.
+هي طالبة	She is a student.
+إنها غاضبة عليّ.	She is mad at me.
+ظلت تعمل.	She kept working.
+تابعت عملها.	She kept working.
+إنها تحب الركض.	She likes to run.
+ضلّت طريقها.	She lost her way.
+من الممكن أن لا تأتي.	She may not come.
+قالت وداعا.	She said goodbye.
+لقد خدعتهُ.	She swindled him.
+لقد إحتالت عليه.	She swindled him.
+تم ترقيتها.	She was promoted.
+اجلس على الطاولة.	Sit at the table.
+اجلس معي.	Sit down with me.
+اِجلس من فضلك.	Sit down, please.
+تفضل بالجلوس.	Sit down, please.
+انتهى الصيف.	Summer has ended.
+ولى فصل الصيف.	Summer has ended.
+السباحة أمر سهل.	Swimming is easy.
+خذني معك.	Take me with you.
+تناول هذه الأقراص.	Take these pills.
+خذ هذه الأقراص.	Take these pills.
+أخبره بأن ينتظر	Tell him to wait.
+أخبرني عنها.	Tell me about it.
+لم يكن هذا مهذبا.	That wasn't nice.
+هذه أخبار طيبة.	That's good news.
+إنّ الكتابَ سهلٌ.	The book is easy.
+الكتابُ سهلٌ.	The book is easy.
+الكتاب هُنَا	The book is here.
+هرب الولد.	The boy ran away.
+السيارة جاهزة.	The car is ready.
+تكت الساعة .	The clock ticked.
+تحرك عقرب الثواني الخاص بالساعة .	The clock ticked.
+الكلب يحتضر.	The dog is dying.
+كان الكلب ميتاً.	The dog was dead.
+الباب مفتوح.	The door is open.
+البحر هائج.	The sea is rough.
+السماء صافية.	The sky is clear.
+الماء بارد	The water's cold.
+الماء دافئ	The water's warm.
+جف البئر.	The well ran dry.
+لا يوجد شك.	There's no doubt.
+هذا الكتاب جديد	This book is new.
+هذا الكتاب قديم.	This book is old.
+هذا بيتي.	This is my house.
+هذا غير صحيح.	This is not true.
+هذا مخجل.	This is shameful.
+هذا هو الحال.	This is the case.
+هذا كبير جدا	This is very big.
+ها هو مفتاحك.	This is your key.
+هذا مفتاحك.	This is your key.
+يستطيع توم الركض بسرعة.	Tom can run fast.
+لم يعترض سامي.	Tom didn't argue.
+توم لا يعلم.	Tom doesn't know.
+توم يشرب كثيرا.	Tom drinks a lot.
+توم يشرب الماء	Tom drinks water.
+غضب توم جدا.	Tom got very mad.
+توم لديه مناعة.	Tom has immunity.
+توم مصاب بالجدري.	Tom has smallpox.
+آذى توم نفسه.	Tom hurt himself.
+توم اذي نفسه.	Tom hurt himself.
+توم طالب.	Tom is a student.
+توم غاضب الآن.	Tom is angry now.
+توم خلفي.	Tom is behind me.
+توم مشغول أيضا.	Tom is busy, too.
+توم صديقي.	Tom is my friend.
+توم هناك.	Tom is out there.
+توم متديّن.	Tom is religious.
+توم نحيف جدا.	Tom is very slim.
+توم زير نساء.	Tom is womanizer.
+يحب توم الجبنة.	Tom likes cheese.
+يبدو توم قويّا.	Tom looks strong.
+خسر توم وظيفته.	Tom lost his job.
+أحب توم التزحلق	Tom loved skiing.
+يحب توم القطارات	Tom loves trains.
+توم احتاج ماء	Tom needed water.
+بدى توم ضجرا.	Tom seemed bored.
+يبدو توم بحال جيدة.	Tom seems OK now.
+توم يسرق الاشياء.	Tom steals stuff.
+توم أقترحَ هذا.	Tom suggested it.
+توم أقترحَ ذَلك.	Tom suggested it.
+توم يمشي ببطئ.	Tom walks slowly.
+كان توم غاضبا كثيرا.	Tom was so angry.
+جرب مرة أخرى.	Try it once more.
+أخفض صوت التلفاز.	Turn down the TV.
+امشِ أمامي.	Walk ahead of me.
+هل كان توم بحاراً؟	Was Tom a sailor?
+اسق البستان	Water the garden.
+وصلنا أولاً	We arrived first.
+لدينا فرصة.	We have a chance.
+ليس لدينا ماء.	We have no water.
+لدينا أذنان.	We have two ears.
+غادرنا بالقطار.	We left by train.
+خسرنا تلك المباراة.	We lost the game.
+ارتكبنا أخطاءً.	We made mistakes.
+نحن نرتكب اخطاء.	We make mistakes.
+قد نحتاج لبعضه.	We may need some.
+نحن نحتاج إلي المطر.	We need the rain.
+ليس عندنا إلا الشاي.	We only have tea.
+نمنا طوال اليوم.	We slept all day.
+لم نكن سعداء	We weren't happy.
+لم نكن محظوظين	We weren't lucky.
+الأفضل أن ننتظر.	We'd better wait.
+إننا في عجلة من أمرنا.	We're in a hurry.
+لسنا خائفين	We're not afraid.
+نحن لا نتواعد.	We're not dating.
+نحن آسفون جداً	We're very sorry.
+جميعنا اتفق.	We've all agreed.
+ياله من طفل لطيف!	What a cute baby!
+ما لونه؟	What color is it?
+ماذا قلت؟	What did you say?
+ماذا تحب؟	What do you like?
+ماذا تُفضّل؟	What do you like?
+ماذا تعني؟	What do you mean?
+ماذا تقصد؟	What do you mean?
+ما الذي تريده؟	What do you want?
+ماذا تريد؟	What do you want?
+ماذا لو رفضت؟	What if I refuse?
+ماذا لو فشِل؟	What if he fails?
+ما الذي يحدث؟	What is going on?
+ماذا عليّ أن أفعل؟	What should I do?
+ما الذي عليّ فعله؟	What should I do?
+ماذا أفعل الآن؟	What should I do?
+ما الذي أيقظك؟	What woke you up?
+ماذا للغداء؟	What's for lunch?
+ما الذي يحدث؟	What's happening?
+ماذا حصل؟	What's happening?
+ماذا تفعل؟	What's she doing?
+ما الذي تفعله؟	What's she doing?
+ما اسمُك؟	What's your name?
+ما هو قياسك؟	What's your size?
+الرأي رأيك.	Whatever you say.
+متى تنتهي؟	When does it end?
+متى ينتهي ذلك؟	When does it end?
+متى علينا الذهاب؟	When shall we go?
+متى علينا أن نذهب؟	When shall we go?
+إلى أين ذهبت؟	Where did you go?
+أين ذهبت؟	Where did you go?
+أين كتابي؟	Where is my book?
+أين سنذهب؟	Where will we go?
+أين ساعتي؟	Where's my watch?
+أين الزعيم؟	Where's the boss?
+أين الرئيس؟	Where's the boss?
+أين المخرج؟	Where's the exit?
+من هذه الفتاة؟	Who is this girl?
+من أخذ مفاتيحي؟	Who took my keys?
+من سيساعدني؟	Who will help me?
+من كتب هاملت؟	Who wrote Hamlet?
+لماذا أنت هنا؟	Why are you here?
+لماذا استقلت؟	Why did you quit?
+لم بقيت؟	Why did you stay?
+لماذا تدرس؟	Why do you study?
+لم الجو حار هكذا؟	Why is it so hot?
+هل ستساعدني؟	Will you help me?
+كان لديك خيار.	You had a choice.
+يجب أن تتوقف	You have to stop.
+من الممكن أن يكون ما تقوله صحيح.	You may be right.
+يمكنك الذهاب إلى هناك.	You may go there.
+أسمح لك بالذهاب إلى هناك إذا أردت.	You may go there.
+يجب عليك الانضمام لي.	You must join me.
+يجب ان تنتظر.	You need to wait.
+انت بحاجة للانتظار.	You need to wait.
+عليك النوم.	You should sleep.
+من الأفضل لك أن تنام.	You should sleep.
+يَنْبَغِيْ أَنْ تَنَام.	You should sleep.
+عليك ألا تذهب.	You shouldn't go.
+يُفضّل ألا تذهب.	You shouldn't go.
+سيروق لك ذلك.	You'll love this.
+أنتِ منفعلة.	You're emotional.
+أنت أبي.	You're my father.
+أنت والدي.	You're my father.
+أنتَ ربحتها.	You've earned it.
+يجب أن تذهب	You've got to go.
+هنا كلبك.	Your dog is here.
+ها هو كلبك.	Your dog is here.
+إحمرّ وجهك.	Your face is red.
+أضف القليل من الحليب.	Add a little milk.
+هل نحن مستعدون للذهاب	Are we good to go?
+هل الجميع جاهز؟	Are you all ready?
+هل كلكم جاهزون؟	Are you all ready?
+هل أنتَ بخير؟	Are you all right?
+سيبقى الأولاد أولاداً.	Boys will be boys.
+أحضر والدك	Bring your father.
+أيمكنني الذهاب إلى البيت الآن؟	Can I go home now?
+هل يستطيع الطفل أن يمشي؟	Can the baby walk?
+ألا تستطيع الشعور به ؟	Can't you feel it?
+اختر شخصاً واحداً.	Choose one person.
+نظف الغرفة.	Clean up the room.
+تعال إلى هنا حالاً.	Come here at once.
+تعال و اسبح معي.	Come swim with me.
+أيمكنك مساعدتي؟	Could you help me?
+من فضلك ساعدني.	Could you help me?
+البقر يعطينا الحليب.	Cows give us milk.
+وزع علينا الورق.	Deal us the cards.
+وزّع علينا ورق اللعب.	Deal us the cards.
+دافِعوا عن انفُسَكُم.	Defend yourselves.
+ألم أقل ذلك؟	Didn't I say that?
+هل تخبز خبز؟	Do you bake bread?
+هل تخبزي خبز؟	Do you bake bread?
+هل عندك سيارة؟	Do you have a car?
+أتمتلك سيارة؟	Do you have a car?
+ألديك قلم؟	Do you have a pen?
+هل لديك نقود؟	Do you have money?
+هل لديك مال ؟	Do you have money?
+أتحب الموسيقى؟	Do you like music?
+هل أنت بحاجة إلى المال؟	Do you need money?
+هل تفهم؟	Do you understand?
+هل تعمل لوحدك؟	Do you work alone?
+هل يأكل توم اللحم؟	Does Tom eat meat?
+هل تعرفك؟	Does she know you?
+لا تنس ذلك.	Don't forget that.
+لا تبحث عني	Don't look for me.
+لا تُخبِر أحداً.	Don't tell anyone.
+لا تلمس هذه الأشياء.	Don't touch these.
+ألقوا أسلحتكم!	Drop your weapons!
+ضحك الجميع.	Everybody laughed.
+جلس الجميع.	Everyone sat down.
+أعطني ذلك الكتاب	Give me that book.
+أعطني الملعقة.	Give me the spoon.
+اذهب و اجلس في السّيّارة.	Go sit in the car.
+تصبحين على خير يا والدتي	Goodnight, Mother.
+هل إنتهيت؟	Have you finished?
+لقد وافقني.	He agreed with me.
+سدّ عليّ الطريق.	He blocked my way.
+لقد أخلف وعده.	He broke his word.
+لقد أتى بنفسه	He came in person.
+مات البارحة.	He died yesterday.
+إنه ليس مدخنا.	He does not smoke.
+هو لا يدخن.	He does not smoke.
+شرب القليل.	He drank a little.
+غمز لي.	He gave me a wink.
+لديه ثلاثة أبناء.	He has three sons.
+عنده ثلاثة أولاد.	He has three sons.
+هو متهور.	He is a daredevil.
+إنه ليس مدخنا.	He isn't a smoker.
+استلقى على السرير.	He lay on the bed.
+إنه يسكن في طوكيو.	He lives in Tokyo.
+إنه يعيش في طوكيو.	He lives in Tokyo.
+هوَ لابد أن يجد عملاً.	He must find work.
+لقد رَفَضَ أن يدفع؟	He refused to pay.
+يتكلم بسرعة.	He speaks quickly.
+يتحدث بسرعة.	He speaks quickly.
+أشعل عود ثقاب.	He struck a match.
+يتحدث بسرعة كبيرة.	He talks too fast.
+إنه يتكلم أكثر مما يجب.	He talks too much.
+هو يدرس العربيه.	He teaches Arabic.
+رمى الكرة.	He threw the ball.
+لوى ذراعي.	He twisted my arm.
+سيأتي قريباً.	He will come soon.
+يبدو جيدا	He's looking good.
+ها هو كتابك.	Here is your book.
+تفضّل طلبك.	Here's your order.
+استمع إلي	Hey, listen to me.
+عيناه زرقاوتان.	His eyes are blue.
+هلا أمسكت بهذا من فضلك؟	Hold this, please.
+كيف حالك؟	How are you doing?
+و كيف أجبت؟	How did you reply?
+يا لك من محظوظ!	How lucky you are!
+كم أنتَ محظوظ!	How lucky you are!
+كم أنتِ محظوظة!	How lucky you are!
+كيف لي أن أعرف؟	How should I know?
+و كيف لي أن أعرف؟	How should I know?
+و كيف لي أن أعلم؟	How should I know?
+كيف حال الطقس؟	How's the weather?
+وافقتها الرأي.	I agreed with her.
+أنا وجدت ذلك أيضا.	I also found this.
+ذهبت إلى هناك أيضاً.	I also went there.
+عمري تسعة عشر عاماً.	I am 19 years old.
+أنا بالفعل متأخر.	I am already late.
+أنا تأخرت.	I am already late.
+أنا قادمٌ اليوم	I am coming today.
+أنا في المنزل.	I am in the house.
+أنا أقدر ذلك.	I appreciate this.
+طلبت النجدة.	I called for help.
+بالكاد يمكنني المشي.	I can hardly walk.
+أعرف كيف ألعب كرة المضرب.	I can play tennis.
+بإمكاني أن ألعب التنس.	I can play tennis.
+لا أستطيع أن أتركك.	I can't leave you.
+لا أطيقه.	I can't stand him.
+لم أهرب.	I didn't run away.
+أنا لا ألومهُ.	I don't blame him.
+أنا لا ألومك.	I don't blame you.
+أنا لا أضع اللوم عليك.	I don't blame you.
+لا آكل الفواكه.	I don't eat fruit.
+ليس لدي وقت.	I don't have time.
+ليس عندي وقت.	I don't have time.
+أنا لا أسكن هنا	I don't live here.
+لا أحتاج لهذا.	I don't need that.
+لا أريد لحما.	I don't want meat.
+لا أريدهم.	I don't want them.
+لا أريدهنّ.	I don't want them.
+أنا أشكّ بروايته .	I doubt his story.
+شككت في عيناي.	I doubted my eyes.
+سقطت منّي مفاتيحي.	I dropped my keys.
+أوقعت مفاتيحي.	I dropped my keys.
+أنا أنسى إسمه.	I forget his name.
+وجدت له عملا.	I found him a job.
+ركبتُ سيارة أجرة.	I got into a taxi.
+كم أكره المقابلات.	I hate interviews.
+لدي صداع في رأسي.	I have a headache.
+لدي سؤال.	I have a question.
+ليس لدي أخوات.	I have no sisters.
+لي أخت واحدة.	I have one sister.
+عليّ أن أجدها.	I have to find it.
+عليّ العثور عليها.	I have to find it.
+يجب أن أذهب إلى البيت	I have to go home.
+دفتر يومياتك عندي.	I have your diary.
+كنت أعلم أنه أنت.	I knew it was you.
+عرفت أنك ستأتي.	I knew you'd come.
+لقد علمت أنك قد تأتي	I knew you'd come.
+أنا أعلم أنه مشغول.	I know he is busy.
+أعرف هذه المرأة.	I know this woman.
+تركت لك ملاحظة.	I left you a note.
+أحب القهوة ساخنة.	I like coffee hot.
+أحب شرب القهوة ساخنة.	I like coffee hot.
+أحب أن أشرب القهوة ساخنة	I like hot coffee.
+أحب الشعر القصير.	I like short hair.
+يعجبني عرضك.	I like your offer.
+أحببت هذا الفيلم.	I liked this film.
+لقد فقدتُ نظّاراتي.	I lost my glasses.
+أحب التحديات	I love challenges.
+أنا أيضاً أحب الموسيقى.	I love music, too.
+أحب ذاك الكرسي.	I love that chair.
+أحِبُّ هذا المتجر.	I love this store.
+نادرا ما آكل اللحم.	I rarely eat meat.
+اشتقت إليك حقا	I really miss you.
+رأيته يركض.	I saw him running.
+رأيته يجري	I saw him running.
+رأيتك تطبخ.	I saw you cooking.
+رأيتك في الخارج.	I saw you outside.
+رأيت أباك	I saw your father.
+نادرا ما آكل اللحم.	I seldom eat meat.
+أعتقد بأني محق.	I think I'm right.
+اعتقد خلاف ذلك.	I think otherwise.
+اعتقد غير ذلك.	I think otherwise.
+أريد بعض المال.	I want some money.
+أريد أن أكون هنا	I want to be here.
+أريد أن أذهب إلى البيت	I want to go home.
+كنت لا أزال صبيّا آنذاك.	I was a baby then.
+كُنتُ نِصفَ نائم	I was half asleep.
+سُرقت للتو.	I was just mugged.
+إنني قلق عليه.	I worry about him.
+أريد رغيف لحم.	I'd like meatloaf.
+سأفعلها بنفسي.	I'll do it myself.
+سوف أُحضرُ الطعام.	I'll get the food.
+سأذهبُ منفردًا	I'll go on my own.
+سأعلّمك.	I'll let you know.
+سأدفع الفاتورة.	I'll pay the bill.
+الحساب عليّ.	I'll pay the bill.
+أنا سأدفع الحساب.	I'll pay the bill.
+سانتظرك.	I'll wait for you.
+سأنتظر في الخارج.	I'll wait outside.
+أنا طالب جديد	I'm a new student.
+لا أجيد ممارسة الرياضة .	I'm bad at sports.
+أنا مثلك تماما.	I'm just like you.
+أنا لست طالباً.	I'm not a student.
+انا لست سائحاً.	I'm not a tourist.
+لستُ عاجزا.	I'm not powerless.
+لست جاهزاً بعد.	I'm not ready yet.
+أنا غير متفاجئ.	I'm not surprised.
+أنا غير متفاجئة.	I'm not surprised.
+أنا فوق ثمانية عشر عاماً.	I'm over eighteen.
+أنا جائع جداً.	I'm really hungry.
+أنا في غاية الجوع.	I'm really hungry.
+أنا جائعٌ للغاية.	I'm really hungry.
+بذلت قصارى جهدي.	I've done my best.
+قمت بواجبي.	I've done my duty.
+قمت بما عليّ.	I've done my duty.
+هل توم هناك أيضاً؟	Is Tom there, too?
+هل أى ينظر أحد؟	Is anyone looking?
+أهذا كلب توم ؟	Is that Tom's dog?
+هل تلك السيارة لك؟	Is that car yours?
+هل هذا ذهب خالص؟	Is that pure gold?
+أهذه غرفتك؟	Is that your room?
+هل الحمّام جاهز؟	Is the bath ready?
+هل الماء بارد؟	Is the water cold?
+أتلك درّاجتك؟	Is this your bike?
+هل هذا كتابك؟	Is this your book?
+لا يمكن أن يكون ذلك صحيحاً.	It cannot be true.
+هذا لا يهم.	It doesn't matter.
+إنّه قدرنا.	It is our destiny.
+كان غريبا بحق.	It was very weird.
+إنه بيانو قديم.	It's an old piano.
+انها للسياح.	It's for tourists.
+إنها لأخي.	It's my brother's.
+إنه أخي.	It's my brother's.
+ليس ذنبي.	It's not my fault.
+الفرصة الأخيرة	It's now or never.
+إنها علي الطاولة.	It's on the table.
+الأمر غريب.	It's pretty weird.
+إنها بعيدة جداً.	It's too far away.
+اِبقَ بعيداً عني.	Keep away from me.
+ابقي ذقنك مرفوعاً	Keep your chin up.
+ارفع رأسك.	Keep your chin up.
+اتركني أدخل لو سمحت.	Let me in, please.
+دعونا نقلب العملة.	Let's flip a coin.
+دعونا نعكس العملة.	Let's flip a coin.
+لننسى الأمر.	Let's forget that.
+هيا لنبدأ.	Let's get started.
+دعنا لا نعود للمنزل.	Let's not go home.
+لنلعب كرة القدم.	Let's play soccer.
+لنلعب الكرة.	Let's play soccer.
+لنتصافح.	Let's shake hands.
+لنلقِ نظرة.	Let's take a look.
+دعونا نأخذ تصويت.	Let's take a vote.
+الحياة جميلة.	Life is beautiful.
+استمع إلي	Listen to me, Tom.
+لم أرك منذ زمن.	Long time, no see.
+انظر إلى السعر	Look at the price.
+شاهد ما وجدت.	Look what I found.
+اللحم غالي الثمن.	Meat is expensive.
+سُرقت حقيبتي.	My bag was stolen.
+كلبي ينبح.	My dog is barking.
+أبي غني	My father is rich.
+عمىِ غاضب.	My uncle is angry.
+لا تنس ذلك أبدا.	Never forget that.
+لم يرسب أحد.	No one has failed.
+لا مشكلة مطلقا!	No problem at all!
+لا مشكلة على الإطلاق!	No problem at all!
+كُن جادًّا أرجوك.	Please be serious.
+كوني جادًّة أرجوكِ.	Please be serious.
+سامحني من فضلك.	Please forgive me.
+سامحني أرجوك.	Please forgive me.
+انظر إليّ من فضلك.	Please look at me.
+أرجوك، كفى كذبًا.	Please stop lying.
+قُلها فى الإنجليزية.	Say it in English.
+قُل ذلك فى الإنجليزية؟	Say it in English.
+أراك الأسبوع القادم!	See you next week!
+أصبحت مشهورة.	She became famous.
+يمكنها القفز عالياً.	She can jump high.
+لقد لفتت انتباهي.	She caught my eye.
+أتَتْ إلى هنا حقا.	She did come here.
+عيناها زرقاوتان.	She has blue eyes.
+تحب البرتقال.	She likes oranges.
+إنها تحب الركض.	She likes running.
+إنها تحب القراءة.	She likes to read.
+بدت وحيدة.	She looked lonely.
+إنها تتحدث الألمانية.	She speaks German.
+تحدثت بسرعة.	She spoke rapidly.
+بكت بحرارة.	She wept bitterly.
+بكت بمرارة.	She wept bitterly.
+ليست طفلة.	She's not a child.
+متأسف، إنه خطأي.	Sorry, my mistake.
+اِبقَ بعيداً عني.	Stay away from me.
+ابق هنا معنا.	Stay here with us.
+ابق معنا.	Stay here with us.
+السرقة خطأ.	Stealing is wrong.
+كُفّ عن إزعاجي!	Stop bothering me!
+كفاكَ مبالغة.	Stop exaggerating.
+أوقف هذا حالاً!	Stop it right now!
+أحضر توم للطابق العلوي.	Take Tom upstairs.
+خذ مفاتيح سيّارته.	Take his car keys.
+خذ هذا أو ذاك.	Take this or that.
+أخبرني بالحقيقة.	Tell me the truth.
+شكرًا مقدمًا.	Thanks in advance.
+ذاك البيت كبير.	That house is big.
+هذا هو منزله.	That is his house.
+ذاك كتابك.	That is your book.
+لن يحصُلَ ذلِك.	That won't happen.
+تلك السيارة ليست ملكي	That's not my car.
+تلك ليست سيارتي	That's not my car.
+لذلك أنا خرجت	That's why I quit.
+من أجل ذلك أنا خرجت	That's why I quit.
+لهذا أنا خرجت	That's why I quit.
+الحمّام جاهز.	The bath is ready.
+الفاتورة من فضلك.	The check, please.
+توقفت الساعة عن العمل.	The clock stopped.
+إنّ الشّرطة هنا.	The cops are here.
+الباب مقفل.	The door's locked.
+تدور الأرض.	The earth rotates.
+الفتيات خجولات.	The girls are shy.
+كان الرجل يحتضر.	The man was dying.
+القلم مكسور.	The pen is broken.
+البيتزا باردة.	The pizza is cold.
+الثمن مرتفع.	The price is high.
+كان المتجر مكتظا.	The shop was busy.
+الماء بارد	The water is cold.
+الماء دافئ	The water is warm.
+إنهم كبار جداً	They are very big.
+لقد اتبعوك.	They followed you.
+هذا الكتاب سيفي بالغرض.	This book will do.
+هذا مكتبي.	This desk is mine.
+هذا المكتب لي.	This desk is mine.
+هذا الكلب أبيض.	This dog is white.
+هذا بيتها.	This is her house.
+هذا بيته.	This is his house.
+هذا منزله.	This is his house.
+هذا مكتبي.	This is my office.
+هذا جيد جدا	This is very good.
+ذاك كتابك.	This is your book.
+هذه ليست فرنسية	This isn't French.
+هذا اللحم جيد.	This meat is good.
+اليوم هو السبت	Today is Saturday.
+توم أيضا كان هنا.	Tom also was here.
+توم يحبك	Tom does love you.
+قاد توم السيارة.	Tom drove the car.
+ركب توم السيارة.	Tom drove the car.
+شعر توم بالحيره.	Tom felt confused.
+أعطاني توم قلماً.	Tom gave me a pen.
+توم لديه شعر رمادي.	Tom has gray hair.
+توم رجل لطيف .	Tom is a kind man.
+توم رجل لطيف .	Tom is a nice man.
+توم ملحد.	Tom is an atheist.
+توم رهينتي.	Tom is my hostage.
+توم ليس متزوجاً.	Tom isn't married.
+توم ليس طويلاً جداً.	Tom isn't so tall.
+يعرفنا توم جيدا	Tom knows us well.
+يحب توم الحياكة.	Tom likes to knit.
+توم يحب أن يقرأ	Tom likes to read.
+يبدو "توم" مذهلا	Tom looks amazing.
+يبدو توم في حيرة.	Tom looks baffled.
+يحب توم الحيوانات	Tom loves animals.
+آمل أن يسير كل شيء على ما يرام	Tom loves cooking.
+توم يحب القراءة	Tom loves reading.
+أغضبني توم.	Tom made me angry.
+ارتكب توم أخطاء.	Tom made mistakes.
+أحرز توم هدفًا.	Tom scored a goal.
+توم تنهد بعمق	Tom sighed deeply.
+توم يريد ان يأتي.	Tom wants to come.
+كان توم خجِلا بعض الشيئ.	Tom was a bit shy.
+لن يدفع لك توم.	Tom won't pay you.
+لن يدفع توم لك.	Tom won't pay you.
+توم سيرغب بها.	Tom would like it.
+حاول أن تهدأ.	Try and calm down.
+افتح الراديو.	Turn on the radio.
+قوموا بزيارتنا غداً.	Visit us tomorrow.
+قُم بزيارتنا غداً.	Visit us tomorrow.
+كان ذلك كثيرا	Was that too much?
+انظر كيف أقوم بذلك	Watch how I do it.
+نحن لا نعلم من هي.	We don't know her.
+إننا لا نعرفها.	We don't know her.
+نحن لا نعرفها	We don't know her.
+إننا لا نعرفه.	We don't know him.
+نحن لا نعرف عنه شيئاً.	We don't know him.
+نحن لا نعرفه.	We don't know him.
+نحن لا نعرفه	We don't know him.
+لدينا كلبٌ كبير.	We have a big dog.
+لدينا مشكلة.	We have a problem.
+لدينا أخبار جيدة.	We have good news.
+نحتاج إلى مساعدتك.	We need your help.
+نحن ذاهبون إلى بوسطن.	We went to Boston.
+كنّا كلّنا متعبون.	We were all tired.
+سنحمي توم.	We'll protect Tom.
+نحن ضد الحرب.	We're against war.
+نحن في حداد.	We're in mourning.
+نحن أصدقاء قدامى.	We're old friends.
+هل كنت نائما؟	Were you sleeping?
+هاذا عساني أن أفعل الآن؟	What can I do now?
+ماذا صنع توم؟	What did Tom make?
+ماذا احتاج توم؟	What did Tom need?
+ماذا صنعت؟	What did you make?
+ماذا يريدون؟	What do they want?
+ماذا ترون؟	What do you think?
+ما رأيكم؟	What do you think?
+ما رأيك؟	What do you think?
+ماذا يريد؟	What does he want?
+ماذا إذا كنت على حق؟	What if I'm right?
+ما الذي يحدث؟	What is happening?
+ماذا للعشاء؟	What's for dinner?
+ما الأمر؟	What's the matter?
+ما السر؟	What's the secret?
+متى تكون مشغولاً؟	When are you busy?
+متىَ أتيتَ؟	When did you come?
+متىَ أتيتِ؟	When did you come?
+متى نصل؟	When do we arrive?
+متى تدرس؟	When do you study?
+متى الحفلة؟	When is the party?
+متى ولدت؟	When was she born?
+أين هي مفاتيحي؟	Where are my keys?
+أين تسكن؟	Where do you live?
+أين تعمل؟	Where do you work?
+أين تذهب للعمل؟	Where do you work?
+أين مكان عملك؟	Where do you work?
+أين ساعتي؟	Where is my watch?
+أين المصرف؟	Where is the bank?
+أين الكتاب؟	Where is the book?
+أين الألم؟	Where is the pain?
+أين تحس بالوجع؟	Where is the pain?
+أين وُلد؟	Where was he born?
+أين سأعيش؟	Where will I live?
+أين سنأكل؟	Where will we eat?
+أين أبي؟	Where's my father?
+أين تذكرتي؟	Where's my ticket?
+أين المال؟	Where's the money?
+أي سيارة هي سيارتنا؟	Which car is ours?
+أيها حقيبتك؟	Which is your bag?
+أيٌّ قلمك؟	Which is your pen?
+مَن أكل الخبز؟	Who ate the bread?
+لمن تلك السيارة؟	Whose car is that?
+لمن هذه السيارة؟	Whose car is this?
+لمن هذا القلم؟	Whose pen is this?
+قلم مَن هذا؟	Whose pen is this?
+لم نختبئ؟	Why are we hiding?
+لم أنت وحدك؟	Why are you alone?
+لما أنت ذاهب؟	Why are you going?
+لم حدث ذلك؟	Why did it happen?
+لماذا الثلج أبيض؟	Why is snow white?
+لماذا هذا خطأ؟	Why is that wrong?
+لماذا تأخرت؟	Why were you late?
+هلا تزوّجتني؟	Will you marry me?
+نعم، ذلك صحيح.	Yes. That's right.
+أنتِ جميلة	You are beautiful.
+أنت مضحك.	You are hilarious.
+أنت تقف في طريقي.	You are in my way.
+أنت صديقي.	You are my friend.
+أنتِ أُمّي.	You are my mother.
+من الأفضل لك أن تذهب.	You had better go.
+من الأفضل لك الذهاب.	You had better go.
+ليس لديك أي حُمّى.	You have no fever.
+تبدو مألوفاً.	You look familiar.
+أنت تجعلني سعيداً.	You make me happy.
+أنت تجعلني سعيدا/أنت تسعدني	You make me happy.
+عليك أن تساعدها.	You must help her.
+إنّك مدين لي بقبلة.	You owe me a kiss.
+إنّكِ مدينة لي بقبلة.	You owe me a kiss.
+إنك تتكلم كثيراً.	You talk too much.
+أنت كثير الكلام.	You talk too much.
+أنت تفهمني.	You understand me.
+أنت تفهمني	You understand me.
+إنك تجهد نفسك بالعمل.	You work too hard.
+أنت تجهد نفسك في عملك.	You work too hard.
+أنت ولد مُطيع.	You're a good boy.
+إنك ولد مهذّب.	You're a good boy.
+كلاكما على صواب	You're both right.
+أنت مقرف!	You're disgusting!
+أنت تسخر مني.	You're mocking me.
+خربشني قط.	A cat scratched me.
+الطفل يحتاج الى الحنان.	A child needs love.
+أجبني علی سؤالي.	Answer my question.
+أي طفل يعرف ذلك.	Any child knows it.
+أي شخص يمكنه فعل ذلك.	Anyone can do that.
+هل أنت ملحد؟	Are you an atheist?
+هل أنت سعيد هنا؟	Are you happy here?
+هل أنت مستعجل؟	Are you in a hurry?
+هل أنت مسجَّلٌ؟	Are you registered?
+ألست عطشاناً؟	Aren't you thirsty?
+ألست عطِشاً؟	Aren't you thirsty?
+الموز أصفر.	Bananas are yellow.
+أيمكنك أن تُرِيَني ذلك؟	Can I see this one?
+هل يمكنني التحدث إلى توم؟	Can I speak to Tom?
+هل بإمكاني التحدث إلى توم؟	Can I speak to Tom?
+أيمكنني أن أستخدم قلمك؟	Can I use your pen?
+هل يمكنك أن تلومهم؟	Can you blame them?
+الأطفال يموتون.	Children are dying.
+الأطفال يحبّون الكلاب.	Children love dogs.
+تعال معي.	Come along with me.
+تَحَكَموا بأنفُسَكُم.	Control yourselves.
+هل لديك شك.	Do you have doubts?
+هل تحب الفرنسية؟	Do you like French?
+هل تحب التفاح؟	Do you like apples?
+هل تحب أكل التفاح؟	Do you like apples?
+هل تحب كره القدم؟	Do you like soccer?
+هل تحب كرة المضرب؟	Do you like tennis?
+هل تحب لعب التنس؟	Do you like tennis?
+هل تحب الجري؟	Do you like to run?
+هل تلعب كرة القدم؟	Do you play soccer?
+هل تلعب الكرة؟	Do you play soccer?
+هل تعرف كيف تلعب كرة القدم؟	Do you play soccer?
+أتلعب التنس؟	Do you play tennis?
+هل تذكرني؟	Do you remember me?
+أما زلت تذكرني؟	Do you remember me?
+هل تتذكرنا؟	Do you remember us?
+لا تكن ولداً سيئاً.	Don't be a bad boy.
+لا تُطعم الكلب.	Don't feed the dog.
+لا تنس هذه.	Don't forget these.
+لا تهربي	Don't get run over.
+لا تغضب كثيرًا.	Don't get so angry.
+لا تخاطر.	Don't take chances.
+ما يأتي سهلا يذهب سهلا.	Easy come, easy go.
+الكل يكبر.	Everybody gets old.
+الجميع يحبها.	Everyone likes her.
+الكل يحبونها.	Everyone likes her.
+الكل كان سعيداً.	Everyone was happy.
+كل شيء على ما يرام.	Everything is fine.
+الأهم فالمهم.	First things first.
+انس أنّني قلت ذلك.	Forget I said that.
+اجلب بعض الماء لتوم.	Get Tom some water.
+إرجع!	Get back, get back!
+أعط هذا الكتاب لتوم	Give Tom this book.
+هل تقابلنا من قبل؟	Have we met before?
+هل أصبت بعيار ناري؟	Have you been shot?
+هل أصبت بالرصاص؟	Have you been shot?
+هل أصبت بطلق ناري؟	Have you been shot?
+هل جننت؟	Have you gone nuts?
+صرخ طالباً النجدة.	He called for help.
+بإمكانه قيادة السيارة.	He can drive a car.
+أغلقَ الباب.	He closed the door.
+إنه يحسن الكلام.	He does speak well.
+إنه لا يحبنا.	He doesn't like us.
+وصل أخيرا.	He finally arrived.
+لديه سيارته الخاصة.	He has his own car.
+لم يأتِ بعد.	He hasn't come yet.
+هو رجل حكمة.	He is a man of wit.
+إنه يتيم حرب.	He is a war orphan.
+هو ليس يابانياً.	He is not Japanese.
+إنه ليس مدخنا.	He is not a smoker.
+ركل الكرة.	He kicked the ball.
+قتل ذلك الرجل.	He killed that man.
+لقد قام بقتل ذاك الرجل.	He killed that man.
+إنهُ يبدو بحالة جيداً جداً.	He looks very good.
+إنه يحب السفر.	He loves traveling.
+رفع يده.	He raised his hand.
+إنهُ اظهرها علي.	He showed it to me.
+إنهُ بينها لي.	He showed it to me.
+إنهُ يريد الإنتقام.	He wants vengeance.
+إنهُ لم يكن مدعو.	He was not invited.
+إنه يعمل في المصرف.	He works at a bank.
+إنه شخص جيد.	He's a good person.
+إنه شخص جيد	He's a good person.
+ها قد وصلت الحافلة!	Here comes the bus!
+ها قد أتى الباص!	Here comes the bus!
+ها قد أتت الحافلة.	Here comes the bus.
+ها قد وصل الباص.	Here comes the bus.
+ها هي دراجتي.	Here is my bicycle.
+ها هو العنوان.	Here's the address.
+هاهي قوتك.	Here's your coffee.
+كيف بإمكاني مساعدتك؟	How can I help you?
+كيف يمكنني أن أساعدك؟	How can I help you?
+كيف تفعل ذلك؟	How do you do that?
+كيف حال الطقس؟	How is the weather?
+كيف حال أخيك؟	How's your brother?
+أنا طفل وحيد أبي و أمي.	I am an only child.
+اشتريتُ سيارةً جديدةً.	I bought a new car.
+اِشتريت ربطة عنق حمراء.	I bought a red tie.
+حرقت اصبعي.	I burned my finger.
+يمكن أن أخرج توم من المأزق.	I can help Tom out.
+لا أصدق!	I can't believe it!
+لا أستطيع أن أُصدق هذا!	I can't believe it!
+لا أستطيع عزفَ البيانو.	I can't play piano.
+أنا من البرازيل	I come from Brazil.
+لا يمكنني أن أصدق!	I don't believe it!
+لا يمكنني تصديق ذلك!	I don't believe it!
+أنا لا ألومهم.	I don't blame them.
+ليس لدي نقود	I don't have money.
+لا أفهم.	I don't understand.
+أنا لا أفهم.	I don't understand.
+أنا لا أفهم	I don't understand.
+شربت القهوة.	I drank the coffee.
+أتوقع مساعدتك.	I expect your help.
+أتوقع منك أن تساعدني.	I expect your help.
+أعدك بذلك	I give you my word.
+لدي الكثير لأفعله.	I have a lot to do.
+لدي جلد دهني.	I have greasy skin.
+لدي العديد من الصور.	I have many photos.
+ليس لدي أشقاء.	I have no siblings.
+لديّ أخ واحد.	I have one brother.
+لي أخ وحيد.	I have one brother.
+لدي ابنا عم.	I have two cousins.
+عندي ابنا خالة.	I have two cousins.
+وصلت منذ لحظات.	I just arrived now.
+وصلت للتوّ.	I just arrived now.
+أعرف أن توم أصلع.	I know Tom is bald.
+أنا أعرف عنوانها.	I know her address.
+لا أعرف شيئاً بعد.	I know nothing yet.
+أعرف أولئك الفتيات.	I know those girls.
+أنا أعرف هؤلاء الفتيات	I know those girls.
+أنا أعلم ما أحب	I know what I like.
+أنا أعلم ما أريد	I know what I want.
+أعرف أباك.	I know your father.
+أنا أعرف أباك	I know your father.
+أنا أعرف أمك	I know your mother.
+أحب ضوء الشموع.	I like candlelight.
+نظرت حولي.	I looked around me.
+تفقدت ما حولي.	I looked around me.
+احب أن اكون لوحدي	I love being alone.
+أحب القصص المصورة.	I love comic books.
+قابلت امرأة عجوز.	I met an old woman.
+صادفت سيدة كبيرة السن.	I met an old woman.
+أريد واحدا آخر.	I need another one.
+أحتاج نصيحتك.	I need your advice.
+أنا حقا احب القطط.	I really love cats.
+أنا أحبّ الكلاب حقّا.	I really love dogs.
+في البداية رفضت.	I refused at first.
+رأيت الرجل يقفز.	I saw the man jump.
+صفعته على وجهه.	I slapped his face.
+صفعت وجهه.	I slapped his face.
+أسبح مرةً في الأسبوع.	I swim once a week.
+أظن أنه سعيد.	I think he's happy.
+قلت له أن يأتي.	I told him to come.
+عملت بنصيحتك.	I took your advice.
+لقد لويت كاحلي.	I twisted my ankle.
+أريد هذه الكاميرا.	I want this camera.
+أريدُ أن أكونَ وحيداً!	I want to be alone!
+أريد أن أجرب ذلك.	I want to try this.
+أردت الحذاء الأحمر.	I wanted red shoes.
+أريد حذاءً أحمراً.	I wanted red shoes.
+كنت في الحفلة.	I was at the party.
+أن ولدت في عام 1972.	I was born in 1972.
+كنت أتوقعه!	I was expecting it!
+سأقرأ كتاباً.	I will read a book.
+أنا أعمل في مخبز.	I work at a bakery.
+كتبتها لأجلها.	I wrote it for her.
+سأرافقك.	I'll accompany you.
+سأتّصل بالشّرطة.	I'll call the cops.
+طعام العشاء سأشتريه أنا.	I'll pay for lunch.
+أراك لاحقاً.	I'll see you later.
+سأستحِمّ.	I'll take a shower.
+سآخذ هذا.	I'll take this one.
+سأوصلك إلى البيت	I'll take you home.
+سأفكّر في الأمر.	I'll think it over.
+سأنتظر أعلى الدرج.	I'll wait upstairs.
+إنني متعب قليلاً.	I'm a little tired.
+إني متعب بعض الشيء.	I'm a little tired.
+أنا امرأة قوية.	I'm a strong woman.
+إنني على وشك أن أغادر.	I'm about to leave.
+أنا اخشى الخفافيش	I'm afraid of bats.
+أنا أشرب الماء	I'm drinking water.
+أنا من أُستراليا.	I'm from Australia.
+بدأت أحس بالجوع.	I'm getting hungry.
+أنا ذاهب لأدرس.	I'm going to study.
+انا مندهش , توم	I'm impressed, Tom.
+انا فقط سائح.	I'm just a tourist.
+تأخّرتُ عن الحِصّة.	I'm late for class.
+لن أعود.	I'm not going back.
+أنا لست مستعجلاً.	I'm not in a hurry.
+أنا لست عبدك.	I'm not your slave.
+أنا في طريقي إلی المنزل	I'm on my way home.
+أحاول المساعدة فحسب.	I'm trying to help.
+لقد قطعت اصبعي.	I've cut my finger.
+لم أحصل على خيار.	I've got no choice.
+أمضيت يوما سيّئا.	I've had a bad day.
+لم أسمع شيئاً.	I've heard nothing.
+لقد تعلّمت الكثير.	I've learned a lot.
+لم أقابله من قبل.	I've never met him.
+لم يسبق لي أن قابلته.	I've never met him.
+أصِرَّ على الأفضل.	Insist on the best.
+هل هي أختك؟	Is she your sister?
+هل هنالك أي شك؟	Is there any doubt?
+هل هذا الكتاب لك؟	Is this book yours?
+أهذا كتابك؟	Is this book yours?
+هل ذاك الكتاب لك؟	Is this book yours?
+أليست طبيبة؟	Isn't she a doctor?
+لا يمكن أن يدوم طويلا.	It can't last long.
+لقد قاربت الساعة على الثالثة.	It is almost three.
+إنها تمطر بشدة.	It is raining hard.
+كان ذلك خطأهم.	It was their fault.
+كان يستحق المحاولة.	It was worth a try.
+سينتهي هذا قريبًا.	It'll be over soon.
+إنها قصةٌ مضحكة.	It's a funny story.
+العالم قرية صغيرة.	It's a small world.
+ستمطر.	It's going to rain.
+تحسنت.	It's gotten better.
+تحسن الوضع.	It's gotten better.
+هذا مالي أيضا.	It's my money, too.
+ليس مهماً.	It's not important.
+ليس هذا مهماً.	It's not important.
+ليس بتلك الصعوبة.	It's not that hard.
+إنها مجرد نظرية.	It's only a theory.
+إنها تمطر مجدداً!	It's raining again!
+إنها غالية جداً!	It's too expensive.
+الحرارة مرتفعة جدا هنا	It's very hot here.
+العلم قوة.	Knowledge is power.
+المعرفة قوة.	Knowledge is power.
+اترك سيارتي و شأنها.	Leave my car alone.
+دعِ الأمر لي.	Let me handle this.
+دعنا نصنع تجارة.	Let's make a trade.
+دعينا نصنع تجارة.	Let's make a trade.
+دعونا نصنع تجارة.	Let's make a trade.
+هيا نصنع تجارة.	Let's make a trade.
+دعنا لا نشاهد التلفاز.	Let's not watch TV.
+لننتظر قليلا.	Let's wait a while.
+الحياة قصيرة جداً.	Life is very short.
+انظر إلى سيارتي الجديدة	Look at my new car.
+أنظر إلى هذا المنزل.	Look at that house.
+أيمكنني أن أركض معك؟	May I run with you?
+هل لي أن آخذ صورة؟	May I take a photo?
+أيمكنني أخذ صورة؟	May I take a photo?
+ربما أنت محق.	Maybe you're right.
+لربما كنت محقاً.	Maybe you're right.
+الأخطاء قد أرتكبت.	Mistakes were made.
+ما زال ذراعي يؤلمني.	My arm still hurts.
+لدي ميزانيّة ضئيلة.	My budget is tight.
+كان مصيري محسوما.	My fate was sealed.
+ما زالت قدماي تؤلمانني.	My legs still hurt.
+ما زالت قدمَيّ تؤلمانني.	My legs still hurt.
+قدمي ما زالت تؤلمني.	My legs still hurt.
+أمي غاضبة.	My mother is angry.
+والدتي غاضبة.	My mother is angry.
+أمي مجنونه.	My mother is crazy.
+ساقي اليمني تؤلمني.	My right leg hurts.
+لا يستطيع أحدٌ مساعدتي.	No one can help me.
+لم يكن هناك أحد.	No one was present.
+لم يصب أحد بأذى.	Nobody was injured.
+ليس هناك ما ينقص.	Nothing is missing.
+ابتعد عن طريقي يا فتى.	Out of my way, boy.
+يحترق الورق بسهوله.	Paper burns easily.
+إسحب الآخر	Pull the other one.
+تتكاثر الفئران بسرعة.	Rats breed rapidly.
+تذكر العام الماضي.	Remember last year.
+أُنْشِئَتْ مدارس.	Schools were built.
+كادت تغرق	She almost drowned.
+أصبحت ممرضة.	She became a nurse.
+أتت لتراني.	She came to see me.
+أتت لزيارتي.	She came to see me.
+لديها نظارة شمسية.	She has sunglasses.
+عندها نظارة شمسية.	She has sunglasses.
+إنها من فرنسا.	She is from France.
+إنّها فاقدة الوعي.	She is unconscious.
+إنها ماهرة جداً.	She is very clever.
+إنها في غاية المهارة.	She is very clever.
+إنها جميلة جداً.	She is very pretty.
+استمعت لي.	She listened to me.
+فقدت حقيبتها.	She lost her purse.
+إنها تحب الأطفال.	She loves children.
+جلست بجانبي.	She sat next to me.
+هي ولدت محظوظة.	She was born lucky.
+إنها في اجتماع الآن.	She's at a meeting.
+إنها زميلتي.	She's my classmate.
+إنها ليست طبيبة.	She's not a doctor.
+تتحرك الحلزونات ببطء.	Snails move slowly.
+بعض الماء، من فضلك	Some water, please.
+شخص ما يأكل.	Somebody is eating.
+بطريقة ما أنا أشك في ذلك.	Somehow I doubt it.
+ارجع إلى الوراء من فضلك.	Stand back, please.
+تنحّى جانبا إذا سمحت.	Stand back, please.
+ابق مكانك.	Stay where you are.
+توقف عن تبذير الماء	Stop wasting water.
+خذها إلى غرفة العمليات	Take her to the OR.
+خذ ما تحتاجهُ.	Take what you need.
+خذ ما تريد	Take what you want.
+أوصل سلامي لتوم.	Tell Tom hi for me.
+ذلك الكتاب صغير	That book is small.
+ذلك مثير للإهتمام.	That is intriguing.
+هذه مدرستنا.	That is our school.
+هذه ليست زوجتي.	That isn't my wife.
+هذا اصبعي.	That was my finger.
+كان ذلك منذ عدة سنين.	That was years ago.
+حصل ذلك منذ سنوات عدة.	That was years ago.
+هذه فكرة جيدة!	That's a good idea!
+تلك فكرة جيدة.	That's a good idea.
+هذه خطة جيدة.	That's a good plan.
+قول هذا سهل.	That's easy to say.
+من الصعب التأكد.	That's hard to say.
+هذه ليست زوجتي.	That's not my wife.
+كان المكان هادئاً.	The area was quiet.
+الولد عطشان.	The boy is thirsty.
+تعطلت السيارة.	The car broke down.
+يريد الكلب لحما.	The dog wants meat.
+الباب مغلق.	The door is closed.
+الباب مغلق.	The door is locked.
+الأرض كروية.	The earth is round.
+انطفأ اللهب.	The flame went out.
+الفتاة تشعر بالوحدة.	The girl is lonely.
+انطفأت الأضواء.	The lights are out.
+اللحم مجمد.	The meat is frozen.
+أنقلبَ السحرُ على الساحرِ.	The plan backfired.
+انقطعت الكهرباء.	The power went out.
+كانت الإشارة حمراء.	The signal was red.
+سقطت الشجرة.	The tree fell down.
+الماء نقي.	The water is clean.
+كان الماء ازرقا	The water was blue.
+كان الماء باردا	The water was cold.
+كان الماء دافئا	The water was warm.
+الأمواج عالية.	The waves are high.
+ليس هناك أي خطأ.	There's no mistake.
+هذه كتبي.	These are my books.
+هذه الكلاب كبيرة.	These dogs are big.
+هم أعطوها لي	They gave it to me.
+قد يسمعانا.	They might hear us.
+قد يسمعونا.	They might hear us.
+لقد هوجموا.	They were attacked.
+هذا كتابك.	This book is yours.
+هذا الكتاب لك.	This book is yours.
+كان ذاك الكتاب سهلاً.	This book was easy.
+هذا الكرسي قبيح.	This chair is ugly.
+هذا الكلب يركض بسرعة.	This dog runs fast.
+هذا بيتي.	This house is mine.
+هذا البيت بيتي.	This house is mine.
+ذلك كلب ماري.	This is Mary's dog.
+هذا كل ما لدي	This is all I have.
+هذا أخي	This is my brother.
+هذه السيارة ليست ملكي	This is not my car.
+هذا شنيع	This is outrageous.
+هذه قصة حقيقية.	This story is true.
+ذلك بنطالي.	Those are my pants.
+تلك الكلاب ضخمة.	Those dogs are big.
+اليوم هو الأربعاء	Today is Wednesday.
+كاد توم يغرق	Tom almost drowned.
+سأل توم عن هذا.	Tom asked for that.
+توم أتى مع ماري	Tom came with Mary.
+مات توم أمس.	Tom died yesterday.
+كان توم قريبا.	Tom has been close.
+يكره توم التسوق.	Tom hates shopping.
+توم طباخ جيد.	Tom is a good cook.
+توم إرهابي.	Tom is a terrorist.
+توم هو من بوستون.	Tom is from Boston.
+توم هو أخوه	Tom is his brother.
+توم يعلم أنني في البيت	Tom knows I'm home.
+مظهر توم فظيع.	Tom looks horrible.
+توم لا يستسلم أبدا.	Tom never gives up.
+يأكل توم اللحم فقط.	Tom only eats meat.
+أعاد توم المال لماري.	Tom paid Mary back.
+يركض توم بسرعة كبيرة.	Tom runs very fast.
+باع توم منزله.	Tom sold his house.
+كان توم هنا أيضاً.	Tom was also there.
+توم يعمل عن بعد.	Tom works remotely.
+أطفئ الضوء.	Turn off the light.
+إنتظر دقيقة, توم!	Wait a minute, Tom!
+إنتظر دقيقة, يا توم!	Wait a minute, Tom!
+انتظر لحظة.	Wait just a moment.
+هل كانت قصتها حقيقية؟	Was her story true?
+الماء مهم	Water is important.
+نحن لا نعرفها	We do not know her.
+نحن لا نعرفه	We do not know him.
+وجدناها على قيد الحياة.	We found her alive.
+نزرع القمح هنا.	We grow wheat here.
+نحن ساعدنا الفقراء.	We helped the poor.
+أبقيناهم صامتين.	We kept them quiet.
+أسكتناهم.	We kept them quiet.
+نعرف حقوقنا.	We know our rights.
+نحن نحب بعضنا البعض.	We love each other.
+مشينا في الغابة	We ran in the park.
+علينا الجلوس.	We should sit down.
+نفهم ذلك.	We understand that.
+ذهبنا إلى حديقة الحيوانات.	We went to the zoo.
+كنا علی عجلة من أمرنا	We were in a hurry.
+لم نكن اصدقاء	We weren't friends.
+لم نكن مدعوين	We weren't invited.
+ليس لنا علاقة.	We're not involved.
+نفد السكر.	We're out of sugar.
+لم يعد عندنا أي سكر.	We're out of sugar.
+لم يعد لدينا سكر.	We're out of sugar.
+يا لها من ريح قوية!	What a strong wind!
+يا لها من زوبعة عاصفة!	What a strong wind!
+ماذا تفعل؟	What are you doing?
+ما الذي تفعله؟	What are you doing?
+ما الذي حدث هنا؟	What happened here?
+ماذا حصل هنا؟	What happened here?
+ماذا يوجد هناك؟	What is over there?
+ماذا يجب أن نقول؟	What should we say?
+ماذا تقول؟	What're you saying?
+ما الذي تقوله؟	What're you saying?
+ما الذي في الملف؟	What's in the file?
+ماذا يوجد في الحقيبة؟	What's in this bag?
+ما المشكلة؟	What's the problem?
+متى بدأت	When did you begin?
+متى تستيقظ؟	When do you get up?
+متى تبدأ؟	When does it begin?
+متى وُلِدْت؟	When were you born?
+أين كتبي؟	Where are my books?
+أين الصبيان؟	Where are the boys?
+إلى أين نحن ذاهبون؟	Where are we going?
+من أين أنت؟	Where are you from?
+من أي بلد أنت؟	Where are you from?
+أين تحس بالألم؟	Where does it hurt?
+أين بيتها؟	Where is her house?
+أين بيته؟	Where is his house?
+أين وُلِدَ توم؟	Where was Tom born?
+أين سنلتقي؟	Where will we meet?
+أين الأحذية؟	Where're the shoes?
+إلى أين تذهب	Where're you going?
+أين الحمام؟	Where's the toilet?
+أين مالكَ؟	Where's your money?
+أين مالكم ؟	Where's your money?
+أيّها سيارة توم؟	Which car is Tom's?
+أيهما كتابك؟	Which is your book?
+من هؤلاء؟	Who are those guys?
+من كسر المزهرية؟	Who broke the vase?
+من كسر هذا القلم؟	Who broke this pen?
+من ذلك الشخص؟	Who is that person?
+من ذلك الشخص؟	Who is this person?
+من وضع هذه الخطة؟	Who made this plan?
+من يملك قطعة الأرض هذه؟	Who owns this land?
+من هو التالي ؟	Who's next in line?
+لم هم غاضبين؟	Why are they angry?
+ما سبب غضبهم؟	Why are they angry?
+ما سبب غضبهن؟	Why are they angry?
+لم هنّ غاضبات؟	Why are they angry?
+لماذا تبكي؟	Why are you crying?
+لمَ لا يمكنك المجيء؟	Why can't you come?
+لماذا لا يمكنك القدوم؟	Why can't you come?
+لم سألتني؟	Why did you ask me?
+لِمَ أُتْعِبُ نفسي.	Why do I even care?
+لماذا كنت هناك؟	Why were you there?
+أستمطر اليوم؟	Will it rain today?
+هل ستمطر اليوم؟	Will it rain today?
+أستساعدهم؟	Will you help them?
+أنت شجاع جداً.	You are very brave.
+إنك شجاع للغاية.	You are very brave.
+أنتَ كسرتَ قلبي.	You broke my heart.
+أنتِ كسرتِ قلبي.	You broke my heart.
+لقد خالفت القوانين.	You broke the rule.
+لقد خالفت القانون.	You broke the rule.
+بإمكانك الإعتماد عليّ.	You can rely on me.
+يمكنك أن تدرس هنا.	You can study here.
+بإمكانك المذاكرة هنا.	You can study here.
+أنتَ تبدو بحالة جيداً جداً.	You look very good.
+أنتِ تبدين بحالة جيدة جداً.	You look very good.
+تبدو شاحب الوجه.	You look very pale.
+تبدو شاحباً للغاية.	You look very pale.
+أنتَ لابد أن تجد عملاً.	You must find work.
+إنك تعيش مرة واحدة لا غير.	You only live once.
+ستشعر أنك أفضل	You'll feel better.
+أنت عار.	You're not dressed.
+إنك محق تماماً.	You're quite right.
+ما زلت يافعاً.	You're still young.
+ما زلت صغيراً.	You're still young.
+حمّامك جاهز.	Your bath is ready.
+إنّ إبنك بطل.	Your son is a hero.
+إبنك بطل.	Your son is a hero.
+قال: ثق بي.	"Trust me," he said.
+الأسد حيوان.	A lion is an animal.
+الشاحنة صدمت الكلب.	A truck hit the dog.
+صدم الكلب شاحنة.	A truck hit the dog.
+إنّ الحوادث تحدث.	Accidents do happen.
+كل ما لدي هو الكتب	All I have is books.
+علينا جميعا أن نذهب.	All of us should go.
+أجب على أسئلتي.	Answer my questions.
+أجب على السؤال.	Answer the question.
+هل الشائعات صحيحة؟	Are the rumors true?
+هل هذه كلابك؟	Are these your dogs?
+هل تلك كلابك؟	Are those your dogs?
+أعيده إلي.	Bring it back to me.
+لكن لا أريد	But I don't want to.
+هل أستطيع أن أُحضر أحداً معي؟	Can I bring someone?
+هل بإمكاني المساعدة يا سيّدي؟	Can I help you, sir?
+أيمكنك أن تقود سيارة؟	Can you drive a car?
+هل بإمكانك قيادة سيارة؟	Can you drive a car?
+هل تستطيع قرائه العربي؟	Can you read Arabic?
+هل يمكنك أن تسبح حقاً؟	Can you really swim?
+اِمضغ طعامك جيداً.	Chew your food well.
+عد في الحين.	Come back right now.
+ادخل إلى المنزل.	Come into the house.
+دَمّر هذا المعبَد.	Destroy this temple.
+هل هناك شيء لم أفهمه؟	Did I miss anything?
+هل هناك ما لم أضع في الإعتبار؟	Did I miss anything?
+هل فهموا؟	Did they understand?
+هل فهمن؟	Did they understand?
+هل تركت إكرامية؟	Did you leave a tip?
+هل لعبت التنس؟	Did you play tennis?
+هل تصدّقين ذلك؟	Do you believe that?
+هل تشرب القهوة عادةً؟	Do you drink coffee?
+هل لديك حمى؟	Do you have a fever?
+هل تحب الجري؟	Do you like running?
+هل تمانع إذا ذهبت؟	Do you mind if I go?
+هل تتحدث الفرنسية؟	Do you speak French?
+هل تسافر كثيراً؟	Do you travel a lot?
+هل تريد أن تشرب؟	Do you want a drink?
+هل تكتب الشعر؟	Do you write poetry?
+لا تكن سخيفاً!	Don't be ridiculous.
+لا تَبكي في العَلن.	Don't cry in public.
+لا تخيب ظني بك!	Don't disappoint me.
+لا تشك في ذلك أبدًا.	Don't ever doubt it.
+لا تقاتلني.	Don't fight with me.
+لا تفتح الباب.	Don't open the door.
+لا تقف قربي.	Don't stand near me.
+ألا تشعر بالبرد؟	Don't you feel cold?
+كُل خضراواتك.	Eat your vegetables.
+الجميع يحبها.	Everybody likes her.
+الجميع يحبونها.	Everybody loves her.
+الكل يحبها.	Everybody loves her.
+كل شيء فُقِد.	Everything was lost.
+لو سمحت، أضعت طريقي.‏‏	Excuse me, I'm lost.
+السمك رخيص اليوم.	Fish is cheap today.
+انس ما يحزنك.	Forget your sorrows.
+أعِد لي قَلمي.	Give me my pen back.
+ينكسر الزجاج بسهوله.	Glass breaks easily.
+إذهب واغسل أسنانك.	Go brush your teeth.
+إذهبي واغسلي أسنانك.	Go brush your teeth.
+عد إلى المنزل في الحين.	Go home immediately.
+عد إلى البيت في الحين.	Go home immediately.
+تفضل بالجلوس من فضلك!	Have a seat, please.
+أصبح عازف بيانو.	He became a pianist.
+إنه لم يعلم بذلك .	He didn't know that.
+إنه يقود بسرعة عالية.	He drives very fast.
+هو ولد مشاغب.	He is a naughty boy.
+إنهُ غاضب معي.	He is angry with me.
+إنه في مكتبه.	He is at his office.
+ليس موجوداً.	He is not available.
+ليس متاحاً.	He is not available.
+يعزف موسيقى.	He is playing music.
+إنه وسيم.	He is very handsome.
+إنه وسيم جدا.	He is very handsome.
+هو موهوب جدا.	He is very talented.
+يعيش بالتسول.	He lives by begging.
+يعيش في المغرب.	He lives in Morocco.
+يبدو مريباً.	He looks suspicious.
+يبدو كأنه شخص مثير للشك.	He looks suspicious.
+لا بد أنه مشتاق إلى بيته.	He must be homesick.
+هو بحاجة لذلك المال.	He needs that money.
+إنهُ عاملني بسوء.	He treated me badly.
+كان صبوراً جداً.	He was very patient.
+ذهب إلى الدكان.	He went to the shop.
+ذهب إلى المحل التجاري.	He went to the shop.
+ذهب إلى المتجر.	He went to the shop.
+لقد صعد جبل فوجي.	He went up Mt. Fuji.
+إنه يعمل في المختبر.	He works in the lab.
+كتب رسالة واحدة.	He wrote one letter.
+كتب التقرير.	He wrote the report.
+صرخ ألماً.	He yelled with pain.
+هو في حالةٍ سيئة.	He's in a bad state.
+هو أطول مني	He's taller than me.
+إحمرّ وجهها.	Her face turned red.
+هذا هو الباقي.	Here is your change.
+هذا ما ظننته	Here's what I think.
+استمع لهذا	Hey, listen to this.
+دراجته زرقاء.	His bicycle is blue.
+العسل لا يفسد.	Honey doesn't spoil.
+لكم اشتقت إليك!	How I've missed you!
+افتقدتك كثيراً!	How I've missed you!
+كيف بإمكاني الوصول إلى هناك؟	How can I get there?
+كيف تشعر الآن؟	How do you feel now?
+كيف حالك الآن؟	How do you feel now?
+كيف تعرفت على توم؟	How do you know Tom?
+ما أغرب الحياة!	How strange life is!
+كم غريبة الحياة!	How strange life is!
+أنا مدرس أيضاً.	I am a teacher, too.
+أنا ذاهب لأدرس.	I am going to study.
+أنا في بيت جديد.	I am in a new house.
+لست من الهند.	I am not from India.
+أنا حزينة جدا اليوم.	I am very sad today.
+بإمكاني القدوم غداً.	I can come tomorrow.
+يمكنني ان افعلها من اجلك	I can do it for you.
+يمكنني أن أقشر تفاحة.	I can peel an apple.
