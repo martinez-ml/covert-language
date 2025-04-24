@@ -1,0 +1,5 @@
+Uno de los problemas más comunes cuando se trata de convertir una película a DVD es la sobre exploración.	One of the most common problems when trying to convert a movie to DVD format is the overscan.
+El diseño de la mayoría de las televisiones tiene como objetivo complacer al público general.	Most televisions are made in a way to please the general public.
+Es este el motivo por el que todas las imágenes que ve en la televisión aparecen con los bordes superior, inferior y laterales cortados.	For that reason, everything you see on the TV had the borders cut, top, bottom and sides.
+Esto se hace para garantizar que la imagen se despliegue en la pantalla completa. Esto se denomina sobreexploración.	This is made to ensure that the image covers the whole screen. That is called overscan.
+Lamentablemente, al crear un DVD, es muy probable que los bordes queden recortados y, si el vídeo tiene subtítulos cerca del margen inferior, no se verán enteros.	Unfortunately, when you make a DVD, it's borders will most likely be cut too, and if the video had subtitles too close to the bottom, they won't be fully shown.

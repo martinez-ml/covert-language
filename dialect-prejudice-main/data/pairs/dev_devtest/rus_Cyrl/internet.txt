@@ -1,0 +1,3 @@
+Провайдеры личных VPN (виртуальных частных сетей) — отличный способ обойти как политическую цензуру, так и коммерческую геофильтрацию по IP-адресу.	Personal VPN (virtual private network) providers are an excellent way of circumventing both political censorship and commercial IP-geofiltering.
+Они лучше веб-прокси по ряду причин: они пересылают весь веб-трафик, а не только трафик по HTTP-протоколу.	They are superior to web proxies for several reasons: They re-route all Internet traffic, not only http.
+Они обычно предлагают более высокую пропускную способность соединения и лучшее качество обслуживания. Они зашифрованы, что делает слежку сложнее.	They normally offer higher bandwidth and better quality of service. They are encrypted and thus harder to spy on.

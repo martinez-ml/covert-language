@@ -1,0 +1,12 @@
+变焦镜头的缺点是，要想实现一定的焦距范围，所需的焦距复杂度和透镜元件的数量远远大于定焦镜头。	The disadvantage of zoom lenses is that the focal complexity and number of lens elements required to achieve a range of focal lengths is much greater than for prime lenses.
+随着镜头制造商在镜头生产方面达到更高的标准，这已经不算什么问题了。	This is becoming less of an issue as lens manufacturers achieve higher standards in lens production.
+这使得变焦镜头可以拍出与固定焦距镜头质量相媲美的照片。	This has allowed zoom lenses to produce pictures of a quality comparable to that achieved by lenses with fixed focal length.
+变焦镜头的另一个缺点是镜头的最大光圈（速度）通常较小。	Another disadvantage of zoom lenses is that the maximum aperture (the speed) of the lens is usually lower.
+这使得廉价的变焦镜头在没有闪光灯的情况下很难在弱光条件下使用。	This makes inexpensive zoom lenses hard to use in low-light conditions without a flash.
+例如，世界上最常见的静态图像摄影格式是 35mm 格式，这是胶片电影时代末期占主导地位的电影尺寸。	For example, the most common still image photography format in the world is 35mm, which was the dominant film size at the close of the analog film era.
+时至今日仍有生产，但更重要的是它的长宽比应用到了数码相机图像传感器的格式上。	It is still produced today, but more importantly its aspect ratio has been inherited by digital camera image sensor formats.
+35 毫米格式的实际尺寸是 36 毫米宽，24 毫米高，这样格式其实有点令人困惑。	The 35mm format is actually, somewhat confusingly, 36mm in width by 24mm in height.
+因此，这种格式的宽高比（除以 12 得到最简单的整数比）便是 3:2。	The aspect ratio of this format (dividing by twelve to obtain the simplest whole-number ratio) is therefore said to be 3:2.
+许多常见格式（例如 APS 格式系列）都与这个长宽比相同或相当接近。	Many common formats (APS family of formats, for example) are equal to or closely approximate this aspect ratio.
+经常被滥用和嘲笑的三分法，在创造动态时不失为一种简单的指导方法，还能让图像保持有序。	The much-abused and often-ridiculed rule of thirds is a simple guideline creating dynamism while keeping a measure of order in an image.
+它指出，对主体来说最有效的位置是将图像垂直和水平分为三部分的线的交叉点（见示例）。	It states that the most effective place for the main subject is at the intersection of lines dividing the image into thirds vertically and horizontally (see example).

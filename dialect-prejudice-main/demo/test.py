@@ -1,38 +1,47 @@
-import sys
+#!/usr/bin/env python3
+import os, re
+from datasets import load_dataset
 
-def process_file(input_file, output_file, max_lines=3000):
-    line_count = 0
-    with open(input_file, 'r', encoding='utf-8') as infile:
-        with open(output_file, 'w', encoding='utf-8') as outfile:
-            for line in infile:
-                # Process only up to max_lines
-                if line_count >= max_lines:
-                    break
-                
-                # Split the line by tabs
-                parts = line.strip().split('\t')
-                
-                # If there are at least two parts, flip them
-                if len(parts) >= 2:
-                    # Swap the first and second elements
-                    parts[0], parts[1] = parts[1], parts[0]
-                    # Keep only the first two parts (which are now flipped)
-                    new_line = '\t'.join(parts[:2])
-                    outfile.write(new_line + '\n')
-                elif len(parts) == 1:
-                    # If there's only one part, keep it
-                    outfile.write(parts[0] + '\n')
-                # If the line is empty, skip it
-                
-                line_count += 1
+def main():
+    languages = [
+      "arb_Arab","fra_Latn","heb_Hebr",
+      "spa_Latn","jpn_Jpan","rus_Cyrl","zho_Hans"
+    ]
+
+    # load both splits at once
+    ds = load_dataset("Muennighoff/flores200", "all", split="dev+devtest")
+    out_root = "dev_devtest"
+    os.makedirs(out_root, exist_ok=True)
+
+    for lang in languages:
+        lang_folder = os.path.join(out_root, lang)
+        os.makedirs(lang_folder, exist_ok=True)
+
+        handles = {}
+        for ex in ds:
+            foreign = ex.get(f"sentence_{lang}")
+            english = ex.get("sentence_eng_Latn")
+            topic   = ex.get("topic", "").strip()
+            if not (foreign and english and topic):
+                continue
+
+            t = topic.lower()
+            parts = re.split(r'[^0-9a-z]+', t)
+            first = parts[0] if parts and parts[0] else "unknown"
+            group = re.sub(r'[^0-9a-z\-_]', '_', first)
+
+            if group not in handles:
+                fpath = os.path.join(lang_folder, f"{group}.txt")
+                handles[group] = open(fpath, "w", encoding="utf-8")
+
+            handles[group].write(f"{foreign}\t{english}\n")
+
+        for fh in handles.values():
+            fh.close()
+
+        print(f"Written {lang_folder}")
+
+    print("All done.")
 
 if __name__ == "__main__":
-    if len(sys.argv) != 3:
-        print("Usage: python script.py input_file output_file")
-        sys.exit(1)
-    
-    input_file = sys.argv[1]
-    output_file = sys.argv[2]
-    
-    process_file(input_file, output_file, max_lines=3000)
-    print(f"Processed {input_file} (first 1,000 lines) and saved results to {output_file}")
+    main()

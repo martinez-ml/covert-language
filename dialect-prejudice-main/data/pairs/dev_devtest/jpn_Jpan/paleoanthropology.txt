@@ -1,0 +1,12 @@
+他の霊長類とは異なり、ヒト科の動物は、移動したり、体重を支えたり、木々の間を通り抜ける際に手を使用しなくなっています。	Unlike other primates, hominids no longer use their hands in locomotion or bearing weight or swinging through the trees.
+チンパンジーの手足の大きさと長さはほぼ同じであり、ナックル歩行をする際に体重を支えるために手を使っていることが示されています。	The chimpanzee's hand and foot are similar in size and length, reflecting the hand's use for bearing weight in knuckle walking.
+人間の手（中指先から手首まで）は足（つま先から踵まで）よりも短く、指骨はまっすぐです。	The human hand is shorter than the foot, with straighter phalanges.
+200～300万年前の化石の手の骨から、このように手が運動から操作へと特化していたことがわかります。	Fossil hand bones two million to three million years old reveal this shift in specialization of the hand from locomotion to manipulation.
+20世紀の研究では、遺伝的変異には隠れたものと発現したものの2つの遺伝子プールがあることがわかっています。	Twentieth century research has shown that there are two pools of genetic variation: hidden and expressed.
+突然変異で新しい遺伝的変異が加わり、淘汰によってそれが発現された変異のプールから取り除かれます。	Mutation adds new genetic variation, and selection removes it from the pool of expressed variation.
+棲み分けと組み換えは、世代ごとに2つのプールの間を行き来しながら変異をシャッフルします。	Segregation and recombination shuffle variation back and forth between the two pools with each generation.
+人間のような消化器系を持つ霊長類にとって、サバンナの環境で手に入る植物資源から必須アミノ酸を摂取するのは困難です。	Out on the savanna, it is hard for a primate with a digestive system like that of humans to satisfy its amino-acid requirements from available plant resources.
+しかも、それを怠ると、成長抑制、栄養失調など深刻な事態につながり、最終的には死を招きます。	Moreover, failure to do so has serious consequences: growth depression, malnutrition, and ultimately death.
+最も入手しやすい植物資源は、葉や豆類に含まれるタンパク質でしたが、これは私たちのような霊長類にとって調理しないと消化しにくい栄養素です。	The most readily accessible plant resources would have been the proteins accessible in leaves and legumes, but these are hard for primates like us to digest unless they are cooked.
+一方、動物性食物（アリ、シロアリ、卵）は消化しやすいうえに、必須アミノ酸をすべて含む良質なタンパク質源です。	In contrast, animal foods (ants, termites, eggs) not only are easily digestible, but they provide high-quantity proteins that contain all the essential amino acids.
+あらゆる点を考え合わせれば、私たちの祖先が今日のサバンナに生息するチンパンジーと同じように「タンパク質の問題」を解決していたとしても不思議はありません。	All things considered, we should not be surprised if our own ancestors solved their "protein problem" in somewhat the same way that chimps on the savanna do today.

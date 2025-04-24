@@ -1,0 +1,2 @@
+אוריגמי פיורלנד הוא סוג אוריגמי שכולל את המגבלה שבכל שלב מותר לבצע רק קיפול בודד, קיפולים מורכבים יותר כגון קיפול הפוך אסורים, וכל הקיפולים מתבצעים במיקומים ברורים.	Pureland origami is origami with the restriction that only one fold may be done at a time, more complex folds like reverse folds are not allowed, and all folds have straightforward locations.
+הוא פותח על ידי ג'ון סמית' בשנות השבעים במטרה לסייע למקפלים חסרי ניסיון או לאנשים בעלי מגבלות מוטוריות.	It was developed by John Smith in the 1970s to help inexperienced folders or those with limited motor skills.

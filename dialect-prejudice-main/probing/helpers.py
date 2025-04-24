@@ -36,8 +36,8 @@ ROBERTA_MODELS = ["roberta-base", "roberta-large"]
 T5_MODELS = ["t5-small", "t5-base", "t5-large", "t5-3b"]
 
 #new
-GEMMA_MODELS = ["google/gemma-2b"]
-LLAMA_MODELS = ["meta-llama/Llama-2-7b-hf", "meta-llama/Meta-Llama-3-8B"]
+#GEMMA_MODELS = ["google/gemma-2b"]
+NEW_MODELS = ["google/gemma-2b", "meta-llama/Llama-2-7b-hf"]
 #
 
 # Define OpenAI names
@@ -62,20 +62,8 @@ def load_model(model_name):
         return T5ForConditionalGeneration.from_pretrained(
             model_name 
         )
-    elif model_name in GEMMA_MODELS:
-        return AutoModelForCausalLM.from_pretrained(model_name)
-    elif model_name in LLAMA_MODELS:
-        bnb_config = BitsAndBytesConfig(
-            load_in_4bit=True,
-            bnb_4bit_use_double_quant=True,
-            bnb_4bit_quant_type="nf4",
-            llm_int8_skip_modules=None
-        )
-        return AutoModelForCausalLM.from_pretrained(
-            model_name,
-            quantization_config=bnb_config,
-            device_map="auto"
-        )
+    elif model_name in NEW_MODELS:
+        return AutoModelForCausalLM.from_pretrained(model_name, device_map="auto")
     else:
         raise ValueError(f"Model {model_name} not supported.")
 
@@ -94,7 +82,7 @@ def load_tokenizer(model_name):
         return T5Tokenizer.from_pretrained(
             model_name 
         )
-    elif model_name in GEMMA_MODELS or model_name in LLAMA_MODELS:
+    elif model_name in NEW_MODELS:
         return AutoTokenizer.from_pretrained(model_name)
     else:
         raise ValueError(f"Model {model_name} not supported.")
@@ -184,7 +172,7 @@ def compute_probs(model, model_name, input_ids, labels):
     elif model_name in T5_MODELS:
         output = model(input_ids=input_ids, labels=labels)
         probs = F.softmax(output.logits, dim=-1)[0][-1]
-    elif model_name in GEMMA_MODELS or model_name in LLAMA_MODELS:
+    elif model_name in NEW_MODELS:
         output = model(input_ids=input_ids)
         probs = F.softmax(output.logits, dim=-1)[0][-1]
     else:

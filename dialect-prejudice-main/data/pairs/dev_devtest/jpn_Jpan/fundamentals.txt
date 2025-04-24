@@ -1,0 +1,8 @@
+社会生活を営む人は誰でも交通機関を利用します。そのほとんど全員が交通システムに不満を抱いています。	Everyone participates in society and uses transportation systems. Almost everyone complains about transportation systems.
+先進国では、水質や橋の倒壊などの苦情はほとんど聞きません。	In developed countries you seldom hear similar levels of complaints about water quality or bridges falling down.
+なぜ、交通機関はこのような苦情を生み、日常的に故障するのでしょうか。交通機関の技術者が無能なだけなのでしょうか。それとももっと根本的な問題があるのでしょうか。	Why do transportation systems engender such complaints, why do they fail on a daily basis? Are transportation engineers just incompetent? Or is something more fundamental going on?
+交通流研究とは、2点間にいる個々の運転手と車両の動きとそれらの相互作用の研究です。	Traffic Flow is the study of the movement of individual drivers and vehicles between two points and the interactions they make with one another.
+残念ながら、運転手の行動を100%の確率で予測することはできないので、交通の流れを研究することは困難です。	Unfortunately, studying traffic flow is difficult because driver behavior cannot be predicted with one-hundred percent certainty.
+幸いなことに、運転手は合理的に一貫性のある範囲内で行動する傾向があり、したがって、交通の流れはある程度の合理的な一貫性を持つ傾向があり、数学的に大まかに表すことができます。	Fortunately, drivers tend to behave within a reasonably consistent range; thus, traffic streams tend to have some reasonable consistency and can be roughly represented mathematically.
+交通流をより適切に表すために、(1) 流れ、(2) 密度、(3) 速度という3つの主要特性の間に関係性が確立されています。	To better represent traffic flow, relationships have been established between the three main characteristics: (1) flow, (2) density, and (3) velocity.
+これらの関係は、道路施設の計画、設計、運営に役立ちます。	These relationships help in planning, design, and operations of roadway facilities.

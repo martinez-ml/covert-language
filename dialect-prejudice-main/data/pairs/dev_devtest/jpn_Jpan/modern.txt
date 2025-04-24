@@ -1,0 +1,12 @@
+ズームレンズの欠点は、焦点距離の範囲に対応するうえで必要な焦点距離の複雑さとレンズ素子の数が、焦点レンズよりもはるかに多いことです。	The disadvantage of zoom lenses is that the focal complexity and number of lens elements required to achieve a range of focal lengths is much greater than for prime lenses.
+レンズメーカーが生産するレンズが高い基準に達するにつれ、これは問題ではなくなりつつあります。	This is becoming less of an issue as lens manufacturers achieve higher standards in lens production.
+これでズームレンズは固定焦点距離のレンズに匹敵する画質を実現しました。	This has allowed zoom lenses to produce pictures of a quality comparable to that achieved by lenses with fixed focal length.
+ズームレンズのもう1つの欠点は、多くの製品ではレンズの絞り値（速度）が低いことです。	Another disadvantage of zoom lenses is that the maximum aperture (the speed) of the lens is usually lower.
+そのため、安価なズームレンズはフラッシュを使わないと低照度の状態では使いづらくなります。	This makes inexpensive zoom lenses hard to use in low-light conditions without a flash.
+例えば、世界で最も普及している静止画写真のフィルム形式は35 mmで、これはアナログフィルム時代の終わり頃には主流のフィルムサイズでした。	For example, the most common still image photography format in the world is 35mm, which was the dominant film size at the close of the analog film era.
+現在も生産されていますが、それ以上に重要なのは、そのアスペクト比がデジタルカメラのイメージセンサーのフォーマットを継承していることです。	It is still produced today, but more importantly its aspect ratio has been inherited by digital camera image sensor formats.
+紛らわしいのですが、35 mm判は実際には幅36 mm、高さ24 mmというサイズです。	The 35mm format is actually, somewhat confusingly, 36mm in width by 24mm in height.
+そのため、この形式のアスペクト比（12で割って最も単純な全数比を求める）は3:2と言われています。	The aspect ratio of this format (dividing by twelve to obtain the simplest whole-number ratio) is therefore said to be 3:2.
+一般的な記録形式（例えば、APS系の記録形式）の多くは、このアスペクト比と同等かそれに近いものです。	Many common formats (APS family of formats, for example) are equal to or closely approximate this aspect ratio.
+「三分割法」 は、軽視する人もいるようですが、映像の秩序を保ちながらダイナミズムを生み出すシンプルな目安です。	The much-abused and often-ridiculed rule of thirds is a simple guideline creating dynamism while keeping a measure of order in an image.
+主な被写体を配置すべき最も効果的な位置は、画像を縦横3分の1ずつに分割した線の交点に囲まれた部分（例を参照）とされます。	It states that the most effective place for the main subject is at the intersection of lines dividing the image into thirds vertically and horizontally (see example).

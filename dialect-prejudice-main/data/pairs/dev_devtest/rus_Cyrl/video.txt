@@ -1,0 +1,5 @@
+Одной из наиболее распространённых проблем при попытке конвертирования фильма в формат DVD является вылет развертки.	One of the most common problems when trying to convert a movie to DVD format is the overscan.
+Большинство телевизоров сделано таким образом, чтобы угодить широкой публике.	Most televisions are made in a way to please the general public.
+Поэтому у всего, что вы видите по телевизору, обрезаны края сверху, снизу и по бокам.	For that reason, everything you see on the TV had the borders cut, top, bottom and sides.
+Это сделано для того, чтобы изображение охватывало весь экран. Это называется растянутая развёртка.	This is made to ensure that the image covers the whole screen. That is called overscan.
+К сожалению, когда вы записываете DVD, изображение по границам экрана также скорее всего будут отрезано, и, если субтитры на видео расположены близко к нижнему краю экрана, их не будет видно целиком.	Unfortunately, when you make a DVD, it's borders will most likely be cut too, and if the video had subtitles too close to the bottom, they won't be fully shown.

@@ -1,0 +1,3 @@
+パーソナルVPN（仮想私設網）プロバイダーは、政治的検閲と商業的IPジオフィルタリングの両方を回避するうえで優れた方法です。	Personal VPN (virtual private network) providers are an excellent way of circumventing both political censorship and commercial IP-geofiltering.
+これらのプロキシは、いくつもの点でウェブプロキシよりも優れています。Httpのみならず、すべてのインターネットトラフィックを再ルーティングしてくれるからです。	They are superior to web proxies for several reasons: They re-route all Internet traffic, not only http.
+通常、これらはより高い帯域幅とより優れたサービス品質を提供します。そしてスパイを防止するために暗号化されます。	They normally offer higher bandwidth and better quality of service. They are encrypted and thus harder to spy on.

@@ -1,0 +1,8 @@
+每个人都是社会的一份子，都会使用交通系统。而几乎每个人都对交通系统有怨言。	Everyone participates in society and uses transportation systems. Almost everyone complains about transportation systems.
+在发达国家，你甚少会听到关于水质或桥梁倒塌类似程度的投诉。	In developed countries you seldom hear similar levels of complaints about water quality or bridges falling down.
+为什么交通系统会引起这样的投诉？为什么它们每天都会出故障？是交通工程师不称职吗？或者是有更根本的原因？	Why do transportation systems engender such complaints, why do they fail on a daily basis? Are transportation engineers just incompetent? Or is something more fundamental going on?
+交通流量研究的是驾驶员和车辆在两点之间的运动，以及它们之间的相互作用。	Traffic Flow is the study of the movement of individual drivers and vehicles between two points and the interactions they make with one another.
+遗憾的是，研究车流很困难，因为不能对驾驶员的行为进行百分之百确定的预测。	Unfortunately, studying traffic flow is difficult because driver behavior cannot be predicted with one-hundred percent certainty.
+幸运的是，司机的行为往往在一个合理的一致性范围内；因此，交通流量往往具有一定的合理一致性，可以粗略地用数学方式表示。	Fortunately, drivers tend to behave within a reasonably consistent range; thus, traffic streams tend to have some reasonable consistency and can be roughly represented mathematically.
+为了更好地表示交通流量，在以下三个主要特征之间建立了关系：(1) 流量、(2) 密度和 (3) 速度。	To better represent traffic flow, relationships have been established between the three main characteristics: (1) flow, (2) density, and (3) velocity.
+这些关系对道路设施的规划、设计和运营有帮助。	These relationships help in planning, design, and operations of roadway facilities.

@@ -1,0 +1,5 @@
+在尝试将电影转换成 DVD 格式时，最常见的问题之一是过度扫描。	One of the most common problems when trying to convert a movie to DVD format is the overscan.
+大多数电视节目都是为娱乐大众而制作的。	Most televisions are made in a way to please the general public.
+出于该原因，你在电视上看到的画面边框，包括顶部、底部和侧边，都被裁剪了。	For that reason, everything you see on the TV had the borders cut, top, bottom and sides.
+这样做是为了保证图像能覆盖住整个屏幕。这叫做“过度扫描”。	This is made to ensure that the image covers the whole screen. That is called overscan.
+遗憾的是，当你制作 DVD 时，它的边框很可能也会被裁剪掉，而且如果视频中的字幕太靠近底部，那么字幕也会显示不完整。	Unfortunately, when you make a DVD, it's borders will most likely be cut too, and if the video had subtitles too close to the bottom, they won't be fully shown.

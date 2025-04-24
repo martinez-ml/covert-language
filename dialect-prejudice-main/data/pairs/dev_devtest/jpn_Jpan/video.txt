@@ -1,0 +1,5 @@
+映画をDVD形式に変換しようとするときに最も一般的な問題の1つはオーバースキャンです。	One of the most common problems when trying to convert a movie to DVD format is the overscan.
+ほとんどのテレビ番組は、大衆が喜ぶように製作されています。	Most televisions are made in a way to please the general public.
+そのため、テレビに映る映像すべての上下左右の境界線がカットされていました。	For that reason, everything you see on the TV had the borders cut, top, bottom and sides.
+これは、画像が画面全体を確実に覆うようにできています。これをオーバースキャンといいます。	This is made to ensure that the image covers the whole screen. That is called overscan.
+残念なことに、DVDを自作すると、境界がカットされる可能性が非常に高く、字幕が下に寄りすぎていると完全には表示されないでしょう。	Unfortunately, when you make a DVD, it's borders will most likely be cut too, and if the video had subtitles too close to the bottom, they won't be fully shown.

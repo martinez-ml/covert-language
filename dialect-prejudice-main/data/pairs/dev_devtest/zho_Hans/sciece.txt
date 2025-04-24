@@ -1,0 +1,12 @@
+这不仅证实了至少有些恐龙有羽毛——这一理论已经广为流传——而且还提供了化石通常无法提供的细节，比如颜色和三维排列。	This not only confirms that at least some dinosaurs had feathers, a theory already widespread, but provides details fossils generally cannot, such as color and three-dimensional arrangement.
+科学家表示，这种动物的羽毛顶部为栗棕色，底部为浅色或胡萝卜色。	. Scientists say this animal's plumage was chestnut-brown on top with a pale or carotenoid-colored underside.
+这一发现也有助于深入了解鸟类羽毛的进化。	The find also grants insight into the evolution of feathers in birds.
+恐龙的羽毛并没有发育良好的主干——这称为“羽轴”，但还是有羽毛的其他特征，比如羽枝和羽小枝，研究人员推断羽轴的进化可能比这些其他特征晚。	Because the dinosaur feathers do not have a well-developed shaft, called a rachis, but do have other features of feathers — barbs and barbules — the researchers inferred the rachis was likely a later evolutionary development that these other features.
+羽毛的结构表明它们不是用来飞行的，而是用来调节温度或炫耀的。研究人员认为，尽管这是一只年轻恐龙的尾巴，但样本显示的是成熟的羽衣，而不是幼崽的羽毛。	The feathers' structure suggests that they were not used in flight but rather for temperature regulation or display. The researchers suggested that, even though this is the tail of a young dinosaur, the sample shows adult plumage and not a chick's down.
+研究人员认为，尽管这是一只年轻恐龙的尾巴，但样本显示的是成年羽毛，而非雏龙的绒毛。	The researchers suggested that, even though this is the tail of a young dinosaur, the sample shows adult plumage and not a chick's down.
+他们发现，太阳和其他恒星的运行原理是一样的：星系中所有恒星的活跃度都完全决定于它们的光度和自转。	They found the Sun operated on the same basic principles as other stars: The activity of all stars in the system was found to be driven by their luminosity, their rotation, and nothing else.
+一颗恒星的罗斯贝数由其光度和旋度共同决定，与等离子体流有关。	The luminosity and rotation are used together to determine a star's Rossby number, which is related to plasma flow.
+罗斯贝数越小，恒星在磁场倒转方面就越不活跃。	The smaller the Rossby number, the less active the star with respect to magnetic reversals.
+802.11n 标准在 2.4Ghz 和 5.0Ghz 频率上都可运行。	The 802.11n standard operates on both the 2.4Ghz and 5.0Ghz frequencies.
+它能向后兼容 802.11a、802.11b 和 802.11g，前提是基站要有双无线电。	This will allow it to be backwards compatible with 802.11a, 802.11b and 802.11g, provided that the base station has dual radios.
+802.11n 的速度大大快于前代技术，最大理论吞吐量可达 600Mbit/s。	The speeds of 802.11n are substantially faster than that of its predecessors with a maximum theoretical throughput of 600Mbit/s.

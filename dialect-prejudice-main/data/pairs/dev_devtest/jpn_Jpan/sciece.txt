@@ -1,0 +1,12 @@
+これは、少なくとも一部の恐竜が羽を持っていたことを確認するだけでなく、色や立体配置など、一般的には化石にはない詳細な点を伝えています。	This not only confirms that at least some dinosaurs had feathers, a theory already widespread, but provides details fossils generally cannot, such as color and three-dimensional arrangement.
+.科学者によると、この動物の羽毛は外側が栗色で内側が暖色系の色でした。	. Scientists say this animal's plumage was chestnut-brown on top with a pale or carotenoid-colored underside.
+この発見はまた、鳥類の羽毛の進化について探るための手がかりとなるものでした。	The find also grants insight into the evolution of feathers in birds.
+恐竜の羽毛には羽軸と呼ばれる十分に発達した軸がないものの、他の羽毛の特徴である綿羽や小羽枝があることから、研究者らは羽軸はこうした他の特徴よりも後に起きた進化であった可能性が高いと推測しています。	Because the dinosaur feathers do not have a well-developed shaft, called a rachis, but do have other features of feathers — barbs and barbules — the researchers inferred the rachis was likely a later evolutionary development that these other features.
+羽毛の構造から、飛行の目的ではなく、体温調節や視覚的効果に使用されていたと推測されます。研究者らは、これが若い恐竜の尾であるにもかかわらず、標本は大人の羽毛を示しており、ヒヨコの羽毛ではないことを示唆しました。	The feathers' structure suggests that they were not used in flight but rather for temperature regulation or display. The researchers suggested that, even though this is the tail of a young dinosaur, the sample shows adult plumage and not a chick's down.
+研究者らは、この標本が若い恐竜の尻尾であるにもかかわらず、ひなの羽毛ではなく大人の羽毛が生えていることを示唆している。	The researchers suggested that, even though this is the tail of a young dinosaur, the sample shows adult plumage and not a chick's down.
+彼らは、太陽が他の星と同じ基本原理で動いていることを発見しました。星系内にあるすべての星の活動は、その光度と自転によってのみ駆動され、その他の要因はないことがわかりました。	They found the Sun operated on the same basic principles as other stars: The activity of all stars in the system was found to be driven by their luminosity, their rotation, and nothing else.
+光度と自転の組み合わせから、プラズマ流に関係する星のロスビー数が決定されます。	The luminosity and rotation are used together to determine a star's Rossby number, which is related to plasma flow.
+ロスビー数が小さいほど磁気反転に関して星の活性が低下するわけです。	The smaller the Rossby number, the less active the star with respect to magnetic reversals.
+802.11n規格に準拠していれば、2.4Ghzまたは5.0Ghzのどちらの周波数でも通信可能です。	The 802.11n standard operates on both the 2.4Ghz and 5.0Ghz frequencies.
+これにより、基地局がデュアルバンド無線を搭載していれば、802.11a、802.11b、802.11gとの下位互換性を確保することができます。	This will allow it to be backwards compatible with 802.11a, 802.11b and 802.11g, provided that the base station has dual radios.
+802.11nの速度は、600Mbit/秒という理論上の最大スループットを持つ従来型の速度よりも大幅に高速です。	The speeds of 802.11n are substantially faster than that of its predecessors with a maximum theoretical throughput of 600Mbit/s.

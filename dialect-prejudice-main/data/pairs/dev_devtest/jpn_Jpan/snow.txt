@@ -1,0 +1,3 @@
+雪崩は異常現象ではありません。急斜面で支えられる積雪量には限度があり、余った量は雪崩として崩れ落ちます。	Avalanches are not an abnormality; steep slopes can hold only so much slow, and the excess volumes will come down as avalanches.
+問題は、雪に粘着性があるので、落ちてくるには何らかのきっかけが必要で、落ちてくる雪の一部が残りの雪が落ちるきっかけになりうるということです。	The problem is that snow is sticky, so it needs some triggering to come down, and some snow coming down can be the triggering event for the rest.
+そもそもの引き金となる事象は、太陽の熱による雪解け、降雪量の増加、その他の自然現象などであったり、人為的な要因である場合もよくあります。	Sometimes the original trigging event is the sun warming the snow, sometimes some more snowfall, sometimes other natural events, often a human.

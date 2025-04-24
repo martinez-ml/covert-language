@@ -1,0 +1,3 @@
+个人 VPN（虚拟专用网络）程序是规避政治审查和商业 IP 地理过滤的绝佳工具。	Personal VPN (virtual private network) providers are an excellent way of circumventing both political censorship and commercial IP-geofiltering.
+它们优于网页代理的原因如下：它们重新路由所有互联网流量，而不仅仅是超文本传送协议 (http) 内容。	They are superior to web proxies for several reasons: They re-route all Internet traffic, not only http.
+它们通常会提供更高的带宽和更优质的服务。它们经过加密，更难被监视。	They normally offer higher bandwidth and better quality of service. They are encrypted and thus harder to spy on.

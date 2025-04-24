@@ -1,0 +1,3 @@
+Los proveedores de RPV, (redes privadas virtuales) personales son la opción ideal para evitar la censura política y el geofiltrado de IP comercial.	Personal VPN (virtual private network) providers are an excellent way of circumventing both political censorship and commercial IP-geofiltering.
+Son superiores a los servidores proxy por varios motivos: redirigen todo el tráfico de Internet y no únicamente los http.	They are superior to web proxies for several reasons: They re-route all Internet traffic, not only http.
+Por lo general, brindan mayor ancho de banda y mejor calidad de servicio. Están encriptados y, gracias a ello, es más complicado hackearlos.	They normally offer higher bandwidth and better quality of service. They are encrypted and thus harder to spy on.
