@@ -15,7 +15,7 @@ from transformers import (
     AutoModelForCausalLM
 )
 
-from transformers import BitsAndBytesConfig
+#from transformers import BitsAndBytesConfig
 
 import prompting
 
@@ -37,7 +37,7 @@ T5_MODELS = ["t5-small", "t5-base", "t5-large", "t5-3b"]
 
 #new
 #GEMMA_MODELS = ["google/gemma-2b"]
-NEW_MODELS = ["google/gemma-2b", "meta-llama/Llama-2-7b-hf"]
+NEW_MODELS = ["google/gemma-2b", "meta-llama/Meta-Llama-3-8B", "deepseek-ai/deepseek-llm-7b-base" ]
 #
 
 # Define OpenAI names
@@ -63,7 +63,11 @@ def load_model(model_name):
             model_name 
         )
     elif model_name in NEW_MODELS:
-        return AutoModelForCausalLM.from_pretrained(model_name, device_map="auto")
+        return AutoModelForCausalLM.from_pretrained(
+            model_name,
+            trust_remote_code=True,  # needed for some repos
+            device_map="auto"        # automatically shard on GPU/CPU
+        )
     else:
         raise ValueError(f"Model {model_name} not supported.")
 
@@ -83,7 +87,10 @@ def load_tokenizer(model_name):
             model_name 
         )
     elif model_name in NEW_MODELS:
-        return AutoTokenizer.from_pretrained(model_name)
+        return AutoTokenizer.from_pretrained(
+            model_name,
+            trust_remote_code=True
+        )
     else:
         raise ValueError(f"Model {model_name} not supported.")
     

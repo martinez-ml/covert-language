@@ -1,47 +1,62 @@
 #!/usr/bin/env python3
-import os, re
+"""
+export_one_per_lang.py
+
+Downloads Muennighoff/flores200 (all languages) for the
+combined dev+devtest splits and writes out one .txt file per
+language where each line is:
+
+    [sentence_in_foreign_lang]\t[sentence_in_English]\n
+"""
+
+import os
 from datasets import load_dataset
 
 def main():
+    # The seven target languages
     languages = [
-      "arb_Arab","fra_Latn","heb_Hebr",
-      "spa_Latn","jpn_Jpan","rus_Cyrl","zho_Hans"
+        "arb_Arab",
+        "fra_Latn",
+        "heb_Hebr",
+        "spa_Latn",
+        "jpn_Jpan",
+        "rus_Cyrl",
+        "zho_Hans"
     ]
 
-    # load both splits at once
-    ds = load_dataset("Muennighoff/flores200", "all", split="dev+devtest")
-    out_root = "dev_devtest"
-    os.makedirs(out_root, exist_ok=True)
+    # Load dev + devtest in one go
+    ds = load_dataset(
+        "Muennighoff/flores200",
+        "all",
+        split="dev+devtest"    # combine both splits
+    )
+    print(f"Loaded dev+devtest: {len(ds)} examples total.")
 
+    # Prepare output directory
+    out_dir = "dev_devtest_onefile"
+    os.makedirs(out_dir, exist_ok=True)
+
+    # Open one file-handle per language
+    handles = {}
     for lang in languages:
-        lang_folder = os.path.join(out_root, lang)
-        os.makedirs(lang_folder, exist_ok=True)
+        fname = f"{lang}.txt"
+        path = os.path.join(out_dir, fname)
+        handles[lang] = open(path, "w", encoding="utf-8")
+        print(f"→ Will write {lang} → {path}")
 
-        handles = {}
-        for ex in ds:
+    # Iterate and write
+    for ex in ds:
+        eng = ex.get("sentence_eng_Latn")
+        for lang in languages:
             foreign = ex.get(f"sentence_{lang}")
-            english = ex.get("sentence_eng_Latn")
-            topic   = ex.get("topic", "").strip()
-            if not (foreign and english and topic):
-                continue
+            if foreign and eng:
+                handles[lang].write(f"{foreign}\t{eng}\n")
 
-            t = topic.lower()
-            parts = re.split(r'[^0-9a-z]+', t)
-            first = parts[0] if parts and parts[0] else "unknown"
-            group = re.sub(r'[^0-9a-z\-_]', '_', first)
+    # Close all files
+    for lang, fh in handles.items():
+        fh.close()
 
-            if group not in handles:
-                fpath = os.path.join(lang_folder, f"{group}.txt")
-                handles[group] = open(fpath, "w", encoding="utf-8")
-
-            handles[group].write(f"{foreign}\t{english}\n")
-
-        for fh in handles.values():
-            fh.close()
-
-        print(f"Written {lang_folder}")
-
-    print("All done.")
+    print("Done! Files in folder:", out_dir)
 
 if __name__ == "__main__":
     main()

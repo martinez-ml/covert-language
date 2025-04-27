@@ -6,6 +6,8 @@ import random
 import numpy as np
 import torch
 import tqdm
+from huggingface_hub import login
+login("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")
 
 import helpers
 def sanitize_filename(name):

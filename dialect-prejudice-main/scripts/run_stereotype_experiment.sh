@@ -2,25 +2,17 @@
 
 parent_path=$( cd "$(dirname "${BASH_SOURCE[0]}")" ; pwd -P )
 cd "$parent_path"
-
-for variable in groenwold blodgett race
-do
-    for model in gpt2 gpt2-medium gpt2-large gpt2-xl roberta-base roberta-large t5-small t5-base t5-large t5-3b
+#arb_Arab fra_Latn heb_Hebr jpn_Jpan rus_Cyrl spa_Latn zho_Hans
+#google/gemma-2b deepseek-ai/deepseek-llm-7b-base meta-llama/Meta-Llama-3-8B
+for model in meta-llama/Meta-Llama-3-8B
+    do
+    for variable in heb_Hebr
     do
         python -u ../probing/mgp.py \
         --model $model \
         --variable $variable \
         --attribute katz \
-        --device "$1"
+        --device 0 \
+        --calibrate
     done
-
-    python -u ../probing/mgp_gpt3.py \
-    --model text-davinci-003 \
-    --variable $variable \
-    --attribute katz
-
-    python -u ../probing/mgp_gpt4.py \
-    --model gpt-4-0613 \
-    --variable $variable \
-    --attribute katz
 done
