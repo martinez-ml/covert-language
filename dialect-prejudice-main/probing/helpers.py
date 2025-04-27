@@ -40,6 +40,7 @@ T5_MODELS = ["t5-small", "t5-base", "t5-large", "t5-3b"]
 NEW_MODELS = ["google/gemma-2b", "meta-llama/Meta-Llama-3-8B", "deepseek-ai/deepseek-llm-7b-base" ]
 #
 
+OVERT_TOPICS = ["arabic", "chinese", "french", "hebrew", "japanese","russian", "spanish"]
 # Define OpenAI names
 OPENAI_NAMES = {
     "davinci": "gpt3-davinci",
@@ -99,7 +100,8 @@ def load_tokenizer(model_name):
 def load_prompts(model_name, attribute, variable):
 
     # Overt prejudice prompts
-    if variable == "race":
+    #if variable == "race":
+    if variable in OVERT_TOPICS:
         prompts = prompting.RACE_PROMPTS
 
     # Covert prejudice prompts
