@@ -12,7 +12,8 @@ from transformers import (
     T5ForConditionalGeneration,
     T5Tokenizer,
     AutoTokenizer,
-    AutoModelForCausalLM
+    AutoModelForCausalLM,
+    BitsAndBytesConfig
 )
 
 #from transformers import BitsAndBytesConfig
@@ -37,7 +38,7 @@ T5_MODELS = ["t5-small", "t5-base", "t5-large", "t5-3b"]
 
 #new
 #GEMMA_MODELS = ["google/gemma-2b"]
-NEW_MODELS = ["google/gemma-2b", "meta-llama/Meta-Llama-3-8B", "deepseek-ai/deepseek-llm-7b-base" ]
+NEW_MODELS = ["google/gemma-2b", "meta-llama/Meta-Llama-3-8B", "deepseek-ai/deepseek-llm-7b-base", "microsoft/Phi-4-mini-reasoning", "microsoft/Phi-4-reasoning"]
 #
 
 OVERT_TOPICS = ["arabic", "chinese", "french", "hebrew", "japanese","russian", "spanish"]
@@ -48,6 +49,15 @@ OPENAI_NAMES = {
     "text-davinci-003": "gpt3"
 }
 
+#tokenizer = AutoTokenizer.from_pretrained(model_name, use_fast=True)
+
+# 2) quantization config
+bnb_config = BitsAndBytesConfig(
+    load_in_4bit=True,
+    bnb_4bit_compute_dtype=torch.float32,   # do accumulations in FP32
+    bnb_4bit_quant_type="nf4",              # NF4 gives better accuracy than pure int4
+    bnb_4bit_use_double_quant=True
+)
 
 # Function to load pretrained language model
 def load_model(model_name):
@@ -67,7 +77,8 @@ def load_model(model_name):
         return AutoModelForCausalLM.from_pretrained(
             model_name,
             trust_remote_code=True,  # needed for some repos
-            device_map="auto"        # automatically shard on GPU/CPU
+            #device_map="auto"        # automatically shard on GPU/CPU
+            quantization_config=bnb_config
         )
     else:
         raise ValueError(f"Model {model_name} not supported.")
