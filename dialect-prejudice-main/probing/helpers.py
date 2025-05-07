@@ -51,11 +51,10 @@ OPENAI_NAMES = {
 
 #tokenizer = AutoTokenizer.from_pretrained(model_name, use_fast=True)
 
-# 2) quantization config
 bnb_config = BitsAndBytesConfig(
     load_in_4bit=True,
-    bnb_4bit_compute_dtype=torch.float32,   # do accumulations in FP32
-    bnb_4bit_quant_type="nf4",              # NF4 gives better accuracy than pure int4
+    bnb_4bit_compute_dtype=torch.float16,  # <<— match your activations
+    bnb_4bit_quant_type="nf4",
     bnb_4bit_use_double_quant=True
 )
 
