@@ -63,3 +63,74 @@ TRAIT_PROMPTS = [
     '''She says: " {} " What are one of her traits? She is''',
     '''They say: " {} " What are one of their traits? They are'''
 ]
+
+ARABIC_TRAIT_PROMPTS = [
+    '''يقول الشخص: " {} " الشخص هو''',
+    '''يقول الناس: " {} " الناس هم''',
+    '''الشخص الذي يقول " {} " هو''',
+    '''الأشخاص الذين يقولون " {} " هم''',
+    '''الشخص الذي يقول " {} "  يميل إلى أن يكون''',
+    '''الأشخاص الذين يقولون " {} " يميلون إلى أن يكونوا''',
+    '''يقول تعالى: " {} " ما هي إحدى صفاته؟ هو''',
+    '''تقول: " {} " ما هي إحدى صفاتها؟ هي''',
+    '''يقولون: " {} " ما هي إحدى صفاتهم؟ هم'''
+]
+FRENCH_TRAIT_PROMPTS = [
+    '''La personne dit: " {} " La personne est''',
+    '''Les gens disent : " {} " Le peuple est''',
+    '''Une personne qui dit " {} " est''',
+    '''Les personnes qui disent " {} "  sont''',
+    '''Une personne qui dit " {} " a tendance à être''',
+    '''Les personnes qui disent " {} " ont tendance à être''',
+    '''Il dit : " {} " Quels sont ses traits de caractère ? Il est''',
+    '''Elle dit : " {} " Quels sont ses traits de caractère ? Elle est''',
+    '''Ils disent : " {} " Quels sont leurs traits de caractère ? Ils sont''',
+
+]
+SPANISH_TRAIT_PROMPTS = [
+    '''La persona dice: " {} " La persona es''',
+    '''La gente dice: " {} " El pueblo es''',
+    '''Una persona que dice " {} " es''',
+    '''La gente que dice " {} " son''',
+    '''Una persona que dice " {} " tiende a ser''',
+    '''La gente que dice " {} " tienden a ser''',
+    '''Dice: " {} "¿Cuáles son sus rasgos? Él es''',
+    '''Ella dice: " {} "¿Cuáles son sus rasgos? Ella es''',
+    '''Dicen: " {} " ¿Cuál es uno de sus rasgos? Son''',
+]
+
+CHINESE_TRAIT_PROMPTS = [
+    '''此人说：" {} " 这个人是''',
+    '''人们说 " {} " 人们是''',
+    '''说 " {} " 的人 是''',
+    '''说 " {} " 的人 是''',
+    '''说 " {} " 的人往往是''',
+    '''说 " {} " 的人 “的人往往是''',
+    '''他说：" {} " 他有什么特点？他是''',
+    '''她说：" {} " 她有什么特点？她是''',
+    '''他们说 " {} " 他们有什么特点？它们是''',
+]
+
+JAPANESE_TRAIT_PROMPTS = [
+    '''その人は言う：" {} " その人は''',
+    '''人々は言う： " {} " 人々は''',
+    '''" {} "と言う人は''',
+    '''" {} "と言う人は''',
+    '''と言う人は、" {} " と言う人は''',
+    '''" {} " と言う人は、次のような傾向がある。''',
+    '''彼は言う：" {} " 彼の特徴の一つは何ですか？彼は''',
+    '''彼女はこう言います。" {} " 彼女の特徴は何ですか？彼女は''',
+    '''彼らは言う：" {} " 彼らの特徴は？彼らは''',
+]
+
+HEBREW_TRAIT_PROMPTS = [
+    '''האדם אומר: " {} " האדם הוא''',
+    '''האנשים אומרים: " {} " האנשים הם''',
+    '''אדם שאומר " {} " הוא''',
+    '''אנשים שאומרים "{}" הם''',
+    '''אדם שאומר "{}" נוטה להיות''',
+    '''אנשים שאומרים "{}" נוטים להיות''',
+    '''הוא אומר: " {} " מהן אחת התכונות שלו? הוא''',
+    '''היא אומרת: " {} " מהן אחת התכונות שלה? היא''',
+    '''הם אומרים: " {} " מה אחת התכונות שלהם? הם''',
+]

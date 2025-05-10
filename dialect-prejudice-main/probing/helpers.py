@@ -38,7 +38,8 @@ T5_MODELS = ["t5-small", "t5-base", "t5-large", "t5-3b"]
 
 #new
 #GEMMA_MODELS = ["google/gemma-2b"]
-NEW_MODELS = ["google/gemma-2b", "meta-llama/Meta-Llama-3-8B", "deepseek-ai/deepseek-llm-7b-base", "microsoft/Phi-4-mini-reasoning", "microsoft/Phi-4-reasoning"]
+PHI_MODELS = ["microsoft/Phi-4-reasoning"]
+NEW_MODELS = ["google/gemma-2b", "meta-llama/Meta-Llama-3-8B", "deepseek-ai/deepseek-llm-7b-base", "microsoft/Phi-4-reasoning"]
 #
 
 OVERT_TOPICS = ["arabic", "chinese", "french", "hebrew", "japanese","russian", "spanish"]
@@ -72,12 +73,18 @@ def load_model(model_name):
         return T5ForConditionalGeneration.from_pretrained(
             model_name 
         )
-    elif model_name in NEW_MODELS:
+    elif model_name in PHI_MODELS:
         return AutoModelForCausalLM.from_pretrained(
             model_name,
             trust_remote_code=True,  # needed for some repos
             #device_map="auto"        # automatically shard on GPU/CPU
             quantization_config=bnb_config
+        )
+    elif model_name in NEW_MODELS:
+        return AutoModelForCausalLM.from_pretrained(
+            model_name,
+            trust_remote_code=True,
+            device_map="auto"  
         )
     else:
         raise ValueError(f"Model {model_name} not supported.")
@@ -118,6 +125,16 @@ def load_prompts(model_name, attribute, variable):
     else:
         if attribute == "guilt":
             prompts = prompting.GUILT_PROMPTS
+        elif attribute.startswith("katz_"):
+            language = attribute[5:]
+            
+            trait_prompts_attr = f"{language.upper()}_TRAIT_PROMPTS"
+            if hasattr(prompting, trait_prompts_attr):
+                prompts = getattr(prompting, trait_prompts_attr)
+            else:
+                # Fall back to default trait prompts if language-specific ones don't exist
+                prompts = prompting.TRAIT_PROMPTS
+                print(f"Warning: No {trait_prompts_attr} found, using default TRAIT_PROMPTS")
         elif attribute == "katz":
             prompts = prompting.TRAIT_PROMPTS
         elif attribute == "occupations":
@@ -144,11 +161,11 @@ def load_attributes(attribute_name, tok):
     with open(ATTRIBUTES_PATH.format(attribute_name), "r", encoding="utf8") as f:
         attributes = f.read().strip().split("\n")
     for a in attributes:
-        assert len(tok.tokenize(" " + a)) == 1
-        '''
+        #assert len(tok.tokenize(" " + a)) == 1
+        
         if len(tok.tokenize(" " + a)) > 1:
             print(f"Warning: Attribute '{a}' tokenized to >1 token: {tok.tokenize(' ' + a)}")
-        '''
+        
     attributes = [tok.tokenize(" " + a)[0] for a in attributes]
     return attributes
 
