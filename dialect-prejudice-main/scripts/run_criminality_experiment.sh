@@ -3,52 +3,30 @@
 parent_path=$( cd "$(dirname "${BASH_SOURCE[0]}")" ; pwd -P )
 cd "$parent_path"
 
-for variable in groenwold blodgett
+for model in deepseek-ai/deepseek-llm-7b-base meta-llama/Meta-Llama-3-8B
 do
-    for model in gpt2 gpt2-medium gpt2-large gpt2-xl roberta-base roberta-large t5-small t5-base t5-large t5-3b
+    for variable in arb_Arab fra_Latn heb_Hebr jpn_Jpan spa_Latn zho_Hans
     do
         python3.10 -u ../probing/mgp.py \
         --model $model \
         --variable $variable \
         --attribute penalty \
         --calibrate \
-        --device "$1"
+        --device 0
     done
 
-    python3.10 -u ../probing/mgp_gpt3.py \
-    --model text-davinci-003 \
-    --variable $variable \
-    --attribute penalty \
-    --calibrate
-
-    python3.10 -u ../probing/mgp_gpt4.py \
-    --model gpt-4-0613 \
-    --variable $variable \
-    --attribute penalty \
-    --calibrate
 done
 
-for variable in groenwold blodgett
+for model in meta-llama/Meta-Llama-3-8B deepseek-ai/deepseek-llm-7b-base
 do
-    for model in gpt2 gpt2-medium gpt2-large gpt2-xl roberta-base roberta-large
+    for variable in arb_Arab fra_Latn heb_Hebr jpn_Jpan spa_Latn zho_Hans
     do
         python3.10 -u ../probing/mgp.py \
         --model $model \
         --variable $variable \
         --attribute guilt \
         --calibrate \
-        --device "$1"
+        --device 0
     done
 
-    python3.10 -u ../probing/mgp_gpt3.py \
-    --model text-davinci-003 \
-    --variable $variable \
-    --attribute guilt \
-    --calibrate
-
-    python3.10 -u ../probing/mgp_gpt4.py \
-    --model gpt-4-0613 \
-    --variable $variable \
-    --attribute guilt \
-    --calibrate
 done

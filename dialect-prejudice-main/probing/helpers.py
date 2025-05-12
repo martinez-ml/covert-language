@@ -84,7 +84,8 @@ def load_model(model_name):
         return AutoModelForCausalLM.from_pretrained(
             model_name,
             trust_remote_code=True,
-            device_map="auto"  
+            device_map="auto",
+            torch_dtype=torch.float16
         )
     else:
         raise ValueError(f"Model {model_name} not supported.")
