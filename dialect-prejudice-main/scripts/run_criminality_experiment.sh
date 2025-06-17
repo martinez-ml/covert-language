@@ -3,7 +3,7 @@
 parent_path=$( cd "$(dirname "${BASH_SOURCE[0]}")" ; pwd -P )
 cd "$parent_path"
 
-for model in deepseek-ai/deepseek-llm-7b-base meta-llama/Meta-Llama-3-8B
+for model in meta-llama/Meta-Llama-3-8B
 do
     for variable in arb_Arab fra_Latn heb_Hebr jpn_Jpan spa_Latn zho_Hans
     do
