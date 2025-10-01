@@ -16,8 +16,8 @@ All requirements can be found in `requirements.txt`. If you use `conda`, create 
 ```
 conda create -n dialect-prejudice python=3.10
 conda activate dialect-prejudice
-git clone https://github.com/valentinhofmann/dialect-prejudice.git
-cd dialect-prejudice
+git clone https://github.com/martinez-ml/covert-language
+cd covert-language
 pip install -r requirements.txt
 ```
 
