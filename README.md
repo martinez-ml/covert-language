@@ -6,7 +6,7 @@
 
 ## Overview
 
-This is the repository for my project, with the help of Professor Nikhil Singh from Dartmouth College, that explores overt and ccovert bias towards languages. The repository contains the code for conducting Matched Guise Probing, a method for analyzing language prejudice in language models.
+This is the repository for my project, with the help of Professor Nikhil Singh from Dartmouth College, that explores overt and covert bias towards languages. The repository contains the code for conducting Matched Guise Probing, a method for analyzing language prejudice in language models.
 
 
 ## Setup
