@@ -1,5 +1,5 @@
 
-# Language Prejudice Prejudice in Language Models
+# Language Prejudice in Language Models
 
 
 
