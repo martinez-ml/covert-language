@@ -5,6 +5,7 @@ cd "$parent_path"
 #arb_Arab fra_Latn heb_Hebr jpn_Jpan rus_Cyrl spa_Latn zho_Hans
 #arabic chinese french hebrew japanese russian spanish
 #google/gemma-2b deepseek-ai/deepseek-llm-7b-base meta-llama/Meta-Llama-3-8B
+
 declare -A lang_map
 lang_map["arb_Arab"]="arabic"
 lang_map["fra_Latn"]="french"

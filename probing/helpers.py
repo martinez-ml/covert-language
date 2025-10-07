@@ -36,11 +36,10 @@ GPT2_MODELS = ["gpt2", "gpt2-medium", "gpt2-large", "gpt2-xl"]
 ROBERTA_MODELS = ["roberta-base", "roberta-large"]
 T5_MODELS = ["t5-small", "t5-base", "t5-large", "t5-3b"]
 
-#new
-#GEMMA_MODELS = ["google/gemma-2b"]
+
 PHI_MODELS = ["microsoft/Phi-4-reasoning"]
 NEW_MODELS = ["google/gemma-2b", "meta-llama/Meta-Llama-3-8B", "deepseek-ai/deepseek-llm-7b-base", "microsoft/Phi-4-reasoning"]
-#
+
 
 OVERT_TOPICS = ["arabic", "chinese", "french", "hebrew", "japanese","russian", "spanish"]
 # Define OpenAI names
@@ -50,11 +49,10 @@ OPENAI_NAMES = {
     "text-davinci-003": "gpt3"
 }
 
-#tokenizer = AutoTokenizer.from_pretrained(model_name, use_fast=True)
 
 bnb_config = BitsAndBytesConfig(
     load_in_4bit=True,
-    bnb_4bit_compute_dtype=torch.float16,  # <<— match your activations
+    bnb_4bit_compute_dtype=torch.float16,  
     bnb_4bit_quant_type="nf4",
     bnb_4bit_use_double_quant=True
 )
@@ -76,8 +74,8 @@ def load_model(model_name):
     elif model_name in PHI_MODELS:
         return AutoModelForCausalLM.from_pretrained(
             model_name,
-            trust_remote_code=True,  # needed for some repos
-            #device_map="auto"        # automatically shard on GPU/CPU
+            trust_remote_code=True, 
+            #device_map="auto"       
             quantization_config=bnb_config
         )
     elif model_name in NEW_MODELS:
