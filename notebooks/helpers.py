@@ -14,122 +14,57 @@ ATTRIBUTES_PATH = os.path.abspath("../data/attributes/{}.txt")
 VARIABLES_PATH = os.path.abspath("../data/pairs/{}.txt")
 
 # Define path to continuation probabilities
-PROBS_PATH = os.path.abspath("../probing/probs/")
+PROBS_PATH = os.path.abspath("../scripts/probs/")
 
 # Define path to perplexity values
 PPLS_PATH = os.path.abspath("../perplexity/ppls/")
 
 # Define model groups
-GEMMA_MODELS = ["google/gemma-2b"]
-LLAMA_MODELS = ["meta-llama/Llama-2-7b-hf"]
+NEW_MODELS = [#"google/gemma-2b", 
+              "meta-llama-Meta-Llama-3-8B", 
+              #"deepseek-ai/deepseek-llm-7b-base", "microsoft/Phi-4-reasoning"
+              ]
 
-# Define model groups
-GPT2_MODELS = [
-    "gpt2", 
-    "gpt2-medium", 
-    "gpt2-large", 
-    "gpt2-xl"
-]
-PRETTY_GPT2_MODELS = [
-    "GPT2 (base)",
-    "GPT2 (medium)",
-    "GPT2 (large)",
-    "GPT2 (xl)"
-]
-GPT3_MODELS = [
-    "gpt3"
-]
-PRETTY_GPT3_MODELS = [
-    "GPT3.5"
-]
-GPT4_MODELS = [
-    "gpt4"
-]
-PRETTY_GPT4_MODELS = [
-    "GPT4"
-]
-ROBERTA_MODELS = [
-    "roberta-base", 
-    "roberta-large"
-]
-PRETTY_ROBERTA_MODELS = [
-    "RoBERTa (base)",
-    "RoBERTa (large)"
-]
-T5_MODELS = [
-    "t5-small", 
-    "t5-base", 
-    "t5-large", 
-    "t5-3b"
-]
-PRETTY_T5_MODELS = [
-    "T5 (small)",
-    "T5 (base)",
-    "T5 (large)",
-    "T5 (3b)"
-]
-FAMILIES = [
-    "gpt2", 
-    "roberta", 
-    "t5", 
-    "gpt3",
-    "gpt4"
-]
-PRETTY_FAMILIES = [
-    "GPT2",
-    "RoBERTa",
-    "T5",
-    "GPT3.5",
-    "GPT4"
-]
-MODELS = (
-    GPT2_MODELS + 
-    ROBERTA_MODELS + 
-    T5_MODELS + 
-    GPT3_MODELS + 
-    GPT4_MODELS +
-    GEMMA_MODELS +
-    LLAMA_MODELS
-)
-PRETTY_MODELS = (
-    PRETTY_GPT2_MODELS + 
-    PRETTY_ROBERTA_MODELS + 
-    PRETTY_T5_MODELS + 
-    PRETTY_GPT3_MODELS +
-    PRETTY_GPT4_MODELS
-)
+GEMMA_MODELS = ["google/gemma-2b"]
+LLAMA3_MODELS = ["meta-llama-Meta-Llama-3-8B"]
+DEEPSEEK_MODELS = ["deepseek-ai/deepseek-llm-7b-base"]
+PHI_MODELS = ["microsoft/Phi-4-reasoning"]
+
+NEW_MODEL_PRETTY = {
+    "google/gemma-2b": "Gemma 2B",
+    "meta-llama-Meta-Llama-3-8B": "Llama 3 (8B)",
+    "deepseek-ai/deepseek-llm-7b-base": "DeepSeek LLM 7B (base)",
+    "microsoft/Phi-4-reasoning": "Phi-4 (reasoning)",
+}
+
+FAMILIES = [#"gemma", 
+            "llama3",
+              #"deepseek", "phi4"
+              ]
+PRETTY_FAMILIES = ["Gemma", "Llama 3", "DeepSeek", "Phi-4"]
+
+MODELS = NEW_MODELS
+PRETTY_MODELS = [NEW_MODEL_PRETTY[m] for m in NEW_MODELS]
 
 # Define variable groups
 UNPOOLED_VARIABLES = [
+    'spa_Latn',
+    'spanish',
+    'arabic',
+    'arb_Arab',
+    'en-ar_combined',
     'output2',
     'output',
-    "groenwold", 
-    "g_dropping", 
-    "aint", 
-    "habitual", 
-    "been", 
-    "stay", 
-    "copula",
-    "inflection",
-    "finna",
-    "race"
 ]
 POOLED_VARIABLES = ["blodgett"]
 
 
 def model2model_size(model):
     model_sizes = {
-        "GPT2 (base)": 117e6,
-        "GPT2 (medium)": 345e6,
-        "GPT2 (large)": 774e6,
-        "GPT2 (xl)": 1.558e9,
-        "GPT3.5": 175e9,
-        "RoBERTa (base)": 125e6,
-        "RoBERTa (large)": 355e6,
-        "T5 (small)": 60e6,
-        "T5 (base)": 220e6,
-        "T5 (large)": 770e6,
-        "T5 (3b)": 2.8e9   
+        "google/gemma-2b": 2e9,
+        "meta-llama-Meta-Llama-3-8B": 8e9,
+        "deepseek-ai/deepseek-llm-7b-base": 7e9,
+        "microsoft/Phi-4-reasoning": 70e9,
     }
     return model_sizes[model]
 
@@ -146,73 +81,55 @@ def size2class(size):
 
 
 def model2family(model):
-    if model in GPT2_MODELS:
-        return "gpt2"
-    elif model in GPT3_MODELS:
-        return "gpt3"
-    elif model in GPT4_MODELS:
-        return "gpt4"
-    elif model in ROBERTA_MODELS:
-        return "roberta"
-    elif model in T5_MODELS:
-        return "t5"
-    elif model in GEMMA_MODELS:
+    if model in GEMMA_MODELS:
         return "gemma"
-    
+    if model in LLAMA3_MODELS:
+        return "llama3"
+    if model in DEEPSEEK_MODELS:
+        return "deepseek"
+    if model in PHI_MODELS:
+        return "phi4"    
 
 def pretty_model2family(model):
-    if model in PRETTY_GPT2_MODELS:
-        return "gpt2"
-    elif model in PRETTY_GPT3_MODELS:
-        return "gpt3"
-    elif model in PRETTY_GPT4_MODELS:
-        return "gpt4"
-    elif model in PRETTY_ROBERTA_MODELS:
-        return "roberta"
-    elif model in PRETTY_T5_MODELS:
-        return "t5"
-    elif model in GEMMA_MODELS:
+    if model in GEMMA_MODELS:
         return "gemma"
+    if model in LLAMA3_MODELS:
+        return "llama3"
+    if model in DEEPSEEK_MODELS:
+        return "deepseek"
+    if model in PHI_MODELS:
+        return "phi4"    
 
 
 def family2models(family):
-    if family == "gpt2":
-        return GPT2_MODELS
-    elif family == "gpt3":
-        return GPT3_MODELS
-    elif family == "gpt4":
-        return GPT4_MODELS
-    elif family == "roberta":
-        return ROBERTA_MODELS
-    elif family == "t5":
-        return T5_MODELS
-    elif family == 'gemma':
+    if family == "gemma":
         return GEMMA_MODELS
+    elif family == "llama3":
+        return LLAMA3_MODELS
+    elif family == "deepseek":
+        return DEEPSEEK_MODELS
+    elif family == "phi4":
+        return PHI_MODELS
+
     
 
 def family2pretty_models(family):
-    if family == "gpt2":
-        return PRETTY_GPT2_MODELS
-    elif family == "gpt3":
-        return PRETTY_GPT3_MODELS
-    elif family == "gpt4":
-        return PRETTY_GPT4_MODELS
-    elif family == "roberta":
-        return PRETTY_ROBERTA_MODELS
-    elif family == "t5":
-        return PRETTY_T5_MODELS
-    elif family == 'gemma':
+    if family == "gemma":
         return GEMMA_MODELS
+    elif family == "llama3":
+        return LLAMA3_MODELS
+    elif family == "deepseek":
+        return DEEPSEEK_MODELS
+    elif family == "phi4":
+        return PHI_MODELS
 
 
 def pretty_family(family):
     pretty_dict = {
-        "gpt2": "GPT2",
-        "gpt3": "GPT3.5",
-        "gpt4": "GPT4",
-        "roberta": "RoBERTa",
-        "t5": "T5",
-        "gemma": "google/gemma-2b"
+        "gemma": "Gemma",
+        "llama3": "Llama 3",
+        "deepseek": "DeepSeek",
+        "phi4": "Phi-4",
     }
     return pretty_dict[family]
 
@@ -294,8 +211,11 @@ def results2df_unpooled(
                 else:
                     prob_aave = result_list[i][3][a_idx]
                     prob_sae = result_list[i+1][3][a_idx]
+
+                with np.errstate(divide='ignore', invalid='ignore'):
+                    ratio = np.log10(np.divide(prob_aave, prob_sae))
                 ratio_list.append((
-                    np.log10(prob_aave / prob_sae), # Probability change for trait
+                    ratio, # Probability change for trait
                     result_list[i+1][0], # Variable word/tweet (given in standard form)
                     attributes_prompt[a_idx], # Attribute
                     prompt, # Prompt
