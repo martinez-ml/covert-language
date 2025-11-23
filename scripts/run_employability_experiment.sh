@@ -3,24 +3,17 @@
 parent_path=$( cd "$(dirname "${BASH_SOURCE[0]}")" ; pwd -P )
 cd "$parent_path"
 
-for variable in groenwold blodgett
-do
-    for model in gpt2 gpt2-medium gpt2-large gpt2-xl roberta-base roberta-large t5-small t5-base t5-large t5-3b
+#en-ar_combined en-es_combined en-fr_combined en-he_combined en-ja_combined en-zh_combined 
+#google/gemma-2b deepseek-ai/deepseek-llm-7b-base meta-llama/Meta-Llama-3-8B microsoft/Phi-4-reasoning
+for model in meta-llama/Meta-Llama-3-8B
     do
-        python3.10 -u ../probing/mgp.py \
+    for variable in en-ar_combined en-es_combined en-fr_combined en-he_combined en-ja_combined en-zh_combined 
+    do
+        python -u ../probing/mgp.py \
         --model $model \
         --variable $variable \
         --attribute occupations \
-        --device "$1"
+        --device 0 \
+        --calibrate
     done
-
-    python3.10 -u ../probing/mgp_gpt3.py \
-    --model text-davinci-003 \
-    --variable $variable \
-    --attribute occupations
-
-    python3.10 -u ../probing/mgp_gpt4.py \
-    --model gpt-4-0613 \
-    --variable $variable \
-    --attribute occupations
 done
