@@ -20,6 +20,8 @@ git clone https://github.com/martinez-ml/covert-language
 cd covert-language
 pip install -r requirements.txt
 ```
+For my experiments, I used the FLORES-101 dataset, extracted from English Wikipedia and covering a variety of different topics and domains.
+Available here: https://huggingface.co/datasets/gsarti/flores_101
 
 ## Usage
 
